@@ -4,7 +4,7 @@ date: 2022-12-28T23:08:28-08:00
 draft: false
 categories: ["guide"]
 ---
-Note: This post has the same content from [this sfuia blog](https://www.sfuia.com/blog/university-transfer-benefits-and-tips). I cross-post it as I was the writer and want to provide more content to my personal website. Hope you enjoy it!
+Note: This post has the same content from [this sfu blog](https://www.sfuia.com/blog/university-transfer-benefits-and-tips). I cross-post it as I was the writer and want to provide more content to my personal website. Hope you enjoy it!
 
 ## Intro
 Studying in Canada can be a very costly decision. Especially for those who have just finished high school, it can be daunting for many of us to whether we choose the career that we want. Going to community college can ease that decision.

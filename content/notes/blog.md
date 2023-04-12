@@ -1,5 +1,4 @@
 ---
-title: Blog
 enableToc: false
 ---
 
