@@ -7,7 +7,7 @@ categories: ["books"]
 ## Software 
 - [TickTick](https://ticktick.com/webapp/) serves as my to-do list x habit tracker x pomodoro timer
 - Learning [Obsidian](https://obsidian.md/) to capture my thoughts
-- Still using [Notion] from time to time mainly for its tables and collaboration features
+- I also use [Notion](https://notion.so/) occassionally for its tables and collaboration features
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) and [Forest](https://www.forestapp.cc/) have helped me to be indistractable
 - [one sec](https://one-sec.app/) and [Opal](https://www.opal.so/) have also helped me tremendously in reducing my phone's social media and screen time consumption
 
