@@ -1,5 +1,5 @@
 ---
-title: brianrahadi's home
+title: 🏡 Home
 enableToc: false
 ---
 
