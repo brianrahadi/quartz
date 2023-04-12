@@ -1,5 +1,5 @@
 ---
-title: 🪴 About Me
+title: brianrahadi's home
 enableToc: false
 ---
 
