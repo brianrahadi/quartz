@@ -1,29 +1,18 @@
 ---
-title: 🪴 Quartz 3.3
+title: 🪴 About Me
 enableToc: false
 ---
 
-Brian Rahadi
+Hello! I'm Brian. Currently studying Software Systems (subset of CS) at Simon Fraser University.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I really like software because of how it can magically improves human lives and is almost as it is infinitely scalable while doing so. 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I am interested in all things software. From designing beautiful interfaces, using different programming paradigms, to learning how distributed systems powers the internet as it is today.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+I like sharing things on the internet. Below are some of it:
+- [Experience](notes/experience.md) or summary of what I have been doing
+- [Projects](notes/projects.md) I (and my teammates) have built
+- [Tools](notes/tools.md) that have helped me tremendously
+- [Books](notes/books.md) I have read
+- [Blog](notes/blog.md) containing my amateur writings
+- [Restaurants](https://brianrahadi.notion.site/Restaurant-Reviews-2762ef471f4c44bf8221683723835e87) I have been to (notion page for now)
