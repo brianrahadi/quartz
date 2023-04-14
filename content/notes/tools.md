@@ -3,6 +3,7 @@ title: "Tools"
 draft: false
 categories: ["books"]
 ---
+Tools are helpful things I found to enjoy using. It's a notable list of any software and hardware I use daily. My enjoyment of using software that helps people live better kinda pulled me into my current major.
 
 ## Software 
 - [TickTick](https://ticktick.com/webapp/) serves as my to-do list x habit tracker x pomodoro timer

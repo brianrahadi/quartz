@@ -4,6 +4,8 @@ date: 2022-10-10T22:03:02-08:00
 draft: false
 ---
 
+Experience consists of my recent education, work and organization experiences, and also courses I have taken in my undergraduate years.
+
 ## Education
 
 > **Simon Fraser University** (May 2022 - Apr. 2024 Expected) <br>

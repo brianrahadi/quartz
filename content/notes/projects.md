@@ -3,8 +3,7 @@ title: "Projects"
 date: 2022-08-22T10:20:08-08:00
 draft: false
 ---
-
-One of the reasons why I liked software is how easy it is to build things with minimal tools (just a laptop and an internet!).
+Projects can be of many things, but here I am focusing on software-related projects that I build in hackathons, personal, or academic-related project.
 
 ---
 
