@@ -7,3 +7,6 @@
 
 ## How could I have made today better?
 
+
+
+## Notes
