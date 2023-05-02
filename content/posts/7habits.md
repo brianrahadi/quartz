@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - 7 Habits of Highly Effective Teens"
+title: "7 Habits of Highly Effective Teens"
 date: 2021-11-22T10:15:28-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 > We need a paradigm, paradigm is the way you see something, your point of view. Paradigms need to be principle-centered

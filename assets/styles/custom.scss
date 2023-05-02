@@ -27,5 +27,84 @@
   --highlighted: #574010;
 }
 
+.container {
+  display: flex;
+  @media screen and (max-width: 1440px) {
+    flex-direction: column;
+    gap: 4em;
+  }
 
+  gap: 1em;
+
+  article {
+    flex: 2;
+  }
+
+  .sidebar {
+    padding: 1em;
+    border: 1px dashed var(--dark);
+    flex: 1;
+  }
+}
+
+ul.post-lists {
+  padding-inline-start: 0px;
+  li {
+    list-style-type: none;
+    margin: 0px;
+    p {
+      margin-block-start: 0px;
+      margin-block-end: 0px;
+    }
+  }
+}
+
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.delay {
+  animation: fadeIn ease 0.5s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+
+  &.t-1 {
+    animation-delay: 0.5s;
+  }
+
+  &.t-2 {
+    animation-delay: 1s;
+  }
+
+  &.t-3 {
+    animation-delay: 1.2s;
+  }
+
+  &.t-4 {
+    animation-delay: 1.5s;
+  }
+
+  &.t-5 {
+    animation-delay: 1.8s;
+  }
+
+  @for $j from 1 through 5 {
+  @for $i from 1 through 10 {
+  &.stagger:nth-last-of-type(#{$j}) > *:nth-child(#{$i}) {
+    animation: fadeIn ease 0.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+    animation-delay: #{$i * .3 + 0.5}s;
+    z-index: #{-$i + 10 * ($j+1)};
+    position: relative;
+  }
+  }
+  }
+}
 

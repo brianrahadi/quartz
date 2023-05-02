@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - Deep Work"
+title: "Deep Work"
 date: 2021-11-22T10:20:08-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 

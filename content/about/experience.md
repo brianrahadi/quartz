@@ -25,8 +25,11 @@ Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-
 
 
 ## Organization Experience
+> **Web Developer at SFU Software Systems Student Society** (Nov. 2022 - Present) <br>
+> Develops websites at [sfussss.org](https://www.sfussss.org/) and [systemshacks.sfussss.org](https://systemshacks.sfussss.org/)
+
 > **Lead Web Developer at SFUIA** (Aug. 2022 - Present) <br>
-> Manages website and social media, also chilling with fellow peeps
+> Spearheads [website](https://www.sfuia.com/) and manages social media, also chilling with fellow indonesians
 
 > **Vice Lead at Google DSC Langara College** (Jul. 2021 - Apr. 2022) <br>
 > Hosted some tech topics in Langara (place before I transfer)
@@ -72,21 +75,21 @@ Note:
 - TA <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">CPSC 1045</a> (1) and <a href="https://langara.ca/programs-and-courses/courses/CPSC/1155.html" target="_blank">CPSC 1155</a> (1)
 
 
-**[Summer 2022](notes/term-review-2022summer)**
+**[Summer 2022](posts/term-review-2022summer)**
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/cmpt/295.html" target="_blank">CMPT 295 - Computer Systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/cmpt/276.html" target="_blank">CMPT 276 - Introduction to Software Engineering</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/cmpt/213.html" target="_blank">CMPT 213 - Object Oriented Design in Java</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/educ/100w.html" target="_blank">EDUC 100W - Selected Questions and Issues in Education</a>
 - TA <a href="https://langara.ca/programs-and-courses/courses/CPSC/1030.html" target="_blank">CPSC 1030</a> (1/2), <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">CPSC 1045</a> (1/2), and <a href="https://langara.ca/programs-and-courses/courses/CPSC/1150.html" target="_blank">CPSC 1150</a> (1)
 
-**[Fall 2022](notes/term-review-2022fall)**
+**[Fall 2022](posts/term-review-2022fall)**
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/307.html" target="_blank">CMPT 300 - Operating Systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/371.html" target="_blank">CMPT 371 - Networking I</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/383.html" target="_blank">CMPT 383 - Comparative Programming Languages</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/272.html" target="_blank">CMPT 272 - Web I - Client-side Web Development</a>
 - TA <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">CPSC 1045</a> (1)
 
-**[Spring 2023](notes/term-review-2023spring)**
+**[Spring 2023](posts/term-review-2023spring)**
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/431.html" target="_blank">CMPT 431 - Distributed Systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/307.html" target="_blank">CMPT 307 - Data Structures and Algorithms</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/363.html" target="_blank">CMPT 363 - User Interface Design</a>

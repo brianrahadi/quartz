@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - Atomic Habits"
+title: "Atomic Habits"
 date: 2021-11-22T09:33:41-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 > ”We are what we repeatedly do. Excellence is not an act, but a habit.”                 - Aristotle

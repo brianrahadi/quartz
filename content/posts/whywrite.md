@@ -2,7 +2,7 @@
 title: "Why you should write more ✍(◔◡◔)"
 date: 2021-12-10T20:10:00-08:00
 draft: false
-categories: ["writings"]
+tags: ["writings"]
 ---
 
 In my transition period from junior high to high school years, I used to be paid to write. Sounds cool at first, until I told everyone that I am just writing for a [game guide](https://bewient.wordpress.com/).

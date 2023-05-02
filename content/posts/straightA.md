@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - How to Become a Straight-A Student"
+title: "How to Become a Straight-A Student"
 date: 2021-11-22T10:06:57-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 > "The simple truth is that the brute force techniques used by most students are incredibly inefficient." - Cal Newport

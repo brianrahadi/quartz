@@ -2,7 +2,7 @@
 title: "Term Review - Fall 2022"
 date: 2022-12-20T14:23:20-08:00
 draft: false
-categories: ["term-review"]
+tags: ["term-review"]
 ---
 
 ## Intro

@@ -3,18 +3,40 @@
 {{ partial "head.html" . }}
 
 <body>
-{{partial "search.html" .}}
-<div class="singlePage">
+  {{partial "search.html" .}}
+  <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
-    <article>
+    <div class="container">
+      <article class="delay t-1">
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
+        {{partial "recent.html" . }}
         {{end}}
-    </article>
+      </article>
+      <div class="delay t-2 sidebar">
+        <h2>Recent Posts</h2>
+        {{$writing := where .Site.RegularPages "Section" "posts" }}
+        <ul class="post-lists">
+          {{range first 3 $writing }}
+          <li>
+            <div class="section">
+              <div class="desc">
+                <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+              </div>
+              <p class="meta">
+                {{.WordCount}} words on {{partial "date-fmt.html" .}}
+              </p>
+            </div>
+          </li>
+          {{end}}
+        </ul>
+        <a href="/posts">See {{sub (len $writing) 3}} more →</a>
+      </div>
+    </div>
     {{partial "footerIndex.html" .}}
-</div>
+  </div>
 </body>
+
 </html>

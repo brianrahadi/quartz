@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - The Almanack of Naval Ravikant"
+title: "The Almanack of Naval Ravikant"
 date: 2021-11-22T10:31:18-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 # Building Wealth

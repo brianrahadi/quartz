@@ -1,8 +1,8 @@
 ---
-title: "Book Summary - The Subtle Art of Not Giving a F*ck"
+title: "The Subtle Art of Not Giving a F*ck"
 date: 2021-11-22T10:39:31-08:00
 draft: false
-categories: ["books"]
+tags: ["books"]
 ---
 
 - Self-help advice which tells you to become the person you want to be only reinforces the idea that you are not that thing

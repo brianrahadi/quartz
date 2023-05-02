@@ -1,10 +1,10 @@
-
 ---
 title: "Langara CS to SFU CS/ SoSy Transfer Guide"
 date: 2022-06-27T14:54:10-07:00
 draft: false
-categories: ["guide"]
+tags: ["guide"]
 ---
+
 Last Updated: 28 June 2022
 ## Introduction
 Hello! My name is Brian. I have just transferred to Simon Fraser University's Software Systems program this summer after graduating from Langara with an Associate in Computer Science.
