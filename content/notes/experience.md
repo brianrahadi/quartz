@@ -86,8 +86,12 @@ Note:
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/272.html" target="_blank">CMPT 272 - Web I - Client-side Web Development</a>
 - TA <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">CPSC 1045</a> (1)
 
-**Spring 2023**
+**[Spring 2023](notes/term-review-2023spring)**
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/431.html" target="_blank">CMPT 431 - Distributed Systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/307.html" target="_blank">CMPT 307 - Data Structures and Algorithms</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/363.html" target="_blank">CMPT 363 - User Interface Design</a>
 - TA <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">CPSC 1050</a> (2)
+
+**Summer 2023**
+- Software Developer Co-op at [Visier](https://www.visier.com/)
+- [CMPT 415 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser ([website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home))

@@ -9,3 +9,4 @@ Some of my writings:
 - [Why You should Write More](notes/whywrite)
 - [Summer 2022 Term Review](notes/term-review-2022summer.md)
 - [Fall 2022 Term Review](notes/term-review-2022fall.md)
+- [Spring 2023 Term Review](notes/term-review-2023spring.md)

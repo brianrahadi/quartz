@@ -72,7 +72,7 @@ An improvement that could have been made is to have programming problems that re
 
 
 ### CMPT 272 - Web I - Client-side Development (Bobby Chan)
-**Experience**: 3/5 <br>
+**Experience**: 3.5/5 <br>
 **Pros**: Interesting topics, very hands-on lecture<br>
 **Cons**: Hands-on can be very hard if you don't understand, Hard-to-ace exams <br>
 **Self-feedback**: Annotate key topics as Bobby tends to be fast-paced

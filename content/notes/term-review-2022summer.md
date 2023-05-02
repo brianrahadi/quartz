@@ -33,7 +33,7 @@ Group project: [Amusement Park Website](../../projects/#parkland)
 
 
 ### CMPT 213 - Object Oriented Design in Java (Victor Cheung)
-**Experience**: 3/5 <br>
+**Experience**: 3.5/5 <br>
 **Pros**: Object Oriented Design concepts are useful for designing software <br>
 **Cons**: Lectures sometimes too theoretical and not have enough examples and looking things in a bigger picture
 **Self-feedback**: Make time to revise the topics and understand what it's use cases on the broader scope
