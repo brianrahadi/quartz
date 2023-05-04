@@ -8,14 +8,14 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <div class="container">
-      <article class="delay t-1">
+      <article class="delay t-1 stagger">
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
         {{partial "recent.html" . }}
         {{end}}
       </article>
-      <div class="delay t-2 sidebar">
+      <div class="delay t-3 sidebar">
         <h2>Recent Posts</h2>
         {{$writing := where .Site.RegularPages "Section" "posts" }}
         <ul class="post-lists">

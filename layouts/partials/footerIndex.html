@@ -1,6 +1,6 @@
 {{if $.Site.Data.config.enableFooter}}
   {{if $.Site.Data.graphConfig.enableGlobalGraph}}
-      <div class="page-end delay t-3" id="footer">
+      <div class="page-end delay t-4" id="footer">
 
         <div>
             {{partial "graph.html" .}}
@@ -8,8 +8,8 @@
 
       </div>
   {{else}}
-      <hr/>
-      <div class="page-end delay t-3" id="footer">
+      <hr class="delay t-4"/>
+      <div class="page-end delay t-4" id="footer">
         <div class="backlinks-container">
             {{partial "backlinks.html" .}}
         </div>
