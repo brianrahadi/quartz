@@ -19,7 +19,7 @@
         <h2>Recent Posts</h2>
         {{$writing := where .Site.RegularPages "Section" "posts" }}
         <ul class="post-lists">
-          {{range first 3 $writing }}
+          {{range first 4 $writing }}
           <li>
             <div class="section">
               <div class="desc">
@@ -32,7 +32,7 @@
           </li>
           {{end}}
         </ul>
-        <a href="/posts">See {{sub (len $writing) 3}} more →</a>
+        <a href="/posts">See {{sub (len $writing) 4}} more →</a>
       </div>
     </div>
     {{partial "footerIndex.html" .}}

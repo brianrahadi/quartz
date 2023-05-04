@@ -44,6 +44,10 @@
     padding: 1em;
     border: 1px dashed var(--dark);
     flex: 1;
+
+    h2 {
+      margin: 0;
+    }
   }
 }
 
