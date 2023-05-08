@@ -19,7 +19,7 @@
                 <p><b>{{ .Count }}</b> {{ i18n "notes_count" }} {{if gt .Count 10}}({{ i18n "first_10"}}){{end}}</p>
             </div>
             {{ with ($.Site.GetPage (printf "/tags/%s" .Page.Title)) }}
-            {{partial "page-list.html" (first 10 .Pages.ByLastmod.Reverse)}}
+            {{partial "page-list.html" (first 10 .Pages.ByPublishDate.Reverse)}}
             {{ end }}
             {{ end }}
         </div>
