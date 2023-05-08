@@ -1,7 +1,7 @@
 ---
 title: "Term Review - Spring 2023"
 date: 2023-05-01T15:19:14-07:00
-tags: ["term-review"]
+tags: ["term-review", "reflection"]
 draft: false
 ---
 ## Intro

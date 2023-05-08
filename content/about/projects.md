@@ -49,7 +49,7 @@ CRUD operation on reports is possible through the Data Manager API.
 
 Tech Stack: Angular, Angular Material, TypeScript, Leaflet, Mapbox API, Data Manager API
 
-<a target="_blank" href="https://github.com/brianrahadi/pig-locator">GitHub</a>&emsp;<a target="_blank" href="pig-locator.brianrahadi.com">Website</a>&emsp;<a target="_blank" href="https://www.youtube.com/watch?v=PiQZpUfYscM&ab_channel=BrianRahadi">Youtube</a>
+<a target="_blank" href="https://github.com/brianrahadi/pig-locator">GitHub</a>&emsp;<a target="_blank" href="https://pig-locator.brianrahadi.com">Website</a>&emsp;<a target="_blank" href="https://www.youtube.com/watch?v=PiQZpUfYscM&ab_channel=BrianRahadi">Youtube</a>
 
 ## The Movie Corner
 
