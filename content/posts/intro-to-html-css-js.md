@@ -1,5 +1,5 @@
 ---
-title: "Getting Your First CS Co-op"
+title: "Introduction to HTML/ CSS/ JavaScript Workshop"
 date: 2023-05-08T12:53:00-07:00
 draft: false
 tags: ["guide"]
