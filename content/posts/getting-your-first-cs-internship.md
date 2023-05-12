@@ -5,7 +5,7 @@ draft: false
 tags: ["guide"]
 ---
   
-Disclaimer: This guide is mainly intended for those aiming to get a computer science internship. I don't know anything outside these areas, but some of the ideas presented here may still be relevant. I am also learning, so let me know if you find something incorrect).
+Disclaimer: This guide is mainly intended for those aiming to get a computer science internship. I don't know anything outside these areas, but some of the ideas presented here may still be relevant. I am also learning, so let me know if you find something incorrect.
 
 # Intro  
 
@@ -14,7 +14,7 @@ Spring 2023 (January–April) term has just concluded and I want to share what h
 In general, getting your first internship is simple but challenging. It requires two steps:  
 1. Getting the interview 
 2. Passing the interview, a.k.a. getting the offer
-
+ 
   
 ## Getting the Interview  
 To get the interview, you need to get noticed by employers and called for an interview. I would argue that this is harder for a first internship as most of us don't have anything good to show yet. This can be improved if you are a student and utilise all the resources given by the university.
@@ -71,7 +71,7 @@ I find the most rewards in building things for organizations, as I know the resu
 I really enjoy being in an organization, as I think community plays a big part in who we are and the enjoyment that comes from there.
 
 ### Credits Taken  
-A.k.a. expected graduation date. Having an earlier graduation date helps, but make sure to manipulate and lie here. I usually set my graduation date to the earliest possible, though I may extend it if I think I will have more co-ops.
+A.k.a. expected graduation date. Having an earlier graduation date helps, but make sure to be honest that this graduation date is possible. I usually set my graduation date to the earliest possible, though I may extend it if I think I will have more co-ops.
 
 Many companies are more likely to hire candidates near their graduation, as internships are basically a relatively reliable way for them to get good full-time candidates.
 
@@ -159,7 +159,7 @@ The last but most important thing to have, I think, is to just enjoy it. Even if
 
 There are no better ways to get better at an interview than to keep0 doing it. I have been there, but I will definitely practise this message.
 
-  
+
 ## Conclusion  
 This is all for now. I really hope this guide can be useful to you. Getting an internship, especially the first one, can be really hard. These are just some of the suggestions that I know will be helpful.
 
