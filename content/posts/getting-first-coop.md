@@ -1,30 +1,28 @@
 ---
-title: "Getting Your First CS Co-op"
+title: "Getting Your First CS Internship"
 date: 2023-05-08T10:09:44-07:00
 draft: false
 tags: ["guide"]
 ---
   
-Disclaimer: This guide is mainly intended for those aiming to get a computer science internship. I don't know anything outside these areas, but I'm pretty sure some of the ideas presented here can still be relevant to these other areas. I am also learning, so if there is anything that you think is wrong, I would be really happy if you messaged me about this (via email first, and I'll give more contact info).
+Disclaimer: This guide is mainly intended for those aiming to get a computer science internship. I don't know anything outside these areas, but some of the ideas presented here may still be relevant. I am also learning, so let me know if you find something incorrect).
 
 # Intro  
-When I was in high school, I was really fascinated by many day-in-the-life-of-a-software-engineer-intern videos. I find it interesting how the world has changed, and now people can just stay in front of the computer to make a living. I mean, it may sound kind of dystopian, but working on fancy technologies in a high-rise office definitely does not sound as bad.
 
-Fast forward, The spring 2023 (January–April) term has just concluded, and now I want to reflect on my first co-op seeking process. This is also intended as a guide for those who want to find their first job. Here, I will use the terms "internship" and "co-op" interchangeably just because the word "internship" seems to be known by more people. At least here, co-op is usually part of the degree programme and usually takes longer.
-
+Spring 2023 (January–April) term has just concluded and I want to share what has worked well for my seeking process. This is also intended as a guide for those who want to find their first job. Here, I will use the terms "internship" and "co-op" interchangeably just because the word "internship" seems to be known by more people. At least here, co-op is usually part of the degree program registered in a school.
   
 In general, getting your first internship is simple but challenging. It requires two steps:  
-1. Getting the interview  
+1. Getting the interview 
 2. Passing the interview, a.k.a. getting the offer
 
   
 ## Getting the Interview  
-To get the interview, you need to get noticed by employers and called for an interview. I would argue that this is harder for a first internship as most of us don't have anything good to show yet. This can easily be improved if you are a student and utilise all the resources given by the university.
+To get the interview, you need to get noticed by employers and called for an interview. I would argue that this is harder for a first internship as most of us don't have anything good to show yet. This can be improved if you are a student and utilise all the resources given by the university.
 
 Here are some core components that I think will help you get the interviews ordered by significance:
 
 ### Good Resume Format  
-First, the resume needs to be relevant, concise, and in.pdf format.
+First, the resume needs to be relevant, concise, and in .pdf format.
 
 Also, the resume needs to be able to be parsed by [resume parser](https://resume-parser.vercel.app/). Passing the resume parser is important here, as some companies might filter their candidates using this automated parser first before passing it to a person.
 
@@ -42,6 +40,8 @@ Why do I need to make this point if the post is about someone getting their firs
 
 First, if you are a student, Getting a tutoring job can be beneficial, as it will show that you can communicate your thoughts clearly to teach people. In fact, many universities always need peer tutors or teaching assistants. I applied for a teaching assistant job back when I was at Langara, and I am forever grateful for that decision. I was really pessimistic, as I have tried applying for many opportunities in the past but never got in. Taking that first step in applying is crucial.
 
+The key point here is to try to have some experience (not mandatory of course). I would argue that even if the job is not tech-related, it can still be useful as soft skills are arguably more important when you are starting. Just make sure to keep school courses as the priority.
+
 ### Technical projects  
 Projects are a huge part of what makes applying to CS jobs different from other professions. The fact that we need to build something in our free time to get those jobs can be daunting. For me, though, I think this is a good benefit to have. As we are more likely to be assessed by our projects, which we can continuously develop over time, and not our grades, which can only be evaluated mostly on the 2-hour exams.
 
@@ -57,28 +57,34 @@ This is probably the domain with the least competition but with good prospects t
 
 There might be more niche domains, but there are these four types of projects. If you are truly sure of what kind of internship role you want to get, I think having projects focused on one domain will be really helpful in making you stand out as a candidate.
 
-What has worked for me to have these projects is to focus on classes that give good projects first. This is what I did as I took CMPT 213 (Object Oriented Design), which gives me a Java Swing and OOP project; CMPT 272 (Web Development), which gives me an Angular project; and CMPT 276 (Software Engineering), which gives me a full-stack web development group project.
+What has worked for me to have these projects is **to focus on classes that give good projects first**. This is what I did as I took CMPT 213 (Object Oriented Design), which gives me a Java Swing and OOP project; CMPT 272 (Web Development), which gives me an Angular project; and CMPT 276 (Software Engineering), which gives me a full-stack web development group project.
 
 You can also do projects at hackathons, which generally take the least amount of time. Just make sure you have a good teammate and have a good plan for what you think you will be doing.
+
+So if you are still finding for an internship, try to focus on classes that give good projects. I would leave the harder classes later as long as it's not an important prerequisite for another class.
 
 ### Organization experience  
 For most people, doing things alone can be a bit stressful, so why not make it fun by doing it with others or for others?
 
-I find the most rewards in building things for organisations, as I know the result is useful for others too. Try finding tech-related organisations if you want to find more like-minded peers. Alternatively, you can just try to be in any organisation you'd like to be in and offer to build something for them to make club life easier. The most common one is probably a website for that organisation.
+I find the most rewards in building things for organizations, as I know the result is useful for others too. Try finding tech-related organisations if you want to find more like-minded peers. Alternatively, you can just try to be in any organisation you'd like to be in and offer to build something for them to make club life easier. The most common one is to build a website for that organisation.
 
-I really enjoy being in an organisation, as I think community plays a big part in who we are and the enjoyment that comes from there.
+I really enjoy being in an organization, as I think community plays a big part in who we are and the enjoyment that comes from there.
 
 ### Credits Taken  
-A.k.a. expected graduation date. I try to set the earliest possible graduation date.
+A.k.a. expected graduation date. Having an earlier graduation date helps, but make sure to manipulate and lie here. I usually set my graduation date to the earliest possible, though I may extend it if I think I will have more co-ops.
 
-Most companies are more likely to hire candidates near their graduation, as internships are basically a relatively reliable way to get good full-time candidates.
+Many companies are more likely to hire candidates near their graduation, as internships are basically a relatively reliable way for them to get good full-time candidates.
 
 Thus, having a delayed internship might not be a bad idea at all, as (1) it is usually easier to get one and (2) there are more chances for the company to offer you a full-time position.
 
-### GPA  
-Does GPA matter? Hmm, I don't know, and I don't think you need to worry too much about this. Some companies might think it matters; others might not think about it at all.
+Therefore, if you can work in the non-summer term (Studying at Canada both for international and domestic), I personally think that it's fine to delaying your co-op term for more important and classes with worthwhile projects. Just make sure that your first co-op is the one you think you will learn a lot.
 
-What you can do is study consistently while also maintaining your other areas of life.
+### GPA  
+Does GPA matter? Hmm, I don't know, and I think many people worry too much about this. Some companies might think it matters; others might not think about it at all.
+
+GPA might matter, but I think the ROI is better if you leverage other things listed before rather than just focusing on school (ex. work, organization, projects, hackathons).
+
+Thus, what you can do is to just study consistently while also maintaining your other areas of life.
 
 Right now, school life is not really my highest priority. I just need to make sure that I finish all the assignments and quizzes on time and get the general gist of it. Prioritising projects, organisations, work, or even making sure you are not burned out and enjoy life is definitely more important.
 
@@ -91,10 +97,12 @@ Look at what kind of life you want to be living 5 or 10 years from now and rever
 There are also many highly underrated tips that I know will help your applying journey
 
 #### 1. Apply early
-Always apply early. If possible, on the first day the application is open.
+ALWAYS APPLY EARLY! If possible, on the first day the application is open.
 Most companies interview their candidates on a rolling basis. It means they will not wait until the due date of the application to start interviewing. This means the earlier you are, the more chances you have, as the internship slot still remains open.
 
 This means that sometimes late applicants, no matter how good they are, may never be looked at at all if the slot is already filled.
+
+Even if the application is not open yet, you can check the habits of when the company usually post by looking at the past year history. If you don't know about this yet, I think contacting their recruiter is totally fine! It might also be a bonus point as it shows that you are truly interested in the company.
 
 #### 2. Get referrals.
 I have never really done this step, but I know some of my friends who have. Having referrals truly helps in securing that first round of interviews. I thought that this was kind of unethical because someone with referrals may get interviews even though they are less qualified. But this is simply false; the employer who made that referral may be putting their credibility in jeopardy as they recommend this worker as good.  
@@ -102,12 +110,16 @@ I have never really done this step, but I know some of my friends who have. Havi
 Word of mouth, after all, plays a huge role in how we operate in society. We can easily trust another person if a trusted friend recommends them to us.
 
 #### 3. Message recruiters on LinkedIn.
-This strategy, even though it seems a bit impolite at first, can be proven very effective. Make sure that you reword your message to be professional and direct, and expect nothing in return. It is also highly recommended that you show interest in that company by explaining what you have done that may be related to what they are currently doing.
+This strategy, even though it may feel unnatural for many peoplet, can be proven very effective. Make sure that you reword your message to be professional and direct, and tone the word to never expect anything. It is also highly recommended that you show interest in that company by explaining what you have done that may be related to what they are currently doing.
 
 In fact, this is what one of my friends did, and it actually landed them a job as a software engineer intern. You never know where it might take you.
 
 #### 4. Expect failure and fear not trying.
 What has worked for me to still keep applying every day is to always treat failure as the expected scenario. I think this is quite easy for people who are generally still finding their first co-op. After all, it stinks, but it's really not the end of the world if we don't get it, right? But now that we still have the chance, it's best to always keep trying ᕙ('▿')ᕗ.
+
+One of the most important thing is to have a good mindset.
+
+What if your goal is to try to get 50 rejections instead of focusing on getting an offer? I think you will be much more focused on applying many more things. Of course, make sure that the application is filled well.
 
 ## Passing the Interview
 An interview can be very nerve-wracking, especially if you don't have much experience with it.
@@ -117,10 +129,15 @@ Personally, I don't have much experience with this as I have only been in two te
 ### Show Interest
 Companies really like it if you are genuinely interested in their mission. You can show this by researching their product and what they have done. You can also share this research with them via a link (Notion or Google Docs).
 
+Lastly, always ask questions in the end of interview. I find it better if we tailor this question to good question, which is something that is unique and you can only ask to this interviewer rather than general ones.
+
+Ex:
+- I saw that you have worked as X and now worked as Y, what has been the biggest change in your new role?
+
 ### Show Personality
 Be curious; explain more than necessary, but also make it not too long (2–3 sentences max). Also, be authentic by showing your struggles. I think people really admire authenticity, as honesty makes you relate more to them.
 
-Have a webcam that is centred on you, and try to look at the webcam while taking pictures. This will make the interviewer feel like you are directly looking into their eyes.
+Have a webcam that is centered on you, and try to look at the webcam while taking pictures. This will make the interviewer feel like you are directly looking into their eyes.
 
 I have also heard that [Amazon's Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) is really useful in general, especially if the interview is behavioural.
 
@@ -146,4 +163,4 @@ There are no better ways to get better at an interview than to keep0 doing it. I
 ## Conclusion  
 This is all for now. I really hope this guide can be useful to you. Getting an internship, especially the first one, can be really hard. These are just some of the suggestions that I know will be helpful.
 
-I have only written this on the first draught; I will revise this post some time in the future if I have the motivation. Thanks for reading!
+I apologize if there is any mistake. I'm very far from many people in CS knowledge, but I enjoy writing and sharing about this stuff. I know that many advices are quite repetitive and already easily known in the internet, but I hope you find at least one thing useful from here :).
