@@ -28,7 +28,7 @@ Also, the resume needs to be able to be parsed by [resume parser](https://resume
 
 In order for your resume to be effectively parsed, you need to have a resume with one column. I'm not sure if you can make it work with two columns, as I have not tried, but better be safe in here. One page is also recommended, as recruiters do not want to spend a lot of time looking at your experiences. More of the explanations are here: https://www.careercup.com/resume.
 
-Finally, if you are looking for a recommendation, I use this famous [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs). It uses latex, but Overleaf has an online latex editor that makes it easy to edit it. Make sure to download it as a PDF.
+Finally, if you are looking for a recommendation, I use this famous [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs). It uses latex. Overleaf has an online latex editor that makes it easy to edit it. Make sure to download it as a PDF.
 
 Next, for the contents: Always do a grammar check and write all the bullet points in a concise way while also showing your accomplishments. I used the [STAR method](https://ca.indeed.com/career-advice/interviewing/star-interview-method?aceid=&gclsrc=ds&gclsrc=ds) to be able to easily outline what I have done concisely. If you are kind of bad at English and finding the perfect words like me, you might want to use [ChatGPT](https://openai.com/blog/chatgpt). You can ask them, "Reword these bullet points in a resume in a STAR format," and show your current bullet points.
 
@@ -135,9 +135,9 @@ Ex:
 - I saw that you have worked as X and now worked as Y, what has been the biggest change in your new role?
 
 ### Show Personality
-Be curious; explain more than necessary, but also make it not too long (2–3 sentences max). Also, be authentic by showing your struggles. I think people really admire authenticity, as honesty makes you relate more to them.
+Be curious; explain more than necessary, but also make it not too long (2–3 sentences max). Also, don't be afraid to show struggles that you have endured. I think people really admire authenticity, as honesty makes you relate more to them.
 
-Have a webcam that is centered on you, and try to look at the webcam while taking pictures. This will make the interviewer feel like you are directly looking into their eyes.
+Have a webcam that is centered on you, and try to look at the webcam while talking to the interviewer. This will make the other end feel more like in a natural conversation.
 
 I have also heard that [Amazon's Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) is really useful in general, especially if the interview is behavioural.
 
