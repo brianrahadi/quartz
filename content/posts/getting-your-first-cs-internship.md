@@ -157,7 +157,7 @@ You also need to check the job description. If it requires other knowledge like 
 ### Have Fun  
 The last but most important thing to have, I think, is to just enjoy it. Even if you fail, you will still get something out of it. Sometimes you pass it, and other times you learn from it.
 
-There are no better ways to get better at an interview than to keep0 doing it. I have been there, but I will definitely practise this message.
+There are no better ways to get better at an interview than to keep doing it and treating it as a 'game'.
 
 
 ## Conclusion  
