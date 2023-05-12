@@ -134,8 +134,8 @@ Lastly, always ask questions in the end of interview. I find it better if we tai
 Ex:
 - I saw that you have worked as X and now worked as Y, what has been the biggest change in your new role?
 
-### Show Personality
-Be curious; explain more than necessary, but also make it not too long (2–3 sentences max). Also, don't be afraid to show struggles that you have endured. I think people really admire authenticity, as honesty makes you relate more to them.
+### Be Yourself
+Be curious; answer questions like a short story, factual but also engaging, also don't make it too long (2–3 sentences max). Don't be afraid to show struggles. I think people really admire authenticity, as honesty makes you relate more to them.
 
 Have a webcam that is centered on you, and try to look at the webcam while talking to the interviewer. This will make the other end feel more like in a natural conversation.
 
