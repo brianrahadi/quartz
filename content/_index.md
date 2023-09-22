@@ -10,6 +10,7 @@ I find the software world fascinating because of its ability to improve our live
 I am interested in learning all aspects of the software development life cycle. From designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed system.
 
 I enjoy sharing things on the internet. Below are some of them:
+- [Posts](posts/) I have shared to the internet;
 - [Experience](about/experience.md) or summary of what I have done;
 - [Projects](about/projects.md) I (and my teammates) have built;
 - [Tools](about/tools.md) I found useful;
