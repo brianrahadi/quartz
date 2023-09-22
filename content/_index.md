@@ -1,6 +1,5 @@
 ---
 title: 🏡 Home
-enableToc: false
 ---
 
 Hello! I'm Brian. Currently studying [Software Systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) at Simon Fraser University.
