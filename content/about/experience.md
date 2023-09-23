@@ -29,7 +29,7 @@ Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-
 > Develops websites at [sfussss.org](https://www.sfussss.org/) and [systemshacks.com](https://systemshacks.com/)
 
 > **Website Lead at SFUIA** (Aug. 2022 - Present) <br>
-> Spearheads [website](https://www.sfuia.com/) and manages social media, also chilling with fellow indonesians
+> Spearheads [website](https://www.sfuia.org/) and manages social media, also organizes events for SFU indonesian community
 
 > **Vice Lead at Google DSC Langara College** (Jul. 2021 - Apr. 2022) <br>
 > Hosted some tech topics in Langara (place before I transfer)

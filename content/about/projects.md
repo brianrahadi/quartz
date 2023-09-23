@@ -4,18 +4,40 @@ date: 2022-08-22T10:20:08-08:00
 draft: false
 enableToc: true
 ---
-Projects can be of many things, but here I am focusing on software-related projects that I build in hackathons, personal, or academic-related project.
+Projects can be of many things, but here I am focusing on software-related projects that I build for my clubs, personally, hackathon, or
 
 ---
+
+## SFU Software Systems Website (sfussss.org)
+![[images/sfussss-website.png]]
+
+As the current web lead, I am continuing the amazing website legacy that has been developed by other amazing software systems students. My responsibility include managing the repository, domain, issues, and pull requests. We are developing more features and projects to ease the lives of other software systems members.
+
+Stack: Next.js, SASS, Figma, GitHub Actions, and lots of cool mini tools
+
+<a target="_blank" href="https://github.com/ssss-sfu/ssss-sfu.github.io">GitHub</a>&emsp;
+<a target="_blank" href="https://www.sfussss.org/">Website</a>
 
 ## Hope Health Action
 ![[images/hha-homepage.png]]
 
-Developed website for hospitals in Haiti as part of SFU Research project through Hope Health Action, a non-profit organization. Features include storing department reports, message boards, case studies, broken kit reports, and employee of the month. My work includes revamping employee of the month feature to allow many entities existing with CRUD operation through creating 5 REST API endpoints. I also created an add form, prefilled update form, view page, and record page and connected the server endpoints. Routinely participates in reviewing all the pull requests of 3 other developers
+Developed website for hospitals in Haiti as part of SFU Research project through Hope Health Action, a non-profit organization. Features include storing department reports, message boards, case studies, broken kit reports, and employee of the month. 
+
+My work includes revamping employee of the month feature to allow many entities existing with CRUD operation through creating 5 REST API endpoints. I also created an add form, prefilled update form, view page, and record page and connected the server endpoints. I also worked some UI refactoring and changes to ensure it is also responsive on mobile. Lastly, I routinely participates in reviewing all the pull requests of 3 other developers and twice a week scrum.
 
 Stack: Typescript, React, Express, MongoDB, Passport, Bootstrap, Chai, and Cypress
 
 <a target="_blank" href="https://github.com/drbfraser/HHA-HaitiHospital">GitHub</a>
+
+## SFU SystemsHacks Website (systemshacks.com)
+![[images/systemshacks-website.png]]
+
+Developed the website of the annual hackathon hosted by SFU Software Systems Students Society (SSSS) along with other cool developers and designers. My work includes developing the section for navbar, hero, sponsors, and faqs. I also managed the migration and domain so it can work seamlessly with GitHub pages.
+
+Stack: HTML, SASS, Figma, Github Actions
+
+<a target="_blank" href="https://github.com/ssss-sfu/2023-roothacks">GitHub</a>&emsp;
+<a target="_blank" href="https://systemshacks.com/">Website</a>
 
 ## MindfulU
 
@@ -23,10 +45,12 @@ Stack: Typescript, React, Express, MongoDB, Passport, Bootstrap, Chai, and Cypre
 
 MindfulU centralizes information on mental health services offered by UBC, SFU and other organizations. It assists students in finding, learning about and using mental health resources through features like a chatbot, meditation mode and an interactive services map.
 
+Somehow, We were able to secure a honourable mentions at the UBC's nwHacks 2023, which is 5/133 teams :D.
+
 <a target="_blank" href="https://github.com/LenaWang03/NW-Hacks-2023">GitHub</a>&emsp;<a target="_blank" href="https://nw-hacks-2023.vercel.app/">Website</a>&emsp;
 <a target="_blank" href="https://devpost.com/software/mindfulu-eo6fbg">Devpost</a>
 
-## sfuia.com
+## SFU Indonesian Association Website (sfuia.org)
 
 ![[images/sfuia-website.png]]
 
@@ -34,7 +58,8 @@ Simon Fraser University Indonesian Association's website acts as the information
 
 Stack: Next.js, Bootstrap, SASS, Contentful API (for blog), SendGrid API (for mail), Vercel
 
-<a target="_blank" href="https://github.com/sfuia/sfuia-website">GitHub</a>&emsp;<a target="_blank" href="https://www.sfuia.com/">Website</a>
+<a target="_blank" href="https://github.com/sfuia/sfuia-website">GitHub</a>&emsp;
+<a target="_blank" href="https://www.sfuia.org/">Website</a>
 
 ---
 
@@ -46,7 +71,8 @@ A full-stack amusement park website that have many features. It allows user logi
 
 Stack: Express, Node.JS, PostgreSQL, Stripe API, WeatherAPI, Mocha, Chai
 
-<a target="_blank" href="https://github.com/brianrahadi/parkland">GitHub</a>&emsp;<a target="_blank" href="https://www.youtube.com/watch?v=eMDrgqQ6-TY&list=PLsMwgYc1l_V03D-kKRaXcnumVEb8k8ot_&index=2">Youtube</a>
+<a target="_blank" href="https://github.com/brianrahadi/parkland">GitHub</a>&emsp;
+<a target="_blank" href="https://www.youtube.com/watch?v=eMDrgqQ6-TY&list=PLsMwgYc1l_V03D-kKRaXcnumVEb8k8ot_&index=2">Youtube</a>
 
 ---
 
