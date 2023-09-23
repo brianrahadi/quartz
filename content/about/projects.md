@@ -4,7 +4,7 @@ date: 2022-08-22T10:20:08-08:00
 draft: false
 enableToc: true
 ---
-Projects can be of many things, but here I am focusing on software-related projects that I build for my clubs, personally, hackathon, or
+Projects can be of many things, but here I am focusing on software-related projects that I build from clubs, hackathons, personal, or school
 
 ---
 
