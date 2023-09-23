@@ -45,7 +45,7 @@ Stack: HTML, SASS, Figma, Github Actions
 
 MindfulU centralizes information on mental health services offered by UBC, SFU and other organizations. It assists students in finding, learning about and using mental health resources through features like a chatbot, meditation mode and an interactive services map.
 
-Somehow, We were able to secure a honourable mentions at the UBC's nwHacks 2023, which is 5/133 teams :D.
+We secured honourable mentions at the UBC's nwHacks 2023, which is 5/133 teams :D.
 
 <a target="_blank" href="https://github.com/LenaWang03/NW-Hacks-2023">GitHub</a>&emsp;<a target="_blank" href="https://nw-hacks-2023.vercel.app/">Website</a>&emsp;
 <a target="_blank" href="https://devpost.com/software/mindfulu-eo6fbg">Devpost</a>
