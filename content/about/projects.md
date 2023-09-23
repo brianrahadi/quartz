@@ -18,7 +18,7 @@ Stack: Next.js, SASS, Figma, GitHub Actions, and lots of cool mini tools
 <a target="_blank" href="https://github.com/ssss-sfu/ssss-sfu.github.io">GitHub</a>&emsp;
 <a target="_blank" href="https://www.sfussss.org/">Website</a>
 
-## Hope Health Action
+## Hope Health Action - Haiti Hospital
 ![[images/hha-homepage.png]]
 
 Developed website for hospitals in Haiti as part of SFU Research project through Hope Health Action, a non-profit organization. Features include storing department reports, message boards, case studies, broken kit reports, and employee of the month. 
