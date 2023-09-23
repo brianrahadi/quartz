@@ -4,7 +4,7 @@ date: 2022-10-10T22:03:02-08:00
 draft: false
 ---
 
-Experience consists of my recent education, work and organization experiences, and also courses I have taken in my undergraduate years.
+Experience consists of my recent education, work and organization experiences, and also courses I have taken at Langara and SFU
 
 ## Education
 
