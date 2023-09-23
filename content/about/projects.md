@@ -29,7 +29,7 @@ Stack: Typescript, React, Express, MongoDB, Passport, Bootstrap, Chai, and Cypre
 
 <a target="_blank" href="https://github.com/drbfraser/HHA-HaitiHospital">GitHub</a>
 
-## SFU SystemsHacks Website (systemshacks.com)
+## SystemsHacks Website (systemshacks.com)
 ![[images/systemshacks-website.png]]
 
 Developed the website of the annual hackathon hosted by SFU Software Systems Students Society (SSSS) along with other cool developers and designers. My work includes developing the section for navbar, hero, sponsors, and faqs. I also managed the migration and domain so it can work seamlessly with GitHub pages.
