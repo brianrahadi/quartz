@@ -98,3 +98,6 @@ Note:
 **Summer 2023**
 - Software Developer Co-op at [Visier](https://www.visier.com/)
 - [CMPT 415 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser ([website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home))
+
+**Fall 2023**
+- Software Developer Co-op at [Visier](https://www.visier.com/)
