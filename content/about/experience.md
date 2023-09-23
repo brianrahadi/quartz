@@ -4,7 +4,7 @@ date: 2022-10-10T22:03:02-08:00
 draft: false
 ---
 
-Experience consists of my recent education, work and organization experiences, and also courses I have taken at Langara and SFU
+Experience consists of my recent education, work, organization experiences, and courses I have taken
 
 ## Education
 
@@ -26,7 +26,7 @@ Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-
 
 ## Organization Experience
 > **Website Committee Lead at SFU Software Systems Student Society** (Nov. 2022 - Present) <br>
-> Develops websites at [sfussss.org](https://www.sfussss.org/) and [systemshacks.com](https://systemshacks.com/)
+> Leads the development of projects and websites at [sfussss.org](https://www.sfussss.org/) and the upcoming [systemshacks.com](https://systemshacks.com/)
 
 > **Website Lead at SFUIA** (Aug. 2022 - Present) <br>
 > Spearheads [website](https://www.sfuia.org/) and manages social media, also organizes events for SFU indonesian community
