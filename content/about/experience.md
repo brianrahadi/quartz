@@ -8,7 +8,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Education
 
-> **Simon Fraser University** (May 2022 - Apr. 2024 Expected) <br>
+> **Simon Fraser University** (May 2022 - Apr. 2025 Expected) <br>
 > Bachelor of Science, Computing Science in Software Systems <br>
 
 > **Langara College** (Sep. 2020 - Apr. 2022) <br>
