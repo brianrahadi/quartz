@@ -17,10 +17,14 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Work Experience
 
-> **Teaching Assistant at Langara College** (Feb. 2022 - Present) <br>
-> • Supports class of 30+ students as the sole TA by communicating in the lab and through announcements and emails <br>
-• Grades 60+ weekly programming assignments and provides timely, constructive feedback<br>
-• Tutors students with expertise in 11 computer science classes in the help center<br>
+> **Software Developer Co-op at Visier** (May. 2023 - Present) <br>
+> • Develops full-stack features for a best-in-class people analytics software using Scala, Play, Cassandra, Typescript, Angular, RxJs, and Protobuf.   <br>
+> • Other tools used: Splunk, Postman, Kong API Gateway, ScalaTest, Mockito, Intellij, tmux
+
+> **Teaching Assistant at Langara College** (Feb. 2022 - Apr. 2023) <br>
+> • Supported class of 30+ students as the sole TA by communicating in the lab and through announcements and emails <br>
+• Graded 60+ weekly programming assignments and provides timely, constructive feedback<br>
+• Tutored students with expertise in 11 computer science classes in the help center<br>
 Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-courses/courses/CPSC/1030.html" target="_blank">1030</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1045.html" target="_blank">1045</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1050.html" target="_blank">1050</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1150.html" target="_blank">1150</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1155.html" target="_blank">1155</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1160.html" target="_blank">1160</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/1181.html" target="_blank">1181</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/2130.html" target="_blank">2130</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/2150.html" target="_blank">2150</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/2190.html" target="_blank">2190</a>, <a href="https://langara.ca/programs-and-courses/courses/CPSC/2221.html" target="_blank">2221</a>
 
 
