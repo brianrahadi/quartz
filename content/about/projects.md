@@ -9,7 +9,7 @@ Projects can be of many things, but here I am focusing on software-related proje
 ---
 
 ## SFU Software Systems Website (sfussss.org)
-![[images/sfussss-website.png]]
+![[sfussss-website.png]]
 
 As the current web lead, I am continuing the amazing website legacy that has been developed by other amazing software systems students. My responsibility include managing the repository, domain, issues, and pull requests. We are developing more features and projects to ease the lives of other software systems members.
 
@@ -19,7 +19,7 @@ Stack: Next.js, SASS, Figma, GitHub Actions, and lots of cool mini tools
 <a target="_blank" href="https://www.sfussss.org/">Website</a>
 
 ## Hope Health Action - Haiti Hospital
-![[images/hha-homepage.png]]
+![[hha-homepage.png]]
 
 Developed website for hospitals in Haiti as part of SFU Research project through Hope Health Action, a non-profit organization. Features include storing department reports, message boards, case studies, broken kit reports, and employee of the month. 
 
@@ -30,7 +30,7 @@ Stack: Typescript, React, Express, MongoDB, Passport, Bootstrap, Chai, and Cypre
 <a target="_blank" href="https://github.com/drbfraser/HHA-HaitiHospital">GitHub</a>
 
 ## SystemsHacks Website (systemshacks.com)
-![[images/systemshacks-website.png]]
+![[systemshacks-website.png]]
 
 Developed the website of the annual hackathon hosted by SFU Software Systems Students Society (SSSS) along with other cool developers and designers. My work includes developing the section for navbar, hero, sponsors, and faqs. I also managed the migration and domain so it can work seamlessly with GitHub pages.
 
@@ -41,7 +41,7 @@ Stack: HTML, SASS, Figma, Github Actions
 
 ## MindfulU
 
-![[images/mindfulu.jpeg]]
+![[mindfulu.jpeg]]
 
 MindfulU centralizes information on mental health services offered by UBC, SFU and other organizations. It assists students in finding, learning about and using mental health resources through features like a chatbot, meditation mode and an interactive services map.
 
@@ -52,7 +52,7 @@ We secured honourable mentions at the UBC's nwHacks 2023, which is 5/133 teams :
 
 ## SFU Indonesian Association Website (sfuia.org)
 
-![[images/sfuia-website.png]]
+![[sfuia-website.png]]
 
 Simon Fraser University Indonesian Association's website acts as the information hub for Indonesian students at SFU. Currently, we use Next.js (framework of react.js) as it feels nicer to build with its routing, better images, and rendering. I decided to use Contentful to allow people to contribute to the blog post easily without accessing the source code (easily published and editted).
 
@@ -65,7 +65,7 @@ Stack: Next.js, Bootstrap, SASS, Contentful API (for blog), SendGrid API (for ma
 
 ## Parkland
 
-![[images/parkland.jpg]]
+![[parkland.jpg]]
 
 A full-stack amusement park website that have many features. It allows user login, signup, and it has its own reviews page with full CRUD functionality. User can make their own cards as an entry ticket and add the balance using **Stripe API**.
 
@@ -78,7 +78,7 @@ Stack: Express, Node.JS, PostgreSQL, Stripe API, WeatherAPI, Mocha, Chai
 
 ## Pig Locator
 
-![[images/pig-locator.png]]
+![[pig-locator.png]]
 
 Angular website to locate missing pigs with reports and maps stored as JSON in Data Manager API. Location is visualized in a map built with Leaflet and Mapbox API. <br>
 CRUD operation on reports is possible through the Data Manager API.
@@ -89,7 +89,7 @@ Tech Stack: Angular, Angular Material, TypeScript, Leaflet, Mapbox API, Data Man
 
 ## The Movie Corner
 
-![[images/movie.jpg]]
+![[movie.jpg]]
 
 A movie database website to see list of movies based on various categories (Popular, Upcoming, Action, Drama, Romance).
 
@@ -101,7 +101,7 @@ Stack: React, Bootstrap, Axios, and TMDb API
 
 ## Multithreaded Chatroom
 
-![[images/chatroom.png]]
+![[chatroom.png]]
 
 A chatroom with many features built in Java implemented with multithreading concepts where each client runs as a single thread. This chatroom allows everyone with the same IP Address and port to chat with each other.
 
@@ -113,7 +113,7 @@ Stack: Java, Socket
 
 ## Amazing Package Deliveries Tracker
 
-![[images/package.png]]
+![[package.png]]
 
 A package deliveries tracker to store packages information and show the packages based on its status (All, Overdue, Upcoming). The packages information is stored in the server and uses **Spring** to fetches/ updates the data. The component is separated with MVC (Model-View-Controller) architecture to ensure code is readable and understandable. Received full grade in the last iteration.
 
@@ -125,7 +125,7 @@ Stack: Java Swing, GSON, Spring
 
 ## Arcade Games
 
-![[images/arcade-games.gif]]
+![[arcade-games.gif]]
 
 A fun arcade game that lets you play ping-pong, snake, and crossing road. This game is built with Object-oriented programming paradigm to make code more reusable and clearer to see.
 
@@ -135,7 +135,7 @@ Stack: Python, Turtle
 
 ## Rename Unzipper Script
 
-![[images/rename-unzipper.gif]]
+![[rename-unzipper.gif]]
 
 Python script to rename and unzip all students' files to be easily opened and ordered alphabetically. Though simple, it has saved me tons of time in marking students' assignments.
 

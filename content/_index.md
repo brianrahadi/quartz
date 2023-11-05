@@ -6,7 +6,7 @@ Hello! I'm Brian. Currently studying [Software Systems](https://www.sfu.ca/compu
 
 I find the software world fascinating because of its ability to improve our lives on a seemingly infinite scale.
 
-I am interested in learning all aspects of the software development life cycle. From designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed system.
+I am interested in learning all aspects of the software development life cycle. From designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
 
 I enjoy sharing things on the internet. Below are some of them:
 - [Posts](posts/) I have shared to the internet;
