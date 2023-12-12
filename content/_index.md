@@ -12,6 +12,7 @@ I enjoy sharing things on the internet. Below are some of them:
 - [Posts](posts/) I have shared to the internet;
 - [Experience](about/experience.md) or summary of what I have done;
 - [Projects](about/projects.md) I (and my teammates) have built;
+- [Notes](notes/) I took;
 - [Tools](about/tools.md) I found useful;
 - [Books](about/books.md) I have read;
 - [Restaurants](https://brianrahadi.notion.site/Restaurant-Reviews-2762ef471f4c44bf8221683723835e87) I have been to (notion page for now).
