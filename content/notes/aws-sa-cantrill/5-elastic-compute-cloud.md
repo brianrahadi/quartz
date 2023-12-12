@@ -1,3 +1,4 @@
+Prev: [[4-virtual-private-cloud]]
 ## Virtualization 101
 Process of running more than 1 OS on piece of hardware/ server
 
@@ -124,3 +125,5 @@ Storage performance:
 
 Usually `IO x IOPS = Throughput`
 - `16 KB x 100IOPS = 1.6MB/s`
+
+Prev: [[4-virtual-private-cloud]]
