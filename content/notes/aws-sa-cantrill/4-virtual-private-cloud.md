@@ -1,4 +1,4 @@
-Prev: [[3-simple-storage-service]]
+Prev: [[3-simple-storage-service]] \
 Next: [[5-elastic-compute-cloud]]
 ## VPC Security Groups
 - Stateful - automatically detect response 
@@ -65,5 +65,5 @@ Removal
 4. Release all elastic ip addresses
 5. Remove cloud formation stack
 
-Prev: [[3-simple-storage-service]]
+Prev: [[3-simple-storage-service]] \
 Next: [[5-elastic-compute-cloud]]

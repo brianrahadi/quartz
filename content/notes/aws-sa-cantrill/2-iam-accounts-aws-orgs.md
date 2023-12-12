@@ -1,4 +1,4 @@
-Prev: [[1-aws-fundamentals]]
+Prev: [[1-aws-fundamentals]] \
 Next: [[3-simple-storage-service]]
 ## IAM, Accounts, and AWS Organisations
 
@@ -265,5 +265,5 @@ Essentials
 - Accounts can be closed or repurposed
 - Can be fully integrated with business SDLC
 
-Prev: [[1-aws-fundamentals]]
+Prev: [[1-aws-fundamentals]] \
 Next: [[3-simple-storage-service]]

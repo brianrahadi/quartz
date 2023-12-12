@@ -1,4 +1,4 @@
-Prev: [[2-iam-accounts-aws-orgs]]
+Prev: [[2-iam-accounts-aws-orgs]] \
 Next: [[4-virtual-private-cloud]]
 ### S3 Security
 - private by default 
@@ -446,5 +446,5 @@ Notification generated when events occur in a bucket
 - s3:PutObjectLegalHold is required to add or remove
 - Prevent accidental deletion of critical object versions
 
-Prev: [[2-iam-accounts-aws-orgs]]
+Prev: [[2-iam-accounts-aws-orgs]] \
 Next: [[4-virtual-private-cloud]]
