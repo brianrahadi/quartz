@@ -23,18 +23,18 @@ Two types of deployment:
 	- Faster data transfer
 
 Region referred via:
-	- Region code (ap-southeast-2)
-		- Availability zones (ap-southeast-2a, 2b, 2c) - isolated
-		- Connected high speed and low latency
-	- Region name (Asia Pacific (Sydney))
+- Region code (ap-southeast-2)
+	- Availability zones (ap-southeast-2a, 2b, 2c) - isolated
+	- Connected high speed and low latency
+- Region name (Asia Pacific (Sydney))
 
 VPC (Virtual Private Cloud) - way to create private network
 
 Service Resilience
-	- Globally Resilient - global (IAM, Route 53)
-	- Region Resilient - multiple availability regions
-	- AZ Resilient - 1 availability zone
-		- Very prone to failure
+- Globally Resilient - global (IAM, Route 53)
+- Region Resilient - multiple availability regions
+- AZ Resilient - 1 availability zone
+	- Very prone to failure
 
 ### Virtual Private Cloud
 
@@ -285,10 +285,10 @@ PIR - org
 
 
 Hosted zones
-	- Zone files in AWS
-	- Hosted on four managed name servers
-	- Can be public or private (VPCs)
-	- Stores records (recordsets )
+- Zone files in AWS
+- Hosted on four managed name servers
+- Can be public or private (VPCs)
+- Stores records (recordsets )
 
 
 Demo:

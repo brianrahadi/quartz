@@ -157,20 +157,20 @@ IAM role linked to specific AWS service
 Without this, they need to manage AWS accounts with pool of IAM users and separate payment methods.
 
 AWS organization created from standard AWS account. 
-	- Used to create the organization with and becomes the management account
-	- Invites existing accounts to join the organization - becomes member accounts
+- Used to create the organization with and becomes the management account
+- Invites existing accounts to join the organization - becomes member accounts
 
 Organization have only 1 Master account and 0 or more member accounts
-	- Top of the tree is organization root, not account root user. Just container within AWS organization. Used to manage AWS account within organizations.
-	- Organizational root can contain other containers (organizational units or OU )
+- Top of the tree is organization root, not account root user. Just container within AWS organization. Used to manage AWS account within organizations.
+- Organizational root can contain other containers (organizational units or OU )
 
 Individual billing methods is removed, pass the billing to the management account of the organization. Consolidated billing to payer account
-	- Benefits as a whole since it removes financial admin overhead and more usage also cheaper rates
-	- Consolidation of reservations and volume discounts
+- Benefits as a whole since it removes financial admin overhead and more usage also cheaper rates
+- Consolidation of reservations and volume discounts
 
 Larger enterprises often keep management account clean and separate account to handle login
-	- Might also have existing identity system or identity federation to access the identityOr your own aws identities using IAM
-	- AWS allow identity federation so on-premise identity can be used to designated login account. Use role switch to switch into other member accounts -> assumes roles of other AWS account.
+- Might also have existing identity system or identity federation to access the identityOr your own aws identities using IAM
+- AWS allow identity federation so on-premise identity can be used to designated login account. Use role switch to switch into other member accounts -> assumes roles of other AWS account.
 
 Demo: 3 different AWS account in organization (general, prod, dev)
 -  prod and dev make a role and specify general's account id
