@@ -412,9 +412,355 @@ Reconnect and see
 9. Reconnect and see the public IPv4 changed
 10. `lsblk`
 11. `sudo file -s /dev/nvme1n1` - see it does not have data now
+12. Basically if host is moved, EC2 instance store data will not persist
 
 Cleaning
 1. Terminate instance
 2. CloudFormation - Delete stack
+
+### EBS Encryption
+By default, no encryption
+- EC2 instance connected to EBS volume via EC2 host
+- plaintext stored at rest
+
+Encrypted:
+- KMS Key (EBS default AWS managed key)/ - Customer managed
+- GenerateDataKeyWithoutPlainText() --> DEK -> EBS Volume
+- Key loaded in encrypted form to EC2 Host
+- Ciphertext stored at rest
+- If snapshot is created, same encrypted is using.
+
+Facts:
+- Accounts can be set to encrypt by default - default KMS Key
+	- Else, choose KMS Key to use
+- Each volume uses 1 unique DEK
+	- Snapshots and future volumes using same DEK
+- Cannot change volume to not be encrypted
+- OS is not aware of encryption -> no performance loss
+
+
+## Network Interfaces, Instance IPS, and DNS
+
+### EC2 Network and DNS Architecture
+
+Every EC2 instance starts off with 1 ENI (Elastic Network Interface) - primary ENI
+- Can always be attached with more ENIs on different subnet within same AZ
+
+Network interface (ENI) has:
+- Mac address - 00:0d:83:b1:c0:8e
+	- Can be used for software licensing
+- Primary IPv4 Private IP - 10.16.0.10
+	- Static and does not change for instance's lifetime
+	- Logical format - ip-10-16-0-10.ec2.internal
+	- Can be used for internal communication inside VPC
+- 0 or more secondary IPS 
+- 0 or 1 Public IPv4 Address - 3.89.7.136
+	- Dynamic and not fixed
+	- Not directly attached to instance, translated by IGW
+	- Specifically when stopped and started again
+	- public DNS-name `ec2-3-89-7-136.compute-1.amazonaws.com`
+		- Inside VPC, resolve to private IP
+		- elsewhere, always public IP
+- 1 elastic IP per private IPv4 address 
+	- Allocated with AWS account
+	- Associated with IP on primary/ secondary interface
+	- Replaces Public IPv4 with elastic IP
+		- Cannot regain original IPv4 address
+- 0 or more IPv6 addresses
+- Security groups
+- Enable/ disable source/ destination check
+
+This applies to all types of ENI, however only secondary or other ENIs can be detached
+
+Secondary ENI + MAC = Licensing
+- Can be attached to new instances
+- Multi-homed (subnets) management and data
+- Different security groups - multi interfaces
+- OS never see public IPv4
+	- Process handled by NAT
+- Public IPv4 Dynamic - changed on stop and start
+- Public DNS = private IP in VPC, else public IP
+
+## DEMO - Manual Install of Wordpres on EC2
+
+```
+  
+# DBName=database name for wordpress
+# DBUser=mariadb user for wordpress
+# DBPassword=password for the mariadb user for wordpress
+# DBRootPassword = root password for mariadb
+
+# STEP 1 - Configure Authentication Variables which are used below
+DBName='a4lwordpress'
+DBUser='a4lwordpress'
+DBPassword='4n1m4l$4L1f3'
+DBRootPassword='4n1m4l$4L1f3'
+
+# STEP 2 - Install system software - including Web and DB
+sudo dnf install wget php-mysqlnd httpd php-fpm php-mysqli mariadb105-server php-json php php-devel -y
+
+
+# STEP 3 - Web and DB Servers Online - and set to startup
+
+sudo systemctl enable httpd
+sudo systemctl enable mariadb
+sudo systemctl start httpd
+sudo systemctl start mariadb
+
+
+# STEP 4 - Set Mariadb Root Password
+sudo mysqladmin -u root password $DBRootPassword
+
+
+# STEP 5 - Install Wordpress
+sudo wget http://wordpress.org/latest.tar.gz -P /var/www/html
+cd /var/www/html
+sudo tar -zxvf latest.tar.gz
+sudo cp -rvf wordpress/* .
+sudo rm -R wordpress
+sudo rm latest.tar.gz
+
+
+# STEP 6 - Configure Wordpress
+
+sudo cp ./wp-config-sample.php ./wp-config.php
+sudo sed -i "s/'database_name_here'/'$DBName'/g" wp-config.php
+sudo sed -i "s/'username_here'/'$DBUser'/g" wp-config.php
+sudo sed -i "s/'password_here'/'$DBPassword'/g" wp-config.php   
+sudo chown apache:apache * -R
+
+
+# STEP 7 Create Wordpress DB
+
+echo "CREATE DATABASE $DBName;" >> /tmp/db.setup
+echo "CREATE USER '$DBUser'@'localhost' IDENTIFIED BY '$DBPassword';" >> /tmp/db.setup
+echo "GRANT ALL ON $DBName.* TO '$DBUser'@'localhost';" >> /tmp/db.setup
+echo "FLUSH PRIVILEGES;" >> /tmp/db.setup
+mysql -u root --password=$DBRootPassword < /tmp/db.setup
+sudo rm /tmp/db.setup
+
+
+# STEP 8 - Browse to http://your_instance_public_ipv4_ip
+```
+
+
+## Amazon Machine Image (AMI)
+
+AMI - images of EC2 - used to launch EC2 instance
+- Usually AWS-provided, but can be created on our own
+- Marketplace
+- Regional with unique ID
+- Permission can be configured
+
+AMI Lifecycle:
+1. Launch - AMI to launch EC2 instance
+	1. Boot /dev/xvda
+2. Configure - instance and bootable data attached to customizations
+3. Create Image - the customizations used to create AMI (logical container with associated info)
+	- Block Device Mapping - tables of data of snapshots ID. Has device id of original volumes
+1. Launch - Launch the customized AMI  to make instance with the bootable data (EBS volumes)
+
+Facts:
+- AMI - one region
+- AMI baking - creating AMI from configured instance + app
+- Uneditable - launch instance, update config, make new AMI
+- Default permission - only account
+### DEMO - Creating an Animals4life AMI
+
+1. Configure instance from [this link](https://learn-cantrill-labs.s3.amazonaws.com/awscoursedemos/0007-aws-associate-ec2-ami-demo/lesson_commands_AL2023.txt)
+3. Create Image from instance
+4. Launch instance from AMI
+
+Copying and sharing an AMI:
+1. Can copy AMI to other regions
+2. Make it private and share it to other account/ orgs
+
+## EC2 purchase Options (Launch Types)
+
+Purchase options:
+1. On-Demand - simple, no real pros and cons
+2. Spot - cheapest to get access to EC2 capacity
+
+### On Demand
+- instances are isolated but multi-customer instances run on shared hardware
+- Per-second billing while running. Associated resources such as storage consume capacity, bill, regardless of instance state.
+- Instance of different size on same host consumes defined alloc of resources
+
+Type
+- Default purchase options
+- no interruption
+- No capacity resevation
+- Predictable pricing
+- No upfront cost
+- No discount
+- Short term workloads
+- Unknown workloads
+### Spot
+Spot pricing is AWS selling unused EC2 host capacity for up to 90% discount
+- Spot price based on spare capacity at given time
+- Never use SPOT for workloads that cannot tolerate interruptions
+
+Good for:
+- non-time critical
+- Anything that can be rerun
+- Bursty capacity needs
+- Cost-sensitive workloads
+- Stateless
+
+
+### Reserved
+Reserved is for long-term consistent usage of EC2.
+
+Important - form part of most larger deployment on AWS
+
+- No reservation - full per second price
+- Matching instance - reduced or no p/s price
+- Unused reservation will still be billed
+- Partial coverage of larger instance
+	- Get discount of partial components of larger instance
+
+Reservations are for 1 or 3 year terms - pay for entire term.
+
+Payment:
+- No-upfront. p/s Fee.
+	- Some savings for agreeing to term.
+	- Most flexible. Offers least discount
+- All-upfront. No p/s fee.
+- Partial upfront. Reduced p/s fee.
+
+### Dedicated Hosts
+EC2 host allocated to you in its entirety.
+- Pay for host itself dedicated to specific family or instances (A, C, R)
+- No instance charges
+- Need to manage capacity - cannot host additional instances
+
+Use case:
+- Reason: licensing based on sockets/ cores (R5 2 Socket 48 Cores)
+- Host affinity - links instances to host
+
+### Reserved Instances
+Great for known long-term, consistent usage
+
+Types:
+- Standard Reserved
+- Scheduled Reserved - long term usage that is not run constantly
+	- Ex: Daily 5h batch processing, weekly data analysis, monthly 100 hours usage
+	- Reserve capacity and get capacity for slightly cheaper rate during time window
+	- Does not support all instance types or regions. 1,200 hours/ year and 1 year min
+- Capacity Reservations -   
+	- Billing component and capacity componentd
+	- Regional resevation - billing discount for valid instances launched in any Az in that region
+		- Do not reserve capacity, can be risky
+	- Zonal reservation - only on 1 AZ with billing discounts and capacity reservation
+		- Full price and no capacit resevations
+	- On-demand capacity reservation - always have access but at full on-demand price
+		- No term limits and always need to pay.
+
+EC2 Savings Plan - hourly commitment for 1 or 3 year term
+- Reservation of general compute amount ($20 hourly for 3 years)
+- Or sepcific EC2 savings plan - flexibility on size and OS
+- Compute products - Currently EC2, Fargate, and Lambda
+	- Generally moving from EC2 > Fargate (Container) > Lambda (Serverless)
+- Products have on-demand rate and savings plan rate
+- Resource usage consumes savings plan commitment at reduced savings plan rate
+- Beyond commitment, on-demand is used
+### Conclusion
+![[Pasted image 20231217074607.png]]
+
+## Instance Status Checks and Auto Recovery
+
+Status checks:
+1. System status
+	- Loss of system power
+	- Loss of network connectivity
+	- Host software issues
+	- Host hardware issues
+1. Instance status
+	- Corrupted file system
+	- Incorrect instance networking
+	- OS Kernel Issues
+
+How to handle:
+- Manual - manual stop restart or recreate
+- Automatic - auto recovery
+	- Move instance to new host and start with new same config
+
+How to auto-recovery:
+- Start EC2
+- EC2 > Status Checks > Actions > Manage Status check alarm
+- Sets alarm action > Recover
+	- Don't work with instance store volume, only EBS volumes
+
+How to shutdown, terminate, and terminate protection:
+1. R click EC2 > Instance settings > Change termination protection > Enable
+	1. Protects accidental termination
+	2. Can have someone higher-ups has permission to remove
+2. R click EC 2 > Instance settings > Change shutdown behaviour
+	1. Default is stop
+
+## Horizontal vs Vertical Scaling
+System scaling - 2 different ways system can scale to handle increasing/ decreasing loads on the system.
+
+#### Vertical Scaling
+Vertical scaling - bigger server
+- Resizing EC2 with bigger CPU, memory
+	- t3.large > t3.2xlarge
+	- 2 vCPU > 8 vCPU
+	- 8 GiB Mem > 32 GiB Mem
+
+Cons:
+- Each resize requires a reboot - disruption
+- Larger instance often carry more money
+- Upper cap on performance - instance size
+
+Pros:
+- No app modification required
+- Works for all apps, monoliths
+
+#### Horizontal Scaling
+Horizontal scaling - adds server or capacity to work together, needs load balancer
+
+Load balancer - app between servers and customers to distribute the load fairly
+
+Cons:
+- Sessions are important
+	- Need to store customer's login info, cart info
+- Require app support or off-host sessions
+
+Pros:
+- No disruption when scaling
+- No real limit to scaling
+- Often less expensive - no large premium instance
+- More granular - easier to allocate
+
+## Instance Metadata
+EC2 Instance metadata - EC2 service to provide data about instance
+- Accessible inside all instances
+- http://169.254.169.254
+	- http://169.254.169.254/latest/meta-data
+
+Information:
+- Environment
+- Networking
+- Authentication
+	- SSH key via instance connect
+- User-data - run scripts for auto-config steps
+- Not authenticated or encrypted
+	- Anyone with EC2 access can access
+	- Can use firewall but more admin overhead
+
+How to:
+1. EC2
+	1. Details
+	2. Networking
+2. EC2 Instance connect
+		1. `ifconfig` - contains some info, but not public IPv4 Address. public IPv4 is by IGW.
+3. `curl http://169.254.169.254/latest/meta-data/public-ipv4` or `/public-hostname`
+	1. Get ipv4 or DNS
+4. `wget http://s3.amazonaws.com/ec2metadata/ec2metadata`
+	1. `ls`
+	3. `./ec2-metadata --help`
+
+
 
 Prev: [[4-virtual-private-cloud]]
