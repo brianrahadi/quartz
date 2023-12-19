@@ -1,8 +1,9 @@
 ---
-title: "Introduction to HTML/ CSS/ JavaScript Workshop"
+title: Introduction to HTML/ CSS/ JavaScript Workshop
 date: 2023-05-08T12:53:00-07:00
 draft: false
-tags: ["guide"]
+tags:
+  - guide
 ---
 
 Along with my amazing website commitee friends, we have successfully conducted a website workshop this May. 
