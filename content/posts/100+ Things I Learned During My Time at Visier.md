@@ -23,8 +23,8 @@ This post can be very opinionated and based on what has worked during my time at
 4. `git patch` to save a commit into a single file
 	- Useful to send to others commit file so they can push themselves
 	- to git patch uncommited change, do `git diff > mypatch.patch`
-5. `git pull origin dev` > `git fetch + git merge dev` > `git checkout dev + git pull + git checkout + git merge dev`
-	- Simpler approach to solve the same issue - getting latest change from the main branch (dev-stable)
+5. `git pull origin dev` > `git fetch + git merge dev` > `git checkout dev + git pull + git checkout <your-branch> + git merge dev`
+	- Simpler approach to solve the same issue - getting latest change from the main branch (dev)
 6. Make sure to pull first when you want to merge to main branch to ensure confidence.
 7. Stacked diffs - https://newsletter.pragmaticengineer.com/p/stacked-diffs
 	- Always think and code about the next new features if possible so you do not get blocked
@@ -58,8 +58,8 @@ Scala is a versatile programming language that combines both object-oriented pro
 13. Use `implicit` on JSON formatter on the companion object to have a built-in JSON read write capability
 
 	``` scala
-	object UsageTrackingDPYieldContainerMetadata {   
-		implicit val format: OFormat[UsageTrackingDPYieldContainerMetadata] = Json.format[UsageTrackingDPYieldContainerMetadata]   
+	object ElephantWithLongNose {   
+		implicit val format: OFormat[ElephantWithLongNose] = Json.format[ElephantWithLongNose]   
 	}
 	```
 
