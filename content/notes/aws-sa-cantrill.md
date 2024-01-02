@@ -6,5 +6,6 @@ Contents:
 - [[3-simple-storage-service]]
 - [[4-virtual-private-cloud]]
 - [[5-elastic-compute-cloud]]
-
+- [[6-containers-ecs]]
+- [[7-advanced-ec2]]
 
