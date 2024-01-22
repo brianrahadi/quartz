@@ -211,3 +211,137 @@ Benefits:
 RPO (Recovery Point objective) - max data loss application can tolerate
 
 RTO (Recovery Time Objective) - how quickly time for app to recover after outage
+
+## RDS Data Security
+
+Things to focus:
+- Authentication - How to log in
+- Authorization - How access is controlled
+- Encryption in transit - Client -- RDS
+- Encryption in rest - Data when written to disk
+
+Security:
+- SSL/ TLS (in transit) available for RDS - can be mandatory
+- RDS supports EBS volume encryption by KMS
+	- Handled by Host/ EBS
+- AWS or Customer-managed CMK generates data key
+	- Data keys for encryption ops
+- Storage, logs, snapshots, replicas are encrypted and cannot be removed
+
+Support Integration:
+- RDS MSSQL and Oracle support Transparent Data Encryption (TDE)
+	- Encryption handled within DB engine
+- RDS Oracle supports integration with CloudHSM
+	- Much stonger key controls (even from AWS)
+
+Amazon RDS KMS Encryption and TDE:
+![[Pasted image 20240118075601.png]]
+
+Amazon RDS IAM Authentication:
+- RDS local DB account use AWS auth token
+	- generate-db-auth-token to create token within 15 mins validity in place of DB user password - from IAM
+	- Only authentication, authorisation still by DB engine 
+
+## RDS Custom
+
+RDS Custom - fills the gap between main RDS and EC2 running DB engine
+- RDS is fully managed - Limited OS/ engine access
+- DB on EC2 is self managed - Has overhead
+- Currently works for MS SQL and Oracle
+- Can connect using SSH, RDP, Session Manager
+- RDS Custom DB Automation
+	- Pause to customize (no disruptions)
+	- Resume for normal production usage
+
+## Amazon Aurora
+
+Aurora - Part of RDS, but architecture is very different
+- Uses a "Cluster" - improve both availability and read operation
+- Single primary instance - 0+ replicas
+- No local storage - uses shared cluster volume
+	- Max 128 TiB, 6 Replicas, AZs
+- Faster provisioning, improved availability and performance
+- Chances of losing data from disk almost 0
+	- When part of disk fails, immediately repairs from data outside other storage nodes
+	- Less needed to restore and snapshot
+- Failover operation much faster
+
+Aurora Storage Architecture:
+- All SSD based - high IOPS, low latency
+- Storage is billed based on what is used
+- **High water mark** - billed for most used
+	- Changed for most recent aurora
+- Storage which is freed up and can be reused
+- Replicas can be added and removed without storage provisioning
+	- Since storage is in cluster, not in instance
+
+Endpoints:
+- Cluster endpoint for primary Read-Write
+- Reader endpoint for replicas Read
+	- Has load balancing for scale
+
+Cost:
+- No free-tier option
+- No micro-instances
+- Beyond RDS singleAZ (micro), aurora offers better value
+- Compute - hourly charge, per second, 10 min minimum
+- Storage - GB-Month consumed, IO cost per reuqest
+- 100% DB Size in backups included
+
+Aurora restore, clone, and backtrack:
+- Backups in Aurora work in same way as RDS
+- Restores creates a new cluster
+- Backtrack can be used for in-place rewind to previous point in time
+- Fast clone - make database much faster than copying all data - copy-on-write
+	- References original storage and only contains the diff
+
+### Aurora Serverless
+Aurora serverless - Like fargate for Aurora
+- Less admin overhead, More to Database as a Service
+- Scalable - ACU (Aurora Capacity Units)
+- Cluster has min and max ACu and adjusts based on load
+	- Can go to 0 or paused
+- Consumption billing per-second basis
+- Same resilience as Aurora (6 copies across AZs)
+- ACU can dynamically resize and will have more compute resources
+- Proxy Fleet - manages connection between cluster rather than provisioned
+	- Managed by AWS
+	- Act as gateway broker to allow fluid scaling
+
+Use cases:
+- Infrequently used applications - per-second basis
+- New applications - unsure of load placed
+- Variable workloads - lightly used app with peaks
+- Unpredictable workloads - set fairly large ACU range
+- As development and test databases - can pause or resume to scale back to 0
+- Multi-tenant apps - Incoming load align with revenue (scaling is aligned)
+
+### Aurora Global Database
+Aurora Global database - Global level of replication using Aurora from master region to up to 5 secondary AWS regions
+- Primary region - 1 RW and 15 read replicas
+- Secondary region - 16 read replicas
+- ~1s replication of the cluster volume
+
+Use case:
+- Cross-Region Disaster Recovery (DR) and Business Continuity (BC)
+	- RPO and RTO will be low
+- Global read scaling - low latency perf improvements
+- ~1s or less replication between regions
+	- No impact on DB performance
+- Secondary region with 16 replicas - can be promoted to R/W
+
+### Aurora Multi-Master
+
+Aurora Multi-Master - Aurora with multiple instances with R/W operations
+- Default is Single-Master (1 R/W)
+- All instances are R/W
+- Cluster endpoint for write, read endpoint for load-balanced reads
+- Failover takes time - replica promoted to R/W
+
+
+Process:
+- 1 write will commit writes into all clusters
+	- Change is also replicated to other nodes in other clusters for consisency
+
+Benefits:
+- More fault-tolerant than single-master if primary instance error-ed

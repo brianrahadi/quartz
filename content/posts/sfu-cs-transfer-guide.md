@@ -5,7 +5,7 @@ draft: false
 tags: ["guide"]
 ---
 
-Last Updated: 28 June 2022
+Last Updated: 22 Jan 2024
 ## Introduction
 Hello! My name is Brian. I have just transferred to Simon Fraser University's Software Systems program this summer after graduating from Langara with an Associate in Computer Science.
 
@@ -87,7 +87,7 @@ I define 3 types of courses that can be taken here:
 
 
 ### Core Courses
-I mainly define core courses as courses that are part of the graduation requirement at SFU. Bare in mind that you do not need to take all core courses to transfer to SFU.
+I mainly define core courses as courses that are part of the graduation requirement at SFU. Bear in mind that you do not need to take all core courses to transfer to SFU.
 If you intend to transfer ASAP, taking CPSC 1150, 1181, Math 1171, and 1271 is sufficient.
 
 **NOT ALL  CORE COURSES ARE RECOMMENDED**.
@@ -96,10 +96,11 @@ I won't recommend taking STAT 2281 unless you have no other choice.
 I also won't recommend taking CPSC 2350 by any means since it has 6 credits as prerequisite (CPSC 1030 and CPSC 1045). Other core courses except these two should be fine to take.
 
 <figure>
-	<img src="../images/course-diagram.png" alt="Course Diagram" width="100%"/>
+	<img src="course-diagram.png" alt="Course Diagram" width="100%" style="background-color: white; padding: 1em;"/>
 	<figcaption style="text-align: center;"> CPSC and MATH Course Prerequisite Diagram
 	</figcaption>
 </figure>
+
 
 1. **CPSC 1150: Program Design (3) -> SFU CMPT 120 (3)**
 	- Introduction to programming in Java. You will mainly learn about pseudocode, the basic syntax of Java (if/else, loop), and recursion (only tracing) in the last week.
@@ -149,7 +150,6 @@ I also won't recommend taking CPSC 2350 by any means since it has 6 credits as p
 	- Core, but not recommended to take at Langara.
 	- All about discrete and continuous probabilities. Applications and proofs.
 	- Hardest math/stat course so far personally. Unless you are transferring with an associate or have no other courses to take, I don't think you need to take this course at Langara. The grade that I got in this course is far below my other math courses. I have a friend in SFU taking STAT 270 and it was easier and covers a narrower topic.
-	- Taken with Ken Li (Shuk Wong Li). He is a funny guy, but I don't find he was ready to teach this course. The assignment is almost always due on Sunday, My group of friends taking this basically had no weekend for the latter half of the term :)). I can see that he can be good at teaching the lower-level courses, but the concept in this course was just too hard to be taught and he makes a lot of calculation mistakes on the whiteboard. He might be better in the future though (I took it when it was his first time teaching this course). There was one time when he asks who finished the assignment and only one guy raised his hands up xD.
 
 ### Recommended Courses
 I define recommended courses as courses that are not part of the core requirements of the CS/ SoSy major but definitely can be taken towards either SFU graduation requirements (upper-division CS, WQB requirement) and/or Langara graduation requirements.
@@ -293,7 +293,8 @@ At the end of the day, your answer will ultimately depends on what you think is 
 ## General Tips
 - SFU offers admission 3 times a year (Spring, Summer, and Fall).
 - Plan your course carefully. A few hours of course planning can save you a lot of time and money.
-- If you have GPA above 3.7, you may get [a $3500 entrance scholarship at SFU](https://www.sfu.ca/students/financialaid/entrance/regulations/transfer-scholarships.html). This is really helpful!
+- ~If you have GPA above 3.7, you may get [a $3500 entrance scholarship at SFU](https://www.sfu.ca/students/financialaid/entrance/regulations/transfer-scholarships.html). This is really helpful!~
+  - Sadly, this scholarship is discontinued after Summer 2023
 - Taking 3 courses and passing all of them is far better than taking 5 courses but ending up failing one of them.
 - Unless you enjoy math, try to not have more than 1 math course at one term. I would define math courses as any math/ stat course and CPSC 2190. Personally, I perform better on math course where I can finish the given suggested exercises. I don't think I can mentally handle taking two math courses while also finishing all their suggested exercises.
 - Same rule applies to heavy coding course. When you are starting out at college, it can be hard to differentiate the syntax between each programming language. It may end up making you confused on the exams if you are taking two at the same time. Not all CPSC courses are heavy coding course. I would define heavy coding course as one of the following: CPSC 1045, 1150, 1155, 1160, 1181, 2130, 2150. 
@@ -368,8 +369,8 @@ Reddit Posts
 - SFU SoSy Masterpost Reddit - https://www.reddit.com/r/simonfraser/comments/bmt2zc/software_systems_program_bsc_masterpost/
 
 ## Conclusion
-Thank you so much for reading up until this point. I finally have made this guide after planning to make it for so long. The reasons I made this guide are mainly to make sure people avoid bad course and to save time and energy. I have an spent a lot of time planning my courses when I think it should not be that long.
+Thank you so much for reading up until this point. I finally have made this guide after planning to make it for so long. The reasons I made this guide are mainly to make sure people avoid bad course and to save time and energy. I have an spent a lot of time planning my courses when it should have been easier.
 
-In case you see any error in writing or have information to be added, feel free to reach me out.
+Reach me out in case you see any error in writing or have information to be added!
 
-![Cat Vibing](../images/cat-vibing.gif)
+![[cat-vibing.gif]]
