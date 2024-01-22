@@ -17,8 +17,14 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Work Experience
 
-> **Software Developer Co-op at Visier** (May. 2023 - Present) <br>
-> • Develops full-stack features for a best-in-class people analytics software using Scala, Play, Cassandra, Typescript, Angular, RxJs, and Protobuf.   <br>
+> **Agile Developer Co-op at SAP** (Jan. 2024 - Aug. 2024) <br>
+> • SAP Analytics Cloud, Charts Visualizations
+
+> **Software Developer Co-op at Visier** (May. 2023 - Dec. 2023) <br>
+> •  Utilized Scala, Play, Protobuf, and Kong API Gateway to transfer data through a 3-tiered REST API architecture, implementing API key rotation for enhanced security and reliability <br>
+> • Implemented extraction of usage data from Cassandra on a Kubernetes Pod, generating a weekly total of 2.75 million usage records across all customers <br>
+> •  Developed server-side rendered pagination using ag-grid data grid, connecting to server endpoints from AWS S3 using Angular, Typescript, RxJS, Scala, and Play, reducing initial load time for 83,000 rows by 56% <br>
+> •  Migrated container data from Cassandra to Kubernetes leveraging its Downward API for consistent data storage <br>
 > • Other tools used: Splunk, Postman, Kong API Gateway, ScalaTest, Mockito, Intellij, tmux
 
 > **Teaching Assistant at Langara College** (Feb. 2022 - Apr. 2023) <br>
@@ -32,7 +38,7 @@ Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-
 > **Website Committee Lead at SFU Software Systems Student Society** (Nov. 2022 - Present) <br>
 > Leads the development of projects and websites at [sfussss.org](https://www.sfussss.org/) and the upcoming [systemshacks.com](https://systemshacks.com/)
 
-> **Website Lead at SFUIA** (Aug. 2022 - Aug. 2022) <br>
+> **Website Lead at SFUIA** (Aug. 2022 - Aug. 2023) <br>
 > Spearheads [website](https://www.sfuia.org/) and manages social media, also organizes events for SFU indonesian community
 
 > **Vice Lead at Google DSC Langara College** (Jul. 2021 - Apr. 2022) <br>
@@ -101,7 +107,14 @@ Note:
 
 **Summer 2023**
 - Software Developer Co-op at [Visier](https://www.visier.com/)
-- [CMPT 415 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser ([website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home))
+- [CMPT 415 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
+  - Building an app to digitize data collection process for hospitals in Haiti - [GitHub](https://github.sfu.ca/bfraser/415-HHA-Haiti)
 
-**Fall 2023**
+**[Fall 2023](posts/100+-Things-I-Learned-During-My-Time-at-Visier)**
 - Software Developer Co-op at [Visier](https://www.visier.com/)
+
+**Spring 2024**
+- Agile Developer Co-op at [SAP](https://www.sap.com/)
+- [CMPT 416 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
+  - Continuing to build app for hospitals in Haiti - [GitHub](https://github.com/drbfraser/HHA-HaitiHospital)
+
