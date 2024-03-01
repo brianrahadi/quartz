@@ -31,7 +31,7 @@ The React project uses `Vite` - `TypeScript + SWC` and `tailwindcss`. Deployment
 2. Install `tailwindcss` and embed it into project
 	1. `npm install -D tailwindcss postcss autoprefixer`
 	2. `npx tailwindcss init -p`
-	3. Configure template paths in `tailwind.config.js
+	3. Configure template paths in `tailwind.config.js`
 		```
 		/** @type {import('tailwindcss').Config} */
 		export default {
