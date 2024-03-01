@@ -26,7 +26,7 @@ The React project uses `Vite` - `TypeScript + SWC` and `tailwindcss`. Deployment
 	3. Choose `react` as the framework
 	4. Choose `TypeScript + SWC`
 		- `TypeScript` to build your project with full type-safety
-		  `SWC` (Speedy Web Compiler) is super-fast TypeScript / JavaScript compiler written in Rust.
+		- `SWC` (Speedy Web Compiler) is super-fast TypeScript / JavaScript compiler written in Rust.
 	5. `cd test-project`
 2. Install `tailwindcss` and embed it into project
 	1. `npm install -D tailwindcss postcss autoprefixer`
