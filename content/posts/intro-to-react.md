@@ -57,11 +57,11 @@ The React project uses `Vite` - `TypeScript + SWC` and `tailwindcss`. Deployment
 	3. **Recommended**: Deploy with Vercel first, so it helps as another environment to run and test during development
 4. Deployment with Vercel - [Guide](https://vitejs.dev/guide/static-deploy#vercel) (2 initial ways)
 	- Command Line Interface - Easier but less convenient over time
-		1. `vercel i -g`
+		1. `npm i -g vercel`
 			1. Install vercel
 		2. `vercel`
 			1. Set up vercel deployment
-			2. Also used to update and upload folder
+			2. Also used to update and upload project folder to newest build
 	- Using GitHub - Better Integration and no need to redeploy every time - connected with GitHub.
 		1. Make repository in GitHub
 		2. Go to `vercel.com` and import project from Repository
