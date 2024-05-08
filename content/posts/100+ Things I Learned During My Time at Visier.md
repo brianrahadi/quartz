@@ -1,9 +1,8 @@
 ---
 title: 100+ Things I Learned During My Time at Visier
-draft: false
-tags:
-  - writings
 date: 2023-12-19T08:31:15Z
+draft: false
+tags: ["writings"]
 ---
 ## Intro
 Hello everyone, I have just wrapped up my work term here at Visier. Working there has been a really great learning experience. I am writing this post in hopes of (1) not forgetting what I have learned and (2) showing at a glance the knowledge I gained to others.
