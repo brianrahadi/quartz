@@ -1,5 +1,6 @@
 ---
 title: Introduction to React Workshop
+date: 2024-03-03T12:53:00-07:00
 draft: false
 tags:
   - guide
