@@ -5,7 +5,7 @@ tags: ["guide"]
 ---
 
 ## Background
-This report is written as part of my final report (CMPT416 - Special Research Project) with Dr. Brian Fraser. I was able to get 99%, thus I hope this report can be quite helpful in general for those who are developing for this platform or just want to lurk the documents.
+This report is written as part of my final report [(CMPT416 - Special Research Project) with Dr. Brian Fraser](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home). I was able to get 99%, thus I hope this report can be quite helpful in general for those who are developing for this platform or just want to lurk the documents.
 
 
 ## 1. Introduction
