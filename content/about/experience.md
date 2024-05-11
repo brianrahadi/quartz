@@ -114,7 +114,10 @@ Note:
 - Software Developer Co-op at [Visier](https://www.visier.com/)
 
 **Spring 2024**
-- Agile Developer Co-op at [SAP](https://www.sap.com/)
+- Software Developer Co-op at [SAP](https://www.sap.com/)
 - [CMPT 416 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - Continuing to build app for hospitals in Haiti - [GitHub](https://github.com/drbfraser/HHA-HaitiHospital)
 
+
+**Summer 2024**
+- Software Developer Co-op at [SAP](https://www.sap.com/)
