@@ -5,7 +5,7 @@ tags: ["reflections"]
 ---
 
 ## Background
-Hello readers! Some weeks ago, I had the privilege of attending the silicon valley trip with 24 other SFU folks. It was also my first time to the states. I wrote this post as a sort of diary and reflections of what I had experienced in the trip and maybe also for those who are thinking to join next year and see what it's all about.
+Some weeks ago, I had the privilege of attending the silicon valley trip with 24 other SFU folks. It was also my first time to the states. I wrote this post as a sort of diary and reflections of what I had experienced in the trip and maybe also for those who are thinking to join next year and see what it's all about.
 
 In case you are interested in watching the trip, Isabelle has made an [amazing vlog of the trip](https://www.youtube.com/watch?v=P8m5hW4Xeic&ab_channel=Belle).
 
@@ -61,3 +61,12 @@ Tried the SFO's AirTrain and normal train, then went to try In-N-Out Burger.
 
 The burger itself was quite interesting as the patty is crispy. As the price is relatively cheap compared to other burger places, I'd recommend!
 After this, we went to the hotel and rested for 30 mins. We played 'tennis' on nintendo switch with some group of friends. The trip is then continued with us going to the golden gate bridge!
+
+On the way there, we had a really nice uber driver that let us stop by the Palace of Fine Arts Theatre. It is a really amazing monumental structure and I'm personally baffled as I don't think I have ever come close to buildings with this architectural style.
+
+Here is the pics of our group and the uber driver, he is 90+ years old.
+
+As expected, we took lots of photos in the golden gate bridge. We spent some time there and in the gift shop, then ubered again to Ghirardelli Square. The building also looks pretty cool here but we are not eating here as it's quite expensive ;). We just bought gift from the chocolate shop and walked all the way to Pier 39 route.
+
+I had a clam chowder for dinner on one of the buildings on the way there. It tastes quite delicious! We walked around the area, went back to the hotel and slept.
+
