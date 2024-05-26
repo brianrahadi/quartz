@@ -103,7 +103,7 @@ We went straight back to hotel after this and ended the day enjoying the pool in
 
 Day 4!!!! Breakfast and we went straight to the Tesla Factory. Cannot really say much due to some reason ;), but the factory was sooooo big and cool to see!!
 
-After this, we went to the google office and meet with 5 amazing SFU Alumnis. They are all so nice and were also there in the alumni reception night. We walked quite some steps and had a similar career panel with the one in Discord. Amazing Q&A Sessions and was pretty interesting to see how working is like in Google. We continued walking to the Google Pixel Store, which also sells some merch. We walked over more and getting quite some steps in.
+After this, we went to the google office and meet with 6 amazing SFU Alumnis. They are all so nice and were also there in the alumni reception night. We walked quite some steps and had a similar career panel with the one in Discord. Amazing Q&A Sessions and was pretty interesting to see how working is like in Google. We continued walking to the Google Pixel Store, which also sells some merch. We walked over more and getting quite some steps in.
 
 After this is free time, we went into Twin Peaks to hike. The only time I wore shorts and it was the coldest I have ever experienced. We 'hiked' the peaks (quite a short walk) and ubered to eat at a restaurant at the city.
 
