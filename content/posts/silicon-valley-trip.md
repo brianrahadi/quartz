@@ -6,7 +6,7 @@ tags: ["reflections"]
 
 ## Background
 Some weeks ago, I had the privilege of attending the silicon valley trip with 24 other SFU folks. It was also my first time to the states. I wrote this post as a sort of diary and reflections of what I had experienced in the trip and maybe also for those who are thinking to join next year and see what it's all about.
-
+	
 In case you are interested in watching the trip, Isabelle has made an [amazing vlog of the trip](https://www.youtube.com/watch?v=P8m5hW4Xeic&ab_channel=Belle).
 
 ## Introduction
@@ -68,5 +68,45 @@ Here is the pics of our group and the uber driver, he is 90+ years old.
 
 As expected, we took lots of photos in the golden gate bridge. We spent some time there and in the gift shop, then ubered again to Ghirardelli Square. The building also looks pretty cool here but we are not eating here as it's quite expensive ;). We just bought gift from the chocolate shop and walked all the way to Pier 39 route.
 
-I had a clam chowder for dinner on one of the buildings on the way there. It tastes quite delicious! We walked around the area, went back to the hotel and slept.
+I had a clam chowder for dinner on one of the buildings on the way there. It tastes quite delicious! We walked around the area, went back to the hotel and took the first rest of the trip.
+
+### Day 2
+
+We started the day with a breakfast in the hotel and went straight to the Intel Museum. We went touring into how Intel is founded, brief history of the chips, and of course, explanation of the Moore's Law. The tour was guided by the employee from Futurewei. There was also a gift shop 
+
+We continued the day going into Futurewei office to see their presentation and meet their engineers. The company seems to specialize in low-level stuff and many of the engineers are doing research and have graduate degrees. It brings an interesting perspective of the industry and see people working hard in this domain.
+
+We continued going into Nvidia office after this to meet an SFU Alumni, [Arash Vahdat](https://research.nvidia.com/person/arash-vahdat), he finished his PHD from SFU and worked a few years at D-Wave Systems prior to joining Nvidia. The office itself was really big and the orange juice was really fresh!
+
+Arash has a really bright energy and very welcoming to us. His passion in his subject and care by accompanying us throughout the office trip really made the whole group felt really welcomed. Such a great guy! More details on the lessons learned on the below section!
+
+We ubered back to the hotel after this and take a quick rest before going to Alcatraz. It is an island dedicated for prison back in the day. This is an optional trip, but most of the group planned to go here. We walked quite nice steps and was interesting to see how the prison worked and looked like.
+
+We finished the trip, went for a quick trip around the city, and went back to hotel again!
+
+### Day 3
+
+Day 3 is here and after breakfast, we went to the discord office. This was one of the most anticipated office to tour with personally. The office is not as fancy from the outside, but I really like the cozy and cute vibe of the office. An SFU Alumni also guided the tour around the office. Discord office was really cool! Lots of merchs, decoration, gaming room. We had a career panel with 5 Discord Engineers who all studied from Canadian University. It was a really informative session and the group asked really interesting questions for them. It was quite relatable though they are really cracked and have worked really hard to get here.
+
+The food highlight of the trip was the Thai food offered for lunch. Maybe because it was the first Asian food of the trip, but it was the most flavourful (free) food of the trip.
+
+After this, we went to Computer History Museum (CHM). It's quite a big museum explaining all the stuff around computers. The time allocated was only 2 hours, so we kinda had to speedrun it on the second-half. Overall, some earlier parts are interesting though it's kinda hard for me to understand all the concepts hahaha. There are lots of cool computer things and history, softwares, games, and gift shop in the end.
+
+We went to one of the highlight of the trip after this, which is Alumni Reception Dinner. A lot of cool SFU Alumnis that works in Bay Area gather here. I met really cool people who worked in LinkedIn, Google, PayPal, and bunch of others. Was really grateful to see all of them, hearing their advices, and them answering all the questions. One common theme I see is how energetic and passionate people are in sharing the things they working on and just bay area life in general. A lot of food was served throughout the event and I probably munched the most calories in this dinner.
+
+We went straight back to hotel after this and ended the day enjoying the pool in the hotel with peeps from the group. A good time to end the day sharing all we have experienced in the trip.
+
+### Day 4
+
+Day 4!!!! Breakfast and we went straight to the Tesla Factory. Cannot really say much due to some reason ;), but the factory was sooooo big and cool to see!!
+
+After this, we go to 
+
+
+
+
+
+
+
+
 
