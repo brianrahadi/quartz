@@ -1,5 +1,6 @@
 ---
 title: "Hope Health Action Haiti Platform Full-Stack Architecture Overview"
+date: 2024-05-08T07:50:00Z
 draft: false
 tags: ["guide"]
 ---
