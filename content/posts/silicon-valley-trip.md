@@ -1,5 +1,6 @@
 ---
 title: "SFU CSSS Silicon Valley Trip 2024 Reflections"
+date: 2024-05-26T01:19:14.602450-07:00
 draft: false
 tags: ["reflections"]
 ---
@@ -120,8 +121,7 @@ It was a really worthwhile trip to get to know how things work in the Bay Area a
 It is not a proper trip without unpacking some of the key lessons I learned from each of the office tour!
 Here are some of it!
 
-
-### Futurewei:
+### Futurewei
 1. Focus on specializing in specific things to be irreplaceable
     - Common pattern I see in people working here. Many get graduate degrees so they can know more about the domain area
 2. Do volunteering or working in non-profit to know what kind of work you enjoy doing
@@ -154,11 +154,8 @@ A: First, when going into Grad school, you will have supervisor that mentor you 
 3. To be a good manager, care a lot and make sure people like what they are working on
 4. Take breaks and know that human has limitation. Burnout is real and it can make you hate things that you initially really liked
 
-
-
 ### Tesla
 Unfortunately for Tesla, it was only an office tour and we didn't talk to any of the engineers. It was a good visit tho!
-
 
 ### Google
 Google is famous for making sure the employee has a good well-being. Thus, there are food all over the office so the employee just focus on doing their best work.
