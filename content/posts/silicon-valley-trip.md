@@ -1,6 +1,6 @@
 ---
 title: "SFU CSSS Silicon Valley Trip 2024 Reflections"
-draft: true
+draft: false
 tags: ["reflections"]
 ---
 
@@ -37,6 +37,7 @@ Here are the rough schedule breakdown for the trip.
 | Afternoon   | Free | NVIDIA | Computer History Museum | Google | Flight |
 | Evening   | Free | Free | Alumni Night | Free |  |
 
+If you don't care about the specifics of what happened on the trip and only wanted to know what I have generally learned. Feel free to skip over to [Takeaways](#takeaways)
 
 ### Day 1
 Our Day 1 starts at having to come to the airport at 5am. To save uber cost and make sure I woke up, I stayed a night at a friend's place before. We got to the airport pretty early and got to meet the peeps at airport! We had air canada 
@@ -96,11 +97,123 @@ We went to one of the highlight of the trip after this, which is Alumni Receptio
 
 We went straight back to hotel after this and ended the day enjoying the pool in the hotel with peeps from the group. A good time to end the day sharing all we have experienced in the trip.
 
+
 ### Day 4
 
 Day 4!!!! Breakfast and we went straight to the Tesla Factory. Cannot really say much due to some reason ;), but the factory was sooooo big and cool to see!!
 
-After this, we go to 
+After this, we went to the google office and meet with 5 amazing SFU Alumnis. They are all so nice and were also there in the alumni reception night. We walked quite some steps and had a similar career panel with the one in Discord. Amazing Q&A Sessions and was pretty interesting to see how working is like in Google. We continued walking to the Google Pixel Store, which also sells some merch. We walked over more and getting quite some steps in.
+
+After this is free time, we went into Twin Peaks to hike. The only time I wore shorts and it was the coldest I have ever experienced. We 'hiked' the peaks (quite a short walk) and ubered to eat at a restaurant at the city.
+
+We ended the day by chilling in one of the peeps' room.
+
+### Day 5
+
+The final day! It was a free time before airport, so some of us decided to go to SFMOMA (San Francisco Museum of Modern Art). I didn't know anything but it was a worth visit. The building has 7 floors and the highlight was the 2 floors on the top. We had tour over the Art of Sounds and some cinematic experience of sounds and people singing. It was a worthwhile visit and we went back into the hotel to get our luggage. Then, we go to the airport to check-in and chill.
+
+And... the flight was delayed for 3 or 4 times to 2 hours 40 mins-ish. I honestly don't mind it as it means more time to enjoy with people. We wished we get delayed a bit more as compensation is only for delay with 3 hours minimum, RIP.
+
+It was a really worthwhile trip to get to know how things work in the Bay Area and even more worthwhile to get to know the people who work there and the friends we made along the trip :D.
+
+## Takeaways
+It is not a proper trip without unpacking some of the key lessons I learned from each of the office tour!
+Here are some of it!
+
+
+### Futurewei:
+1. Focus on specializing in specific things to be irreplaceable
+    - Common pattern I see in people working here. Many get graduate degrees so they can know more about the domain area
+2. Do volunteering or working in non-profit to know what kind of work you enjoy doing
+
+### Nvidia
+1. Use every opportunity to learn
+   - Arash was a manager and he had much little time now to learn things he liked as there are many more things to look for. Your time in Uni is precious that you can go ham in learning all these things.
+2. Do what you love, but also choose interests in high impact and on-demand areas
+   - Solid advice which I resonate with. Doing what you love makes you to have a strong start so you can be quite competitive and have that initial fire in learning the skills to get the job. If this skill is high impact and on-demand, you will be rewarded and this reward will incentivize you to keep learning or basically as an indicator that you have been learning the right thing.
+3. Hard to predict the future, be mindful of what will come
+   - Sometimes we may not know whether what we will learn will be relevant or not. Arash was heavily rewarded as he is heavily expertised in GenAI before the boom and now he works at Nvidia. He got his 'luck' but it's moreso his hard work and persistence that keeps him to learn and research this topic that allows him to be where he is at now.
+4. Rather than focus on long-term, focus on current short-term decisions
+   - It's really hard to know what it will look like in the long term. But having a solid short-term decision that rewards you will give you this snowball effect that will slowly but surely reward you heavily in the long term.
+   - I really resonate with this advice as this is also what I applied in my routine. In my personal experience, I knew that getting a first co-op as a Software Developer was hard. Thus, what I did is to not only focus on strong projects at school, but try to get related experience (TA at Langara) and do some projects that benefits the community (Some projects at organizations). This allows me to see that getting this first co-op to be not as impossible.
+5. Problems change, but principles stay the same
+   - How to pick up good project
+   - How to formulate problem fundamentally
+   - How to manage risk and priorities
+   - How to communicate and manage relationships
+
+Personal questions:
+Q: How to learn to be a good researcher (coming from a student who only know how to study and do good at exams)
+
+A: First, when going into Grad school, you will have supervisor that mentor you on this. You will also learn a lot of trial and error, how to manage risk in projects, and knowing when to wrap up stuff if it is not working. This all will be repeated all over, but exploring the deep unknowns and being the frontier of knowledge advancement I guess is what makes research really interesting for some people.
+
+### Discord
+1. Impostor Syndrome is real. Knowing that everyone else has experienced it in their career makes you worry less and focus on what you can do
+2. Find passion that drives your motivation - this will lead you to places
+   - This will make you to be unique and make more exciting projects
+3. To be a good manager, care a lot and make sure people like what they are working on
+4. Take breaks and know that human has limitation. Burnout is real and it can make you hate things that you initially really liked
+
+
+
+### Tesla
+Unfortunately for Tesla, it was only an office tour and we didn't talk to any of the engineers. It was a good visit tho!
+
+
+### Google
+Google is famous for making sure the employee has a good well-being. Thus, there are food all over the office so the employee just focus on doing their best work.
+
+1. Focus on having a strong problem solving skills rather than learning a specific tech stack
+   - This is what Google see - though for me it can seem a bit abstract in the beginning, it makes more sense later on. As you solve more interesting problem, the tech stack matter less and recruiter see more on what impact have you done.
+2. Being a really good engineer is one thing, but being a person who cares about how other doings will lead you even farther
+3. It's okay to fail and life is not a competition. Focus on what you can do best currently and sooner or later you will succeed.
+   - There was one particular engineer that really resonated to me as he got into Google quite some years after he graduated. He focused on making a lot of impact in his old company and be good at interviewing. Having this 'fire' to still be kept lit allowed him to be where he is at today.
+
+
+## Conclusion
+SFU CSSS Silicon Valley Trip was definitely one of the highlight in my undergrad years at SFU. I really recommend this to people I met as this is almost like a opportunity you get once in your life to explore SV, meet with cool people with cool friends.
+
+Feel free to ask me more about the trip if you have more questions and apologize if there's any typo or grammar error in the blog (let me know plss). Thank you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
