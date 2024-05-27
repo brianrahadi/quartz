@@ -27,16 +27,36 @@ During my time, The application was opened on October 10, 2023. From what I have
 
 Keep in mind that the date and spots amount may change every year.
 
+If you can't bother with the trip logistics, skip over to [Takeaways](#takeaways) for the lessons I learned.
+
 ## The Trip
 Our trip is a 5-day trip from Tuesday, April 30 to Saturday, May 4 (2024). We stayed in [DoubleTree by Hilton Hotel](https://www.hilton.com/en/hotels/sfonodt-doubletree-san-francisco-airport-north-bayfront/?SEO_id=GMB-AMER-DT-SFONODT&y_source=1_MTQ4NDk0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D) near the airport. Roundtrip flights using Air Canada. We visited 5 companies - Futurewei, Nvidia, Discord, Tesla, and Google. There are quite some free time throughout the trip which I really appreciate. We also had an alumni reception + networking night which was a really banger time and opportunity to get to know SFU Alumnis who worked down here.
 
 Here are the rough schedule breakdown for the trip.
 
-|           | April 30  | May 1 | May 2 | May 3 | May 4 |
-| ---------- | --------- | ----- | ----- | ----- | ----- |
-| Morning   | Flight    | Futurewei + Intel Museum | Discord |  Tesla | Free |
-| Afternoon   | Free | NVIDIA | Computer History Museum | Google | Flight |
-| Evening   | Free | Free | Alumni Night | Free |  |
+Note:
+- Nested 1, 2, 3 refers to Morning, Afternoon, and Evening
+- Free is freetime and in the bracket is the planned optional hangout
+
+1. Tue, Apr 30
+   1. Flight
+   2. Free (Golden Gate Bridge)
+   3. Free (Pier 39)
+2. Wed, May 1
+   1. Intel Museum + Futurewei
+   2. Nvidia
+   3. Free (Alcatraz Prison)
+3. Thu, May 2
+   1. Discord
+   2. Computer History Museum
+   3. Alumni Reception Night
+4. Fri, May 3
+   1. Tesla
+   2. Google
+   3. Free (Twin Peaks)
+5. Sat, May 4
+   1. Free (SF Museum of Modern Art)
+   2. Flight 
 
 If you don't care about the specifics of what happened on the trip and only wanted to know what I have generally learned. Feel free to skip over to [Takeaways](#takeaways)
 
@@ -45,32 +65,21 @@ Our Day 1 starts at having to come to the airport at 5am. To save uber cost and 
 
 The flight was delayed by 30 mins. oh well..
 
-<figure>
-	<img src="sv-1-airport.jpeg" alt="Waiting at the airport" width="45%" style="margin: auto; display: block;">
-	<figcaption style="text-align: center;"> Waiting at the airport
-	</figcaption>
-</figure>
-
-
 We finally landed successfully! Yayyy!
 Tried the SFO's AirTrain and normal train, then went to try In-N-Out Burger.
-
-<figure>
-	<img src="sv-1-in-n-out.jpeg" alt="Waitingfor In-N-Out burger" width="45%" style="margin: auto; display: block;">
-	<figcaption style="text-align: center;">Waiting for In-N-Out burger
-	</figcaption>
-</figure>
 
 The burger itself was quite interesting as the patty is crispy. As the price is relatively cheap compared to other burger places, I'd recommend!
 After this, we went to the hotel and rested for 30 mins. We played 'tennis' on nintendo switch with some group of friends. The trip is then continued with us going to the golden gate bridge!
 
-On the way there, we had a really nice uber driver that let us stop by the Palace of Fine Arts Theatre. It is a really amazing monumental structure and I'm personally baffled as I don't think I have ever come close to buildings with this architectural style.
+On the way to the bridge, our uber driver was really nice and shared a lot of things about the city. He also let us to stop for 10 mins to stop by at Palace Of Fine Arts. It was such an amazing place to visit and lots of cool pics are taken there!! Reminded me of the roman empire that I think about at least once a week ;).
 
-Here is the pics of our group and the uber driver, he is 90+ years old.
+We continued the uber trip to Golden Gate Bridge. It's such an amazing sight after looking at it in-person. What amazes me more is the always-perfect weather in here. Perfect sky (just lacks cloud), light, and temperature. We spent most of the time taking photos as we should.
 
-As expected, we took lots of photos in the golden gate bridge. We spent some time there and in the gift shop, then ubered again to Ghirardelli Square. The building also looks pretty cool here but we are not eating here as it's quite expensive ;). We just bought gift from the chocolate shop and walked all the way to Pier 39 route.
+After that, we visited Ghirardelli to look at the fancy restaurants and gift shops. We didn't eat here as the price seems higher than our tax bracket. I got a chocolate as a gift from the Ghirardelli chocolate experience.
 
-I had a clam chowder for dinner on one of the buildings on the way there. It tastes quite delicious! We walked around the area, went back to the hotel and took the first rest of the trip.
+We continued walking to fisherman's wharf and went sightseeing the shops. It seems surreal and the architectures are just so different from Vancouver. We went to one of the shops and had dinner and had clam chowder. It tastes delicious! though I ate too much bread as the bowls is made of bread.
+
+We ended the rest of evening taking more walks until Pier 39 and ubered back to the hotel and sleep.
 
 ### Day 2
 
