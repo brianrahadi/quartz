@@ -8,6 +8,8 @@ I find the software world fascinating because of its ability to improve our live
 
 I am interested in learning all aspects of the software development life cycle. From designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
 
+Outside software, I enjoy going for a walk (the most 'cardio' thing i enjoy), doing leg press (i'm bad at pull ups), and just doing any kinds of activities with people! If you see me idling, I'm probably trying to figure out the worst joke that you will still laugh for.
+
 I enjoy sharing things on the internet. Below are some of them:
 - [Posts](posts/) I have shared to the internet;
 - [Experience](about/experience.md) or summary of what I have done;
