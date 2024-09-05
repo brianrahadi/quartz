@@ -10,6 +10,7 @@ Experience consists of my recent education, work, organization experiences, and 
 
 > **Simon Fraser University** (May 2022 - Apr. 2025 Expected) <br>
 > Bachelor of Science, Computing Science in Software Systems <br>
+> **CGPA: 3.82/4.33** <br>
 
 > **Langara College** (Sep. 2020 - Apr. 2022) <br>
 > Associate of Science, Computer Science (Graduated with distinction) <br>
@@ -17,8 +18,14 @@ Experience consists of my recent education, work, organization experiences, and 
 
 ## Work Experience
 
+> **Undergraduate Teaching Assistant at Simon Fraser University** (Sep. 2024 - Dec. 2024) <br>
+> • Teaching first-year students introduction to programming (C++) - CMPT 130 <br>
+
 > **Agile Developer Co-op at SAP** (Jan. 2024 - Aug. 2024) <br>
-> • SAP Analytics Cloud, Charts Visualizations
+> •  Fixed 30+ bugs across 16 charts in SAP Analytics Cloud using React, Redux, Typescript, Jest, and Jasmine, with immediate backporting.<br>
+> •  Developed widget-level bar width resize in under 3 weeks, collaborating with UX, PM, and QA lead to ensure a smooth release.<br>
+> •  Created centralized settings (feature toggles, configurations) for 1000+ files in a separate repository, simplifying code in 2 large client repositories and removing circular dependencies.<br>
+> •  Received a Fast Track Award as a highly performing intern (top 20%) for consistently delivering high-quality code with high velocity.
 
 > **Software Developer Co-op at Visier** (May. 2023 - Dec. 2023) <br>
 > •  Utilized Scala, Play, Protobuf, and Kong API Gateway to transfer data through a 3-tiered REST API architecture, implementing API key rotation for enhanced security and reliability <br>
@@ -35,8 +42,11 @@ Available Courses to Tutor: (All CPSC) <a href="https://langara.ca/programs-and-
 
 
 ## Organization Experience
-> **Website Committee Lead at SFU Software Systems Student Society** (Nov. 2022 - Present) <br>
-> Leads the development of projects and websites at [sfussss.org](https://www.sfussss.org/) and the upcoming [systemshacks.com](https://systemshacks.com/)
+> **Co-director of Logistics at SFU Surge** (Jun. 2024 - Present) <br>
+> Co-directing logistics of [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/) 
+
+> **Website Committee Lead at SFU Software Systems Student Society** (Nov. 2022 - Aug. 2024) <br>
+> Leads the development of projects and websites at [sfussss](https://www.sfussss.org/) and the upcoming [systemshacks](https://systemshacks.com/)
 
 > **Website Lead at SFUIA** (Aug. 2022 - Aug. 2023) <br>
 > Spearheads [website](https://www.sfuia.org/) and manages social media, also organizes events for SFU indonesian community
@@ -118,6 +128,11 @@ Note:
 - [CMPT 416 - Special Research Projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with Brian Fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - Continuing to build app for hospitals in Haiti - [GitHub](https://github.com/drbfraser/HHA-HaitiHospital)
 
-
 **Summer 2024**
 - Software Developer Co-op at [SAP](https://www.sap.com/)
+
+**Fall 2024**
+- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/373.html" target="_blank">CMPT 373 - Software Development Methods</a>
+- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/473.html" target="_blank">CMPT 473 - Software Testing, Reliability, and Security</a>
+- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/494.html" target="_blank">CMPT 494 - Software Systems Capstone Project I</a>
+- TA <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">CMPT 130</a> (1)
