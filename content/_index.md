@@ -24,7 +24,3 @@ i enjoy sharing things on the internet:
 	<img src="me.png" alt="me in cool place" width="50%" style="margin: auto;"/>
 	</figcaption>
 </figure>
-
-i like talking and meeting new people over these topics (or help in any way i can)
-
-if this is also you (or trying to be), you can book a meeting with me [here](https://tidycal.com/brianrahadi)
