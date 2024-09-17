@@ -1,7 +1,7 @@
 ---
 title: My Experience at HackTheNorth
 draft: false
-date: 2024-09-16T16:21:42+0000
+date: 2024-09-15T16:21:42+0000
 ---
 ## intro
 

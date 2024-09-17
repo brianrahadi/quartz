@@ -3,7 +3,7 @@ title: Why you should join hackathons
 draft: false
 tags:
   - writings
-date: 2024-09-17T16:21:42+0000
+date: 2024-09-15T16:21:42+0000
 ---
 ## background
 
