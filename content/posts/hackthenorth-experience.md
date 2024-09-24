@@ -10,7 +10,8 @@ HackTheNorth is a 36-hr hackathons hosted by University of Waterloo. It is the b
 Why - you can take a look at https://hackthenorth.com. The workshops, judges, mentors, prizes are top there. The organizers have also been really helpful in providing everything we need - sleeping bags and mask, full bathroom toiletries.
 
 They also provided flight travel expenses and shuttle bus from and to the airport. One of my personal experience is how they provided us water bottle when we just arrived and it ran out when I asked, the organizer quickly ran out to 7/11 and bought me a single cold water bottle. If that's not a high level of service, I don't know what is.
-# foods
+
+## foods
 I also really enjoy the foods there (definitely gaining weight). Here are the foods we get throughout the weekend.
 - Day 1 - Chicken Alfredo (Dinner), Funnel Cakes (Snack)
 - Day 2 - Breakfast Bowls, Beef Burgers (Lunch), Ice Cream (snack), power bowls (dinner), soup (snack), poutine (snack), boba (snack)
@@ -24,7 +25,7 @@ the people I met there have been amazing. Even seeing how the finalists work wit
 
 Some of the most interesting projects:
 - piano-playing robot
-- personal care teddy bare with LLM voice assistant
+- personal care teddy bear with LLM voice assistant
 - chrome extension that blocks you on spending when checking out(sounds simple, but it's so funny!)
 
 ## swags
