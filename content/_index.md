@@ -2,7 +2,7 @@
 title: 🏡 Home
 ---
 
-hello! I'm brian. currently studying [Software Systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) at simon fraser university.
+hello! I'm brian. currently studying [software systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) at simon fraser university.
 
 
 i find the software world fascinating because of its ability to improve our lives on a seemingly infinite scale.
