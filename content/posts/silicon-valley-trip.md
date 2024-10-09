@@ -20,7 +20,7 @@ Here's the reason on why I joined (ordered by stronger reason):
 4. Slightly subsidized trip $$$ :D
 5. I have never been to US!
 
-And those are the reasons on why I joined. I think some people there are joining mainly because they wanna have a good time with people. Networking also plays quite a role here, but I personally do not fixate on this as I think a good enough cold networking might do the job too.
+And those are the reasons on why I joined. I think some people there are joining mainly because they wanna have a good time with people.
 
 ## Getting into the Trip
 During my time, The application was opened on October 10, 2023. From what I have heard, roughly 100 people applied. Around half of those (50) are interviewed. And then there are around 20-23 spots for the attendants. Few of my friends also got in or waitlisted then got in, but declined due to US Visa Issue :)). The interview was a 15-min get-to-know you and your reasons on why you wanna join the trip. Preference are also given to students in upper-years and have co-op experience.
@@ -181,51 +181,23 @@ SFU CSSS Silicon Valley Trip was definitely one of the highlight in my undergrad
 
 Feel free to ask me more about the trip if you have more questions and apologize if there's any typo or grammar error in the blog (let me know plss). Thank you!
 
+## Memories
+
+![[sv-goldengate.jpg|400]]
+*golden gate - day 1*
 
 
+![[sv-intel.jpg|400]]
+*intel - day 2*
 
+![[sv-nvidia.jpg|400]]
+*nvidia - day 2*
 
+![[sv-discord.jpg|400]]
+*discord - day 3*
 
+![[sv-tesla.jpg|400]]
+*tesla - day 4*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![[sv-google.jpg|400]]
+*google - day 4*

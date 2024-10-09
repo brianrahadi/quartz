@@ -44,8 +44,3 @@ I personally got:
 I got the pleasure to barely won 3rd place for best use of Cohere and Defang
 
 I could have provided much more explanations, but here are some of the things on my mind now and attending HackTheNorth is definitely up there in my undergraduate life experience :).
-
-
-
-
-

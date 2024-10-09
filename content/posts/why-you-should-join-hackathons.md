@@ -32,8 +32,6 @@ There are also more than these of course:
 
 Of course, I do acknowledge the drawbacks of it, which are not a replicate of how a true software development looks like - no project management, bad code practices, no sleep. However, as we acknowledge it, there are of course many other ways to learn about all these other practices. Hackathon is a really good medium to learn solve problems fast.
 
-My opinion is that hackathon projects are not as good for resume - as there are many other ways to solve how you can build and maintain software in longer period of time. However, it is indeed one way to get there if you don't have much experience.
-
 ## personal experience
 
 My initial drive for hackathons was free food, but it stays for the people and projects
