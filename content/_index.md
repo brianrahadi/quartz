@@ -20,7 +20,5 @@ i enjoy sharing things on the internet:
 - [books](about/books.md) i have read;
 - [restaurants](https://brianrahadi.notion.site/Restaurant-Reviews-2762ef471f4c44bf8221683723835e87) i have been to (notion page for now).
 
-<figure>
-	<img src="me.png" alt="me in cool place" width="50%" style="margin: auto;"/>
-	</figcaption>
-</figure>
+![[me.png|300]]
+
