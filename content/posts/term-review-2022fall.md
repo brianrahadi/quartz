@@ -1,45 +1,45 @@
 ---
-title: "Term Review - Fall 2022"
-date: 2022-12-20T14:23:20-08:00
+title: "term review - fall 2022"
+date: 2022-12-20t14:23:20-08:00
 draft: false
 tags: ["term-review", "reflection"]
 ---
 
-## Intro
-Fall 2022 has been quite a rough ride as it's my first time taking 4 CMPT courses. There were some moments where I didn't get the time to revise some content, but overall, this term was pretty good. 
+## intro
+fall 2022 has been quite a rough ride as it's my first time taking 4 cmpt courses. there were some moments where i didn't get the time to revise some content, but overall, this term was pretty good. 
 
 
-## Courses
-### CMPT 300 - Operating Systems I (Hazra Imran)
-**Course Experience**: 4/5 <br>
-**Pros**: Interesting assignments, decent lectures (recorded), and finish-for-marks class exercises <br>
-**Cons**: The exam is quite tricky and assignment requirements might not be detailed enough. <br>
-**Self-feedback**: Start assignments super early to allow more time to ask later
+## courses
+### cmpt 300 - operating systems i (hazra imran)
+**course experience**: 4/5 <br>
+**pros**: interesting assignments, decent lectures (recorded), and finish-for-marks class exercises <br>
+**cons**: the exam is quite tricky and assignment requirements might not be detailed enough. <br>
+**self-feedback**: start assignments super early to allow more time to ask later
 
-I really enjoyed CMPT300 offering by Dr. Hazra. She is quite understanding and assignments are really interesting (programs related to OS concepts in C). It could have been a 5/5 for me, but there were mainly 2 reasons: <br>
--  Some MCs in the exam cover contents that are mentioned quite rarely and you need to really understand all the way to get full marks from the select all options.
--  The assignment requirements can be a bit vague and you need to decipher every single thing. There are some corner cases that are not yet answered. Usually, the implementation of these corner cases is up to us in the end. Having some test cases would definitely help a lot in easing students' anxiety.
+i really enjoyed cmpt300 offering by dr. hazra. she is quite understanding and assignments are really interesting (programs related to os concepts in c). it could have been a 5/5 for me, but there were mainly 2 reasons: <br>
+-  some mcs in the exam cover contents that are mentioned quite rarely and you need to really understand all the way to get full marks from the select all options.
+-  the assignment requirements can be a bit vague and you need to decipher every single thing. there are some corner cases that are not yet answered. usually, the implementation of these corner cases is up to us in the end. having some test cases would definitely help a lot in easing students' anxiety.
 
-Another thing is how hard and time-consuming her final is. I was caught off guard as I have plenty of times in two of her midterms.
+another thing is how hard and time-consuming her final is. i was caught off guard as i have plenty of times in two of her midterms.
 
-Overall, I think our instructor has tried her best to make this tough course enjoyable. I wouldn't mind taking another course with Dr. Hazra again.
+overall, i think our instructor has tried her best to make this tough course enjoyable. i wouldn't mind taking another course with dr. hazra again.
 
-### CMPT 383 - Comparative Programming Languages (Anders Miltner)
-**Experience**: 5/5 <br>
-**Pros**: All vitamins and assignments have test cases, and engaging lectures <br>
-**Cons**: 98+ for A+ (╯°□°)╯︵ ┻━┻ <br>
-**Self-feedback**: Make sure all corner cases are solved, some marks are off as I already felt confident having passed all the given test cases
+### cmpt 383 - comparative programming languages (anders miltner)
+**experience**: 5/5 <br>
+**pros**: all vitamins and assignments have test cases, and engaging lectures <br>
+**cons**: 98+ for a+ (╯°□°)╯︵ ┻━┻ <br>
+**self-feedback**: make sure all corner cases are solved, some marks are off as i already felt confident having passed all the given test cases
 
-CMPT383 by Anders covers Haskell and Rust. We learned the concepts of functional programming in Haskell and how Rust handles memory very elegantly.
+cmpt383 by anders covers haskell and rust. we learned the concepts of functional programming in haskell and how rust handles memory very elegantly.
 
-In the first half, I was quite intrigued by what Haskell is capable of. I didn't understand functional programming at all in the beginning. Basically, you cannot do any loops in Haskell and every variable is a constant. Yes, you heard it, it's constant. 
+in the first half, i was quite intrigued by what haskell is capable of. i didn't understand functional programming at all in the beginning. basically, you cannot do any loops in haskell and every variable is a constant. yes, you heard it, it's constant. 
 
-The difference between Haskell and most programming languages (Python, Java, C) is that Haskell is **declarative** while the former is **imperative**. Declarative is telling the program what you want (without specifying how to get it), while imperative is telling the program what to do. While declarative seems more work, it might be more concise (beautiful) in some cases.
+the difference between haskell and most programming languages (python, java, c) is that haskell is **declarative** while the former is **imperative**. declarative is telling the program what you want (without specifying how to get it), while imperative is telling the program what to do. while declarative seems more work, it might be more concise (beautiful) in some cases.
 
 ``` hs
-allDivisors :: Int -> [Int]
-allDivisors n = [x | x <- [n, n-1..1], mod x n == 0]
--- Haskell function that returns all divisors from a number in ascending order
+alldivisors :: int -> [int]
+alldivisors n = [x | x <- [n, n-1..1], mod x n == 0]
+-- haskell function that returns all divisors from a number in ascending order
 ```
 
 ``` py
@@ -49,50 +49,50 @@ def all_divisors(n: int) -> [int]:
         if n % i == 0:
             res.append(i)
     return res
-## The same function written in python
+## the same function written in python
 ```
 
-In this example, I would say the Haskell code is more concise and readable than the python code. However, most things are inefficient in functional programming (as speed is not their main forte). For example, arrays are linked lists in Haskell. This makes the access time O(n) for arrays.
+in this example, i would say the haskell code is more concise and readable than the python code. however, most things are inefficient in functional programming (as speed is not their main forte). for example, arrays are linked lists in haskell. this makes the access time o(n) for arrays.
 
-The second half is about rust, I find rust to be very elegant and solve a lot of problems that C has. To make it simple, you won't be having any dangling pointers in rust due to its ownership features. 
+the second half is about rust, i find rust to be very elegant and solve a lot of problems that c has. to make it simple, you won't be having any dangling pointers in rust due to its ownership features. 
 
-> Each variable in rust can only have 1 owner and this value will be dropped if the owner goes out of scope.
+> each variable in rust can only have 1 owner and this value will be dropped if the owner goes out of scope.
 
-Thus, compiling code can be harder in rust as they are more strict. However, you can rest assured that memory problem will happen way LESS likely if your code were to compile.
+thus, compiling code can be harder in rust as they are more strict. however, you can rest assured that memory problem will happen way less likely if your code were to compile.
 
-### CMPT 371 - Data Communications and Networking (Ouldooz Baghban Karimi)
-**Experience**: 3/5 <br>
-**Pros**: Organized canvas, caring lecturer, has recorded video (summary) <br>
-**Cons**: Lecture is a bit bland, Homework is mostly answered already answered in the textbook <br>
-**Self-feedback**: Read the textbook if needed as sometimes slides are way too abstract.
+### cmpt 371 - data communications and networking (ouldooz baghban karimi)
+**experience**: 3/5 <br>
+**pros**: organized canvas, caring lecturer, has recorded video (summary) <br>
+**cons**: lecture is a bit bland, homework is mostly answered already answered in the textbook <br>
+**self-feedback**: read the textbook if needed as sometimes slides are way too abstract.
 
-Ouldooz is caring and takes an effort in trying to make students want to succeed. However, I felt networking itself is a course that is quite boring for most students (as seen from the attendance rate compared to other courses). Most problems here are theories and I don't mind learning the theories, but compared to classes like Operating Systems, I don't find the theory in this course to be connected to each other. Thus, it makes it a bit hard to understand the bigger picture of what this course has to offer.
+ouldooz is caring and takes an effort in trying to make students want to succeed. however, i felt networking itself is a course that is quite boring for most students (as seen from the attendance rate compared to other courses). most problems here are theories and i don't mind learning the theories, but compared to classes like operating systems, i don't find the theory in this course to be connected to each other. thus, it makes it a bit hard to understand the bigger picture of what this course has to offer.
 
-An improvement that could have been made is to have programming problems that relate to the theory. This would make the course to be more bearable.
+an improvement that could have been made is to have programming problems that relate to the theory. this would make the course to be more bearable.
 
 
-### CMPT 272 - Web I - Client-side Development (Bobby Chan)
-**Experience**: 3.5/5 <br>
-**Pros**: Interesting topics, very hands-on lecture<br>
-**Cons**: Hands-on can be very hard if you don't understand, Hard-to-ace exams <br>
-**Self-feedback**: Annotate key topics as Bobby tends to be fast-paced
+### cmpt 272 - web i - client-side development (bobby chan)
+**experience**: 3.5/5 <br>
+**pros**: interesting topics, very hands-on lecture<br>
+**cons**: hands-on can be very hard if you don't understand, hard-to-ace exams <br>
+**self-feedback**: annotate key topics as bobby tends to be fast-paced
 
-I had the pleasure to take the first offering of CMPT 272. This course teaches you all about HTML, CSS, JavaScript, Typescript, Angular, and APIs. 
+i had the pleasure to take the first offering of cmpt 272. this course teaches you all about html, css, javascript, typescript, angular, and apis. 
 
-The Typescript and Angular parts are quite useful and I am thrilled to know the ins and outs of building websites with them.
+the typescript and angular parts are quite useful and i am thrilled to know the ins and outs of building websites with them.
 
-Bobby is very hands-on and I need to make sure to catch up with the materials to understand what he is talking about. Class is not recorded, and while the lecture codes are posted in GitLab, It is harder and might take way more time in understanding what the code does compare to just seeing him code in real-time.
+bobby is very hands-on and i need to make sure to catch up with the materials to understand what he is talking about. class is not recorded, and while the lecture codes are posted in gitlab, it is harder and might take way more time in understanding what the code does compare to just seeing him code in real-time.
 
-Overall, I find this course to be 3/5 as Bobby likes to put a lot of weight in midterms and finals. The average for the final was 60 and it is mandatory to pass the final to pass the course.
+overall, i find this course to be 3/5 as bobby likes to put a lot of weight in midterms and finals. the average for the final was 60 and it is mandatory to pass the final to pass the course.
 
-Course final project: [Pig Locator](../../projects/#pig-locator) 
+course final project: [pig locator](../../projects/#pig-locator) 
 
-## What went well
-- Able to finish all assignments on-time
+## what went well
+- able to finish all assignments on-time
 
-## What could have been better
-- Time management can be fixed in the second half
-- Rarely attended office hours as assignments are done near the deadline
+## what could have been better
+- time management can be fixed in the second half
+- rarely attended office hours as assignments are done near the deadline
 
-## Conclusion
-Overall, I really enjoyed this term's courses. Nothing much to say. Feel free to contact me if you have any questions :D.
+## conclusion
+overall, i really enjoyed this term's courses. nothing much to say. feel free to contact me if you have any questions :d.

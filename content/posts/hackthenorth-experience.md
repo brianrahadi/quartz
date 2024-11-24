@@ -1,46 +1,46 @@
 ---
-title: My Experience at HackTheNorth
+title: my experience at hackthenorth
 draft: false
-date: 2024-09-15T16:21:42+0000
+date: 2024-09-15t16:21:42+0000
 ---
 ## intro
 
-HackTheNorth is a 36-hr hackathons hosted by University of Waterloo. It is the biggest hackathon in Canada and arguably one of the best, if not the best one, in the world. 
+hackthenorth is a 36-hr hackathons hosted by university of waterloo. it is the biggest hackathon in canada and arguably one of the best, if not the best one, in the world. 
 
-Why - you can take a look at https://hackthenorth.com. The workshops, judges, mentors, prizes are top there. The organizers have also been really helpful in providing everything we need - sleeping bags and mask, full bathroom toiletries.
+why - you can take a look at https://hackthenorth.com. the workshops, judges, mentors, prizes are top there. the organizers have also been really helpful in providing everything we need - sleeping bags and mask, full bathroom toiletries.
 
-They also provided flight travel expenses and shuttle bus from and to the airport. One of my personal experience is how they provided us water bottle when we just arrived and it ran out when I asked, the organizer quickly ran out to 7/11 and bought me a single cold water bottle. If that's not a high level of service, I don't know what is.
+they also provided flight travel expenses and shuttle bus from and to the airport. one of my personal experience is how they provided us water bottle when we just arrived and it ran out when i asked, the organizer quickly ran out to 7/11 and bought me a single cold water bottle. if that's not a high level of service, i don't know what is.
 
 ## foods
-I also really enjoy the foods there (definitely gaining weight). Here are the foods we get throughout the weekend.
-- Day 1 - Chicken Alfredo (Dinner), Funnel Cakes (Snack)
-- Day 2 - Breakfast Bowls, Beef Burgers (Lunch), Ice Cream (snack), power bowls (dinner), soup (snack), poutine (snack), boba (snack)
-- Day 3 - Waffle Bar (Breakfast), Walking Tacos (Lunch), Boba (Snack)
+i also really enjoy the foods there (definitely gaining weight). here are the foods we get throughout the weekend.
+- day 1 - chicken alfredo (dinner), funnel cakes (snack)
+- day 2 - breakfast bowls, beef burgers (lunch), ice cream (snack), power bowls (dinner), soup (snack), poutine (snack), boba (snack)
+- day 3 - waffle bar (breakfast), walking tacos (lunch), boba (snack)
 
 ## sponsors
-the sponsors are also really cracked - they even have private job boards and I had the pleasure of doing onsite interview with Shopify there.
+the sponsors are also really cracked - they even have private job boards and i had the pleasure of doing onsite interview with shopify there.
 
 ## people
-the people I met there have been amazing. Even seeing how the finalists work with the craziest projects, it's miles above what I have seen in my previously attended hackathons.
+the people i met there have been amazing. even seeing how the finalists work with the craziest projects, it's miles above what i have seen in my previously attended hackathons.
 
-Some of the most interesting projects:
+some of the most interesting projects:
 - piano-playing robot
-- personal care teddy bear with LLM voice assistant
+- personal care teddy bear with llm voice assistant
 - chrome extension that blocks you on spending when checking out(sounds simple, but it's so funny!)
 
 ## swags
-crazy amount of swags. You can easily fill a whole bag just by talking and attending all the sponsor booths. A lot of t-shirts, mugs, stickers, and other niche stuffs too!
+crazy amount of swags. you can easily fill a whole bag just by talking and attending all the sponsor booths. a lot of t-shirts, mugs, stickers, and other niche stuffs too!
 
-I personally got:
-- HTN hoodie and t-shirt
+i personally got:
+- htn hoodie and t-shirt
 - 2 shopify t-shirts (kinda banger)
 - intact mug
-- playing cards (uwaterloo math dept. edition) xD
-- HTN powerbank
+- playing cards (uwaterloo math dept. edition) xd
+- htn powerbank
 - decent-quality tote bag
 - and many more i prob forgot
 
 ## conclusion
-I got the pleasure to barely won 3rd place for best use of Cohere and Defang
+i got the pleasure to barely won 3rd place for best use of cohere and defang
 
-I could have provided much more explanations, but here are some of the things on my mind now and attending HackTheNorth is definitely up there in my undergraduate life experience :).
+i could have provided much more explanations, but here are some of the things on my mind now and attending hackthenorth is definitely up there in my undergraduate life experience :).
