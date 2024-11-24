@@ -1,5 +1,5 @@
 ---
-title: Introduction to HTML/ CSS/ JavaScript Workshop
+title: introduction to html/ css/ javascript workshop
 date: 2023-05-08T12:53:00-07:00
 draft: false
 tags:

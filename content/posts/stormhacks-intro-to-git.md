@@ -1,5 +1,5 @@
 ---
-title: "StormHacks 2024 Pre-Hacks Intro to Git"
+title: "stormhacks 2024 pre-hacks intro to git"
 date: 2024-10-01T20:11:06+0000
 draft: false
 tags: ["guide"]
