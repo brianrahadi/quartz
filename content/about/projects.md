@@ -2,7 +2,6 @@
 title: "projects"
 date: 2022-08-22t10:20:08-08:00
 draft: false
-enabletoc: true
 ---
 projects can be of many things, but here i am focusing on software-related projects that i build from clubs, hackathons, personal, or school
 
@@ -11,9 +10,9 @@ projects can be of many things, but here i am focusing on software-related proje
 ## sfu software systems website (sfussss.org)
 ![[sfussss-website.png]]
 
-as the current web lead, i am continuing the amazing website legacy that has been developed by other amazing software systems students. my responsibility include managing the repository, domain, issues, and pull requests. we are developing more features and projects to ease the lives of other software systems members.
+spearheaded software systems website and github org. revamped the website, bought the domains, reviewed all the github PRs, migrated repo to typescript. i developed the course explorer feature to display all sosy courses and showing past and future offerings through python api scripting. also integrated sanity cms and created blog feature to show how beautiful sosy is.
 
-stack: next.js, sass, figma, github actions, and lots of cool mini tools
+stack: next.js, typescript, sass, figma, github actions, sanity cms
 
 <a target="_blank" href="https://github.com/ssss-sfu/ssss-sfu.github.io">github</a>&emsp;
 <a target="_blank" href="https://www.sfussss.org/">website</a>
@@ -23,11 +22,29 @@ stack: next.js, sass, figma, github actions, and lots of cool mini tools
 
 developed website for hospitals in haiti as part of sfu research project through hope health action, a non-profit organization. features include storing department reports, message boards, case studies, broken kit reports, and employee of the month. 
 
-my work includes revamping employee of the month feature to allow many entities existing with crud operation through creating 5 rest api endpoints. i also created an add form, prefilled update form, view page, and record page and connected the server endpoints. i also worked some ui refactoring and changes to ensure it is also responsive on mobile. lastly, i routinely participates in reviewing all the pull requests of 3 other developers and twice a week scrum.
-
 stack: typescript, react, express, mongodb, passport, bootstrap, chai, and cypress
 
 <a target="_blank" href="https://github.com/drbfraser/hha-haitihospital">github</a>
+
+## studylingo
+![[studylingo.png]]
+
+built on hackthenorth '24. a chrome extension that summarizes the whole website and tests you in quizzes, also built with pomodoro timer. won best use of defang and cohere :D!
+
+<a target="_blank" href="https://github.com/jrang188/hack-the-north-2024">github</a>&emsp;
+<a target="_blank" href="https://devpost.com/software/studiolingo">devpost</a>&emsp;
+
+
+## google maps memories
+![[google-maps-memories.png]]
+
+holds a special place in my heart built with my fav people at nwHacks '24. a web app that allows you to store `memories` (image and notes) anywhere through a globe view. A memory can be viewed immensively with google street view.
+
+stack: T3 stack (typescript, tailwind css, trpc, drizzle, nextAuth), planetscale, and various google maps API,
+
+<a target="_blank" href="https://github.com/marcusgchan/google-map-memories">github</a>&emsp;
+<a target="_blank" href="https://devpost.com/software/google-maps-memories">devpost</a>&emsp;
+
 
 ## systemshacks website (systemshacks.com)
 ![[systemshacks-website.png]]

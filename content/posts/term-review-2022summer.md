@@ -2,7 +2,7 @@
 title: "term review - summer 2022"
 date: 2022-11-13t17:35:44-08:00
 draft: false
-tags: ["term-review", "reflection"]
+tags: ["term-review", "reflections"]
 ---
 
 ## intro
