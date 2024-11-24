@@ -6,22 +6,22 @@ tags:
   - guide
 ---
 
-Intro to React Workshop materials that [Marcus](https://github.com/marcusgchan) and I hosted as part of ChaosHacks 2024 workshop
+intro to React Workshop materials that [marcus](https://github.com/marcusgchan) and I hosted as part of ChaosHacks 2024 workshop
 
 ### Materials
-- [Google slides](https://docs.google.com/presentation/d/e/2PACX-1vSS_BStV_3DDm-VCCXuVjBn33CU3dDSnbTqjoMIyPirUGtEgQAh27jIYvuETr_L9wl5UjRoSd42BalG/pub?start=false&loop=false&delayms=3000)
-- [Github code](https://github.com/ssss-sfu/react-intro-workshop-2024)
+- [google slides](https://docs.google.com/presentation/d/e/2PACX-1vSS_BStV_3DDm-VCCXuVjBn33CU3dDSnbTqjoMIyPirUGtEgQAh27jIYvuETr_L9wl5UjRoSd42BalG/pub?start=false&loop=false&delayms=3000)
+- [github code](https://github.com/ssss-sfu/react-intro-workshop-2024)
 ### Setup Prerequisites
-1. [Visual Studio Code](https://code.visualstudio.com/)
-2. [NPM](https://www.npmjs.com/)
+1. [visual studio code](https://code.visualstudio.com/)
+2. [npm](https://www.npmjs.com/)
 3. VSCode Extensions
-	- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-4. [Vercel](https://vercel.com/) account
-5. [GitHub](https://github.com/) account (optional, but nice to haves for Vercel + Git Integration)
+	- [tailwind css intelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+4. [vercel](https://vercel.com/) account
+5. [gitHub](https://github.com/) account (optional, but nice to haves for Vercel + Git Integration)
 ### Project Setup
-The React project uses `Vite` - `TypeScript + SWC` and `tailwindcss`. Deployment will use [Vercel](https://vercel.com/).
+The React project uses `vite` - `typescript + swc` and `tailwindcss`. Deployment will use [vercel](https://vercel.com/).
 
-1. Create the project folder
+1. create the project folder
 	1. `npm create vite@latest`
 	2. Select your project name - `chaoshacks24-react`
 	3. Choose `react` as the framework

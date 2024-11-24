@@ -6,11 +6,11 @@ tags:
   - guide
 ---
 
-Along with my amazing website commitee friends, we have successfully conducted a website workshop this May. 
+along with my amazing website commitee friends, we have successfully conducted a website workshop this May. 
 
-I want to post this in case you are curious and want to learn HTML/ CSS/ JS by building personal portfolio website and deploying it to the internet.
+i want to post this in case you are curious and want to learn HTML/ CSS/ JS by building personal portfolio website and deploying it to the internet.
 
-So, how to navigate? Just follow the youtube videos as I will show you what are all of these. I will code the code demonstrated in GitHub and use the Notion Handbook for references.
+so, how to navigate? Just follow the youtube videos as I will show you what are all of these. I will code the code demonstrated in GitHub and use the Notion Handbook for references.
 
 Resources:
 - [Google Slides](https://docs.google.com/presentation/d/1sq-8VVfz4gxqDMqD4cKVUiD9rDUFjLaayhzuEhQShvk/edit#slide=id.p)

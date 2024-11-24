@@ -11,7 +11,7 @@ i am interested in learning all aspects of the software development life cycle. 
 
 outside software, i enjoy going for a walk (the most 'cardio' thing i enjoy), pistol squatting (i'm bad at pull-ups), and doing any activities with people! i also like to make jokes so bad you will still laugh for.
 
-i enjoy sharing things on the internet:
+some things i share on the internet:
 - [posts](posts/) i shared;
 - [experience](about/experience.md) or summary of what i have done;
 - [projects](about/projects.md) i (and my teammates) have built;

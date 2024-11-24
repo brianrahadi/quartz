@@ -8,7 +8,7 @@ tags: ["reflections"]
 ## background
 some weeks ago, i had the privilege of attending the silicon valley trip with 24 other sfu folks. it was also my first time to the states. i wrote this post as a sort of diary and reflections of what i had experienced in the trip and maybe also for those who are thinking to join next year and see what it's all about.
 	
-in case you are interested in watching the trip, isabelle has made an [amazing vlog of the trip](https://www.youtube.com/watch?v=p8m5hw4xeic&ab_channel=belle).
+in case you are interested in watching the trip, isabelle has made an [amazing vlog of the trip](https://www.youtube.com/watch?v=P8m5hW4Xeic&ab_channel=Belle).
 
 ## introduction
 sfu csss silicon valley trip is a trip organized by [sfu computing science student society](https://sfucsss.org/) for sfu students to go visit big tech offices around the so-called silicon valley. those who attend are primarily from cs majors, but i also see some handful of data science, statistics, and computer engineering students who attend in this trip.
