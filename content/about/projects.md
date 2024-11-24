@@ -76,7 +76,7 @@ simon fraser university indonesian association's website acts as the information
 stack: next.js, bootstrap, sass, contentful api (for blog), sendgrid api (for mail), vercel
 
 <a target="_blank" href="https://github.com/sfuia/sfuia-website">github</a>&emsp;
-<a target="_blank" href="https://www.sfuia.org/">website</a>
+<a target="_blank" href="https://www.sfuia.info/">website</a>
 
 ---
 
