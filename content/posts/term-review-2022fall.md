@@ -6,7 +6,7 @@ tags: ["term-review", "reflection"]
 ---
 
 ## intro
-fall 2022 has been quite a rough ride as it's my first time taking 4 cmpt courses. there were some moments where i didn't get the time to revise some content, but overall, this term was pretty good. 
+fall 2022 has been quite a rough ride as it's my first time taking 4 cmpt courses. there were some moments where i didn't get the time to revise some content, but overall, this term was pretty good.
 
 
 ## courses

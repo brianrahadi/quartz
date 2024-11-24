@@ -128,7 +128,7 @@ note:
 - [cmpt 415 - special research projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with brian fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - building an app to digitize data collection process for hospitals in haiti - [github](https://github.sfu.ca/bfraser/415-hha-haiti)
 
-**[fall 2023](posts/100+-things-i-learned-during-my-time-at-visier)**
+**[fall 2023](posts/things-i-learned-at-visier)**
 - software developer co-op at [visier](https://www.visier.com/)
 
 **spring 2024**
