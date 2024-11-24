@@ -1,32 +1,32 @@
 ---
-title: "Books"
-date: 2021-11-22T10:20:08-08:00
-enableToc: false
+title: "books"
+date: 2021-11-22t10:20:08-08:00
+enabletoc: false
 categories: ["books"]
 ---
 
-I enjoy reading books. I have mostly read non-fiction books, but trying to explore other genres as well. Here is a list of books that I would recommend to others:
+i enjoy reading books. i have mostly read non-fiction books, but trying to explore other genres as well. here is a list of books that i would recommend to others:
 
-- [Atomic Habits](posts/atomichabits) by James Clear \
-Such a good book that helps you to learn the significance of habit and somehow reading it is a bit addicting.
+- [atomic habits](posts/atomichabits) by james clear \
+such a good book that helps you to learn the significance of habit and somehow reading it is a bit addicting.
 
-- [How to Become a Straight-A Student](posts/straighta) by Cal Newport \
-The title can sound cringy I know, but this book changed my perspective about studying. It has helped me to study effectively to enjoy life outside more.
+- [how to become a straight-a student](posts/straighta) by cal newport \
+the title can sound cringy i know, but this book changed my perspective about studying. it has helped me to study effectively to enjoy life outside more.
 
-- [7 Habits of Highly Effective Teens](posts/7habits) by Sean Covey \
-One of my first self-help books. It is based on the more popular book by the author's father. For me, the main lesson here is to always think win-win. The game of life is not as competitive as it seems.
+- [7 habits of highly effective teens](posts/7habits) by sean covey \
+one of my first self-help books. it is based on the more popular book by the author's father. for me, the main lesson here is to always think win-win. the game of life is not as competitive as it seems.
 
-- [Deep Work](posts/deepwork) by Cal Newport \
-Similar philosophy with Straight-A student, but there is more significance to it. I truly believe that a satisfying work leads to a satisfying life, and this book will help you to achieve that.
+- [deep work](posts/deepwork) by cal newport \
+similar philosophy with straight-a student, but there is more significance to it. i truly believe that a satisfying work leads to a satisfying life, and this book will help you to achieve that.
 
-- [The Almanack of Naval Ravikant](posts/navalmanack) by Eric Jorgenson \
-A high-concentration of knowledge in quite a short book. You will learn from Naval Ravikant and his lessons on money creation, philosophy, and happiness.
+- [the almanack of naval ravikant](posts/navalmanack) by eric jorgenson \
+a high-concentration of knowledge in quite a short book. you will learn from naval ravikant and his lessons on money creation, philosophy, and happiness.
 
-- Everything is F*cked Up by Mark Manson \
-The book that helps me to become more honest and being more in control with my life.
+- everything is f*cked up by mark manson \
+the book that helps me to become more honest and being more in control with my life.
 
-- Sometimes You Win - Sometimes You Learn by John C. Maxwell \
-My first self-help book. In this book, it gives an insight on why losing is not necessarily bad and embracing it will make you to learn better.
+- sometimes you win - sometimes you learn by john c. maxwell \
+my first self-help book. in this book, it gives an insight on why losing is not necessarily bad and embracing it will make you to learn better.
 
-- [The Subtle Art of Not Giving a F*ck](posts/subtleart) by Mark Manson \
-Mark Manson is very funny. In this book, he delivers life philosophy 101 packed with many swear words. Life is short and this book makes you realize to just focus on what matters more.
+- [the subtle art of not giving a f*ck](posts/subtleart) by mark manson \
+mark manson is very funny. in this book, he delivers life philosophy 101 packed with many swear words. life is short and this book makes you realize to just focus on what matters more.
