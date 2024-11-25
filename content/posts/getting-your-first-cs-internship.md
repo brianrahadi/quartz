@@ -7,7 +7,7 @@ tags: ["guide"]
   
 disclaimer: this guide is mainly intended for those aiming to get a computer science internship. i don't know anything outside these areas, but some of the ideas presented here may still be relevant. i am also learning, so let me know if you find something incorrect.
 
-# intro  
+## intro  
 
 spring 2023 (january–april) term has just concluded and i want to share what has worked well for my seeking process. this is also intended as a guide for those who want to find their first job. here, i will use the terms "internship" and "co-op" interchangeably just because the word "internship" seems to be known by more people. at least here, co-op is usually part of the degree program registered in a school.
   

@@ -24,7 +24,7 @@ experience consists of my recent education, work, organization experiences, and 
 > </details>
 
 > <details>
->   <summary>agile developer co-op at sap (jan. 2024 - aug. 2024)</summary>
+>   <summary>agile developer co-op at SAP (jan. 2024 - aug. 2024)</summary>
 >   • fixed 30+ bugs across 16 charts in sap analytics cloud using react, redux, typescript, jest, and jasmine, with immediate backporting.<br>
 >   • developed widget-level bar width resize, collaborating with ux, pm, and qa lead to ensure a smooth release.<br>
 >   • created centralized settings (feature toggles, configurations) for 1000+ files in a separate repository, simplifying code in 2 large client repositories and removing circular dependencies.<br>
@@ -124,20 +124,20 @@ note:
 - ta <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1050</a> (2)
 
 **summer 2023**
-- software developer co-op at [visier](https://www.visier.com/)
+- software developer co-op at [Visier](https://www.visier.com/)
 - [cmpt 415 - special research projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with brian fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - building an app to digitize data collection process for hospitals in haiti - [github](https://github.sfu.ca/bfraser/415-hha-haiti)
 
 **[fall 2023](posts/things-i-learned-at-visier)**
-- software developer co-op at [visier](https://www.visier.com/)
+- software developer co-op at [Visier](https://www.visier.com/)
 
 **spring 2024**
-- software developer co-op at [sap](https://www.sap.com/)
+- software developer co-op at [SAP](https://www.sap.com/)
 - [cmpt 416 - special research projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with brian fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - continuing to build app for hospitals in haiti - [github](https://github.com/drbfraser/hha-haitihospital)
 
 **summer 2024**
-- software developer co-op at [sap](https://www.sap.com/)
+- software developer co-op at [SAP](https://www.sap.com/)
 
 **fall 2024**
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/373.html" target="_blank">cmpt 373 - software development methods</a>
