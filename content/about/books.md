@@ -5,7 +5,7 @@ enabletoc: false
 categories: ["books"]
 ---
 
-i enjoy reading books. i have mostly read non-fiction books, but trying to explore other genres as well. here is a list of books that i would recommend to others:
+i have mostly read non-fiction books, but trying to explore other genres as well. here is a list of books that i would recommend to others:
 
 - [atomic habits](posts/atomichabits) by james clear \
 such a good book that helps you to learn the significance of habit and somehow reading it is a bit addicting.
