@@ -34,7 +34,7 @@ next, for the contents: always do a grammar check and write all the bullet point
 
 ### work experience  
 ah, the loop that you can never break.  
-![[posts/attachments/pasted image 20230508104800.png]]
+![[posts/attachments/Pasted image 20230508104800.png]]
 
 why do i need to make this point if the post is about someone getting their first co-op? surely none would have any relevant work experience, right? you are half-correct. most people would never have any relevant, in this case, developer job. but you can always try to get one or even others that have no direct relevance.
 
