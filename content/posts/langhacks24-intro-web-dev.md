@@ -1,6 +1,6 @@
 ---
 title: langara hacks 2024 intro to web development resources
-draft: 
+draft: false
 date: 2024-09-17T16:21:42+0000
 tags: ["guide"]
 ---
