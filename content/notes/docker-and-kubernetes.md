@@ -1,3 +1,7 @@
+---
+title: Docker and Kubernetes
+date: 2023-12-05
+---
 
 Docker
 - Why? Makes it easy to install and run software without dependencies worrying
