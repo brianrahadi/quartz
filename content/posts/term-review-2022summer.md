@@ -4,7 +4,6 @@ date: 2022-11-13t17:35:44-08:00
 draft: false
 tags: ["term-review", "reflections"]
 ---
-
 ## intro
 term review is an every-4-month journal to share all my thoughts and experiences during the finished term. it acts as both my journal and course review (for those who are planning to take similar courses). experience is given out on a scale of 5 and it is not reflective of the marks that i got, rather it is more about how i felt whether the course was useful for my learning. pros and cons, however, are directed to how the course is managed and how i personally think it can be taught better.
 
@@ -67,3 +66,5 @@ as the first term at sfu, i really enjoyed how it ended. i always thought studyi
 moving forward, i was thinking and theorized that there are two routes to take for the electives. the first is to choose the one with the least amount of workload/ gpa booster course. the latter is to choose a course that might be useful for your learning (ex. upper div cmpt). i don't think there is a clear answer since every individual is different realistically, i would like to try as many upper-level cmpt courses as i can but that might mean i need to spend that extra time learning instead of other fun stuff like touching the grass. however, taking easy courses can also mean you can take more of that and potentially graduate a term earlier (or maybe just enjoy the extra time and still graduate with the same amount of time). 
 
 these choices are definitely hard to make and i will need to assess this choice on a term-by-term basis depending on the time and course availability. if you are reading up until this point, yeah i realized i might think too much on this course planning thing, but this is honestly what i enjoyed. so, thank you for reading up until now :d.
+
+next - [[term-review-2022fall]]

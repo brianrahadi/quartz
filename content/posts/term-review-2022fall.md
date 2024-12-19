@@ -4,7 +4,7 @@ date: 2022-12-20t14:23:20-08:00
 draft: false
 tags: ["term-review", "reflections"]
 ---
-
+before - [[term-review-2022summer]]
 ## intro
 fall 2022 has been quite a rough ride as it's my first time taking 4 cmpt courses. there were some moments where i didn't get the time to revise some content, but overall, this term was pretty good.
 
@@ -96,3 +96,5 @@ course final project: [pig locator](../../projects/#pig-locator)
 
 ## conclusion
 overall, i really enjoyed this term's courses. nothing much to say. feel free to contact me if you have any questions :d.
+
+next - [[term-review-2023spring]]

@@ -78,3 +78,5 @@ if you are currently planning to find a co-op, feel free to reach out at brian.r
 
 ## conclusion
 enjoyed spring 2023 as i finally choose 2 courses of my interest and not because of requirements. somehow i don't know how i managed to finish my third year as i'm feeling like i just started uni yesterday. also struggled but learned a lot in finding a co-op job.
+
+next - [[term-review-2024fall]]
