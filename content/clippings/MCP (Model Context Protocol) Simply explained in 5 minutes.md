@@ -4,11 +4,13 @@ source: "https://substack.com/home/post/p-159139276?source=queue"
 author:
   - "[[Substack]]"
 published:
-created: 2025-03-23
+created: 2025-03-24
 description: "What MCP is, how it can save you time, and how it works behind the scenes"
 tags:
   - "clippings"
 ---
+https://substack.com/home/post/p-159139276?source=queue
+
 [MCP, or Model Context Protocol](https://modelcontextprotocol.io/introduction), is the hot new trend right now, but it also sounds much more complicated than it actually is. In this article, I’ll simplify what MCP is for you, show you how you can use it to be more productive, and explain how it works behind the scenes.
 
 ## What is MCP

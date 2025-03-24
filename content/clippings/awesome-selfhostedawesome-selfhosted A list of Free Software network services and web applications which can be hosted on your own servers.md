@@ -9,6 +9,8 @@ description: "A list of Free Software network services and web applications whic
 tags:
   - "clippings"
 ---
+https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing
+
 ## Awesome-Selfhosted
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
