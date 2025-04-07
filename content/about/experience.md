@@ -18,7 +18,7 @@ my recent education, work, organization, and my university timeline
 
 ## work
 
-> **Software Developer Co-op at A Thinking Ape** (may. 2025 - aug. 2025) <br>
+> **Software Engineer Intern at A Thinking Ape** (may. 2025 - aug. 2025) <br>
 >  tbd
 
 > **Software Developer Co-op at RBC** (jan. 2025 - apr. 2025) <br>
@@ -46,7 +46,7 @@ my recent education, work, organization, and my university timeline
 > **Co-Director of Logistics at SFU Surge** (jun. 2024 - present) <br>
 > maneuvering logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU tech scene
 
-> **Website Commmittee Lead at Sfu Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
+> **Website Commmittee Lead at SFU Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
 > ruling websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
 
 > **Website Lead at SFU Indonesian Association** (aug. 2022 - aug. 2023) <br>
