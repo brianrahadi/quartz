@@ -2,17 +2,14 @@
 title: 🏡 Home
 ---
 
-hello! I'm brian. currently studying [software systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) at simon fraser university.
-
+hello! I'm brian. currently studying software systems at simon fraser university.
 
 i find the software world fascinating because of its ability to improve our lives on a seemingly infinite scale.
 
 i'm interested in learning all aspects of the software development life cycle. from designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
 
-outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, doing any activities with humans (badminton, dance, board games, and karaoke).
+outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with humans (badminton, dance, board games, and karaoke).
 
-i really enjoy the art of gamification for personal growth and always experimenting with the best systems for that (Habitica FTW)!<br>
-this is inspired from thousands of hours i spent on MMORPGs i grew up with like Ragnarok Online, Graal Online, and Albion Online.
 
 some of my writings:
 - [posts](posts/) - tales to inspire fellow adventurers;
