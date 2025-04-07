@@ -4,65 +4,51 @@ date: 2022-10-10t22:03:02-08:00
 draft: false
 ---
 
-experience consists of my recent education, work, organization experiences, and courses i have taken
+my recent education, work, organization, and my university timeline
 
 ## education
 
-> **simon fraser university** (may 2022 - apr. 2025 expected) <br>
-> bachelor of science, computing science in software systems <br>
-> **cgpa: 3.82/4.33** <br>
+> **Simon Fraser University** (may 2022 - apr. 2025 expected) <br>
+> Bachelor of Science, Computing Science in Software Systems <br>
+> **GPA: 3.8/4.33** <br>
 
-> **langara college** (sep. 2020 - apr. 2022) <br>
-> associate of science, computer science (graduated with distinction) <br>
-> **cgpa: 3.99/4.33** <br>
+> **Langara College** (sep. 2020 - apr. 2022) <br>
+> Associate of Science, Computer Science (grad with distinction) <br>
+> **GPA: 3.99/4.33** <br>
 
-## work experience
+## work
 
-> <details>
->   <summary>undergraduate teaching assistant at simon fraser university (sep. 2024 - dec. 2024)</summary>
->   • teaching first-year students introduction to programming (c++) - cmpt 130
-> </details>
+> **Undergraduate Teaching Assistant at SFU** (sep. 2024 - dec. 2024) <br>
+> taught first-years pain of the past (C++)
 
-> <details>
->   <summary>agile developer co-op at SAP (jan. 2024 - aug. 2024)</summary>
->   • fixed 30+ bugs across 16 charts in sap analytics cloud using react, redux, typescript, jest, and jasmine, with immediate backporting.<br>
->   • developed widget-level bar width resize, collaborating with ux, pm, and qa lead to ensure a smooth release.<br>
->   • created centralized settings (feature toggles, configurations) for 1000+ files in a separate repository, simplifying code in 2 large client repositories and removing circular dependencies.<br>
->   • received a fast track award as a highly performing intern (top 20%) for consistently delivering high-quality code with high velocity.
-> </details>
+> **Agile Developer Co-op at SAP** (jan. 2024 - aug. 2024) <br>
+> killing (lots of) bugs, making features, and received fast track award <br>
+> tech: React, Typescript, Javascript, 
 
-> <details>
->   <summary>software developer co-op at visier (may. 2023 - dec. 2023)</summary>
->   • utilized scala, play, protobuf, and kong api gateway to transfer data through a 3-tiered rest api architecture, implementing api key rotation for enhanced security and reliability.<br>
->   • implemented extraction of usage data from cassandra on a kubernetes pod, generating a weekly total of 2.75 million usage records across all customers.<br>
->   • developed server-side rendered pagination using ag-grid data grid, connecting to server endpoints from aws s3 using angular, typescript, rxjs, scala, and play, reducing initial load time for 83,000 rows by 56%.<br>
->   • migrated container data from cassandra to kubernetes leveraging its downward api for consistent data storage.<br>
->  • other tools used: splunk, postman, kong api gateway, scalatest, mockito, intellij, tmux.
-> </details>
+> **Software Developer Co-op at Visier** (may. 2023 - dec. 2023)<br>
+> seriously implementing usage tracking, server-side rendered pagination, kubernetes metadata migration<br>
+> tech: Scala, Play, Typescript, Cassandra, S3, Protobuf, Kong API Gateway, Splunk, Postman, Mockito
 
-> <details>
->   <summary>teaching assistant at langara college (feb. 2022 - apr. 2023)</summary>
->   • supported a class of 30+ students as the sole ta by communicating in the lab and through announcements and emails.<br>
->   • graded 60+ weekly programming assignments and provided timely, constructive feedback.<br>
->   • tutored students with expertise in 11 computer science classes in the help center.<br>
->   • available courses to tutor: <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">1030</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">1045</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1050.html" target="_blank">1050</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">1150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1155.html" target="_blank">1155</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1160.html" target="_blank">1160</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1181.html" target="_blank">1181</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2130.html" target="_blank">2130</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2150.html" target="_blank">2150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2190.html" target="_blank">2190</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2221.html" target="_blank">2221</a>.
-> </details>
+> **Teaching Assistant at Langara College** (feb. 2022 - apr. 2023)<br>
+> solo TA-ed of 30, grading all the assessments super fast (<5 biz days), and tutored courses in the help center<br>
+> taught courses in HTML, CSS (1030), JavaScript (1045), Python (1050), Java (1150), and C++ (1155) <br>
+> tutored courses: <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">1030</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">1045</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1050.html" target="_blank">1050</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">1150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1155.html" target="_blank">1155</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1160.html" target="_blank">1160</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1181.html" target="_blank">1181</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2130.html" target="_blank">2130</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2150.html" target="_blank">2150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2190.html" target="_blank">2190</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2221.html" target="_blank">2221</a>.
 
 
-## organization experience
-> **co-director of logistics at sfu surge** (jun. 2024 - present) <br>
-> co-directing logistics of [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and general tech vibes
+## organization
+> **Co-Director of Logistics at SFU Surge** (jun. 2024 - present) <br>
+> maneuvering logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU
 
-> **website committee lead at sfu software systems student society** (nov. 2022 - aug. 2024) <br>
-> leads the development of projects and websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
+> **Website Commmittee Lead at Sfu Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
+> ruling websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
 
-> **website lead at sfuia** (aug. 2022 - aug. 2023) <br>
-> spearheads [website](https://www.sfuia.org/) and manages social media, also organizes events for sfu indonesian community
+> **Website Lead at SFU Indonesian Association** (aug. 2022 - aug. 2023) <br>
+> asked the president to create the role for me, founded [website](https://www.sfuia.org/) and planned out events for my fellow SFU indonesians
 
-> **vice lead at google dsc langara college** (jul. 2021 - apr. 2022) <br>
+> **Vice Lead at Google DSC Langara College** (jul. 2021 - apr. 2022) <br>
 > hosted events related to tech and software developments
 
-## courses
+## timeline
 
 note: 
 - langara (fall 2020 - spring 2022), sfu (summer 2022 - present) <br>
@@ -139,8 +125,17 @@ note:
 **summer 2024**
 - software developer co-op at [SAP](https://www.sap.com/)
 
-**fall 2024**
+**[fall 2024](posts/term-review-2024fall)**
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/373.html" target="_blank">cmpt 373 - software development methods</a>
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/473.html" target="_blank">cmpt 473 - software testing, reliability, and security</a>
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/494.html" target="_blank">cmpt 494 - software systems capstone project i</a>
-- ta <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">cmpt 130</a> (1)
+- TA <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">cmpt 130</a> (1)
+
+**spring 2025**
+- software developer co-op at [RBC](https://rbc.com/)
+- building https://www.sfucourses.com/ occassionally
+
+**summer 2025**
+- software engineer intern at [A Thinking Ape](https://www.athinkingape.com/)
+- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/495.html" target="_blank">cmpt 495 - software systems capstone project ii</a>
+
