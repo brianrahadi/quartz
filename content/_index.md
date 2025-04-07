@@ -7,14 +7,17 @@ hello! I'm brian. currently studying [software systems](https://www.sfu.ca/compu
 
 i find the software world fascinating because of its ability to improve our lives on a seemingly infinite scale.
 
-i am interested in learning all aspects of the software development life cycle. from designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
+i'm interested in learning all aspects of the software development life cycle. from designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
 
-outside software, i enjoy going for a walk (the most 'cardio' thing i enjoy), pistol squatting (i'm bad at pull-ups), and doing any activities with people! i also like to make jokes so bad you will still laugh for.
+outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, doing any activities with humans (badminton, dance, board games, and karaoke).
+
+i really enjoy the art of gamification for personal growth and always experimenting with the best systems for that (Habitica FTW)!<br>
+this is inspired from thousands of hours i spent on MMORPGs i grew up with like Ragnarok Online, Graal Online, and Albion Online.
 
 some of my writings:
 - [posts](posts/) - tales to inspire fellow adventurers;
 - [notes](notes/) - scrolls of wisdom from labyrinths;
-- [clippings](clippings) - scrolls of knowledges
+- [clippings](clippings) - parchments of external knowledges
 
 and my adventure inventory:
 - [experience](about/experience.md) - scroll of my journeys from realm of knowledge and trials;
