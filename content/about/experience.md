@@ -18,16 +18,23 @@ my recent education, work, organization, and my university timeline
 
 ## work
 
+> **Software Developer Co-op at A Thinking Ape** (may. 2025 - aug. 2025) <br>
+>  tbd
+
+> **Software Developer Co-op at RBC** (jan. 2025 - apr. 2025) <br>
+> building APIs for DevSecOps workflows at RBC and enjoying toronto to its fullest <br>
+> tech: Python, Java, JavaScript, GitHub Actions, Spring, OpenShift, Hashicorp Vault, Dynatrace, Postman
+
 > **Undergraduate Teaching Assistant at SFU** (sep. 2024 - dec. 2024) <br>
 > taught first-years pain of the past (C++)
 
 > **Agile Developer Co-op at SAP** (jan. 2024 - aug. 2024) <br>
 > killing (lots of) bugs, making features, and received fast track award <br>
-> tech: React, Typescript, Javascript, 
+> tech: React, Typescript, Javascript
 
 > **Software Developer Co-op at Visier** (may. 2023 - dec. 2023)<br>
 > seriously implementing usage tracking, server-side rendered pagination, kubernetes metadata migration<br>
-> tech: Scala, Play, Typescript, Cassandra, S3, Protobuf, Kong API Gateway, Splunk, Postman, Mockito
+> tech: Scala, Java, Play, Typescript, Cassandra, S3, Protobuf, Kong API Gateway, Splunk, Postman, Mockito
 
 > **Teaching Assistant at Langara College** (feb. 2022 - apr. 2023)<br>
 > solo TA-ed of 30, grading all the assessments super fast (<5 biz days), and tutored courses in the help center<br>
@@ -37,7 +44,7 @@ my recent education, work, organization, and my university timeline
 
 ## organization
 > **Co-Director of Logistics at SFU Surge** (jun. 2024 - present) <br>
-> maneuvering logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU
+> maneuvering logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU tech scene
 
 > **Website Commmittee Lead at Sfu Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
 > ruling websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
@@ -137,5 +144,4 @@ note:
 
 **summer 2025**
 - software engineer intern at [A Thinking Ape](https://www.athinkingape.com/)
-- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/495.html" target="_blank">cmpt 495 - software systems capstone project ii</a>
 
