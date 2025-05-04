@@ -1,8 +1,9 @@
 ---
-title: "university transfer - benefits and tips"
+title: university transfer - benefits and tips
 date: 2022-12-28t23:08:28-08:00
 draft: false
-tags: ["guide"]
+tags:
+  - guide
 ---
 note: this post has the same content from [this sfu blog](https://www.sfuia.com/blog/university-transfer-benefits-and-tips). i cross-post it as i was the writer and want to provide more content to my personal website. hope you enjoy it!
 
