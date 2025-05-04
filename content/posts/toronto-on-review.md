@@ -121,3 +121,5 @@ and many more people that I meet maybe only once, but the memory lasts forever ;
 thank you toronto, hope i can see you again!
 
 brian at porter airlines (mostly) 01.21am
+
+![[BB7A7416-8AEA-48FF-A6D1-11C26309041C_1_105_c.jpeg | 300]]
