@@ -100,7 +100,7 @@ Brian's mini hangout activity tier list
 	- I am also not very good at resisting temptation, I tend to go for what feels more fun at the heat of moment
 - i still feel lack a greater purpose
 	- I got to see many cracked people building cracked projects - sure the tech is challenging and it looks fun. However, i'm currently facing a dilemma where I don't want to carelessly building for something meaningless. I see many startups or ventures that I find to not be not truly helping society directly, and just trying to profitmaxxing. (Maybe what matters is to build first and learn in the process, but )
-- few lost relationship(?)
+- lost relationship(?)
 	- I'm someone that is trying to care hard about relationship, this means that I want to go great lengths for my friends, but sometimes, my intention can be unclear(?). I put myself in a high risk, high reward situation and sure, most of the time, I can feel that I'm closer to them. But sometimes, maybe it feels too much and they don't feel I'm not the right fit.
 	- What could be better - truly express my intention, avoid any misleading intention, and just be the person who is authentic enough that all the thoughtful actions are still predictable
 ## thanks
