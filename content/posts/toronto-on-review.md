@@ -81,6 +81,46 @@ Brian's mini hangout activity tier list
 - B - board games, restaurant, karaoke (good but not weekly 'good')
 - C - shopping (seems fun at first, but get boring too fast for me)
 
+### foodies
+toronto has a such diverse and rich food scene and I came satisfied with it. Comparing it with vancouver, I find it to be a bit better in general just because of how it has way more restaurants here - I find more restaurants with a stronger taste. 
+
+Though for ramen and sushi or anything fresh, they say Vancouver is still better - I didn't eat any ramen or sushi here, so can't verify.
+
+Some of the restaurant can be checked out at https://www.instagram.com/nyoeats/!
+
+Some of my favourite restaurants here
+- Korean
+	- Daldongnae korean BBQ - op side dish, really good meat, a bit pricier
+	- Mapo Korean BBQ - tbh same with daldongnae
+	- Hanyang Jokbal - best jokbal 
+- Vietnamese
+	- Pho Ngon Dat Viet - more interesting and diverse dishes. I really like their Bun Cha Ha Noi. Very tasty and deep grilled pork flavour along with many free sauces toppings.
+- Thailand
+	- Khao San Road - tried their beef and rice combo (forgot whats it in thai) with extreme thai spicy flavour. Finished extremely spiced up and satisfied - the best spicy food I had in tor.
+	- Koh Lipe Thai Kitchen- best for group dining, a bit pricy but foods were definitely worth it for its price. Strong flavour, sometimes not much portion tho.
+- Chinese
+	- Yin Ji Chang Fen - best rice roll out there! decent and cheap-ish!
+	- Rol San Dim Sum Restaurant - feels like home and it opens till 3am.
+	- Swatow Restaurant - this is like your 3.5 star chinese restaurant, not good service, fire food, and pretty efficient and cheap!
+	- King's Noodle Restaurant - like swatow, but for the congee and noodles!
+- Hot Pot (weird category i know)
+	- Souper Hot Pot - #1 big way contender. Really like everything they have to offer. More interesting broth (golden pickled cabbage and tom yum are peak), more thicc ice cream cone, has thai chilli sauce, and similar-ish price.
+	- Zhang Liang Spicy Hot Pot - best for mala lovers out there, not my niche since it's too oily and numby, but overall still solid pick.
+	- Hai Di Lao - not toronto specific obv, but their midnight deal is so goooood! I ate so much and only spent $25 (half-discount beef).
+- Shawarma
+	- Osmow's Shawarma - best shawarma since the spice actually kicks and overall just fire. Modern mediterranean shawarma #1.
+	- Shelby's Legendary Shawarma - generous meat portion, too much sauces, still pretty good!
+	- Tahini's Shawarma - similar with shelby's - still found shelby's to be lil better.
+	- Alpha Shawarma - Pretty good, but I like others since this is a syrian shawarma. Not too spicy to my liking
+- Others
+	- Raku - best udon, a bit too expensive
+	- Good Behaviour - best spicy meatball sub
+	- Rosie's Burgers - first toronto food, convenient and cheap smash burgers (but for me, burger is well, just a burger)
+- Chinese Grocery
+	- My favourite part living here is how I barely shop at the big market (even T&T is expensive), I do almost all my groceries on this crazily cheap chinese groceries
+	- Kai Wei Hung - closest for me and usually does its job
+	- Lucky Moose - my go-to for grocery, most complete but farthest (still only 14-min walk hehe)
+	- Hua Sheng - pretty solid selections, the median between 2
 ### what went well
 - overall really good mental health
 - routine-building is even stronger
