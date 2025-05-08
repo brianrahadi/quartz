@@ -110,7 +110,7 @@ Everything by Jed McKenna. Jed spits raw truth. His style may be off-putting but
 
 [Jed McKenna’s Notebook](https://amzn.to/34tRr6Y)
 
-[Jed Talks #1](https://amzn.to/2ZA275n) and [*#2*](https://amzn.to/2PPcwFO)  
+[Jed Talks 1](https://amzn.to/2ZA275n) and [*2*](https://amzn.to/2PPcwFO)  
 
 Everythingby Kapil Gupta, MD. Kapil recently became a personal advisor and coach to me, and this comes from a person who doesn’t believe in coaches.
 

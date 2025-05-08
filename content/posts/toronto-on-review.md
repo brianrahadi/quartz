@@ -104,7 +104,7 @@ Some of my favourite restaurants here
 	- Zhang Liang Spicy Hot Pot - best for mala lovers out there, not my niche since it's too oily and numby, but overall still solid pick.
 	- Hai Di Lao - not toronto specific obv, but their midnight deal is so goooood! I ate so much and only spent $25 (half-discount beef).
 - Shawarma
-	- Osmow's Shawarma - best shawarma since the spice actually kicks and overall just fire. Modern mediterranean shawarma #1.
+	- Osmow's Shawarma - best shawarma since the spice actually kicks and overall just fire. Modern mediterranean shawarma.
 	- Shelby's Legendary Shawarma - generous meat portion, too much sauces, still pretty good!
 	- Tahini's Shawarma - similar with shelby's - still found shelby's to be lil better.
 	- Alpha Shawarma - Pretty good, but I like others since this is a syrian shawarma. Not too spicy to my liking
