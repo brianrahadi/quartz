@@ -99,7 +99,7 @@ Some of my favourite restaurants here
 	- Rol San Dim Sum Restaurant - feels like home and it opens till 3am.
 	- Swatow Restaurant - this is like your 3.5 star chinese restaurant, not good service, fire food, and pretty efficient and cheap!
 	- King's Noodle Restaurant - like swatow, but for the congee and noodles!
-- Hot Pot (weird category i know)
+- Hot Pot
 	- Souper Hot Pot - da big way contender. Really like everything they have to offer. More interesting broth (golden pickled cabbage and tom yum are peak), more thicc ice cream cone, has thai chilli sauce, and similar-ish price.
 		- Note: Just went big way in Vancouver after coming back and realized they upgraded their tom yum broth to be like souper too. it's better but bruh... everything is the same now.
 	- Zhang Liang Spicy Hot Pot - best for mala lovers out there, not my niche since it's too oily and numby, but overall still solid pick.
