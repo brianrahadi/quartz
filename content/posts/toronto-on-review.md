@@ -118,7 +118,7 @@ Some of my favourite restaurants here
 	- Lucky Moose - my go-to for grocery, most complete but farthest (still only 14-min walk hehe)
 	- Hua Sheng - pretty solid selections, the median between 2
 
-### what went well
+## what went well
 - overall really good mental health
 - routine-building is even stronger
 - relationships are pretty good - new people, new friends, but old ones still stronk
@@ -131,7 +131,7 @@ Some of my favourite restaurants here
 	- FYI, I live near spadina x queen st west in a townhouse
 		- unrivalled price and location, but old room and shared living space - i don't mind the con as much
 
-### what could be better
+## what could be better
 - too much dopamine-maxxing sometimes
 	- as much as I like the routine, it wasn't as consistent and I tend to just focus on hanging out
 	- I am also not very good at resisting temptation, I tend to go for what feels more fun at the heat of moment
