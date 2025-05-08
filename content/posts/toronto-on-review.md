@@ -64,7 +64,7 @@ In order to find a great world to be built, you need to keep chasing for its peo
 There are so many takeaways, but what I got to learnt more beyond the information is just the vibe(?) How the community is so united in a single cause, which is to build and have fun in the process.
 
 ### hanging out
-I got to met many cool and fun people. Hanging out is always fun and I continue to learn more the structure on how to make great hangouts - which is simple, keep being present, routine-based, and plan (really well!).
+I got to meet many cool and fun people. Hanging out is always fun and I continue to learn more the structure on how to make great hangouts - which is simple, keep being present, routine-based, and plan (really well!).
 
 - Being present - appreciate the fact that you have your own people and enjoy literally every sec of it
 - Routine-based - save the headache by having a structured weekly time when the group meets (usually fri evening or saturday)
