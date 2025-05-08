@@ -30,7 +30,7 @@ My usual activity is:
 1. Gym
 2. Dinner + Youtube
 3. Shower
-4. Learning/Building
+4. Learning/ Building
 5. Fun + down time
 
 Having this routine just makes living the weekday life much more enjoyable. When I look back at how life is in Jakarta where one-way commute can be 2-hr, it's just too crazy of a life that makes me grateful for the life I have now.
@@ -100,7 +100,8 @@ Some of my favourite restaurants here
 	- Swatow Restaurant - this is like your 3.5 star chinese restaurant, not good service, fire food, and pretty efficient and cheap!
 	- King's Noodle Restaurant - like swatow, but for the congee and noodles!
 - Hot Pot (weird category i know)
-	- Souper Hot Pot - #1 big way contender. Really like everything they have to offer. More interesting broth (golden pickled cabbage and tom yum are peak), more thicc ice cream cone, has thai chilli sauce, and similar-ish price.
+	- Souper Hot Pot - da big way contender. Really like everything they have to offer. More interesting broth (golden pickled cabbage and tom yum are peak), more thicc ice cream cone, has thai chilli sauce, and similar-ish price.
+		- Note: Just went big way in Vancouver after coming back and realized they upgraded their tom yum broth to be like souper too. it's better but bruh... everything is the same now.
 	- Zhang Liang Spicy Hot Pot - best for mala lovers out there, not my niche since it's too oily and numby, but overall still solid pick.
 	- Hai Di Lao - not toronto specific obv, but their midnight deal is so goooood! I ate so much and only spent $25 (half-discount beef).
 - Shawarma
@@ -136,8 +137,8 @@ Some of my favourite restaurants here
 	- as much as I like the routine, it wasn't as consistent and I tend to just focus on hanging out
 	- I am also not very good at resisting temptation, I tend to go for what feels more fun at the heat of moment
 	- Which can be fine... but I feel this fear of not getting full-time job and coming here is just me trying to escape full-time job searching and graduation
-- i still feel lack a greater purpose
-	- I got to see many cracked people building cracked projects - sure the tech is challenging and it looks fun. However, i'm currently facing a dilemma where I don't want to carelessly building for something meaningless. I see many startups or ventures that I find to not be not truly helping society directly, and just trying to profitmaxxing. (Maybe what matters is to build first and learn in the process, but )
+- feeling i lack a greater purpose
+	- I got to see many cracked people building cracked projects - sure the tech is challenging and it looks fun. However, i'm currently facing a dilemma where I don't want to carelessly building for something meaningless. I see many startups or ventures that I find to not be not truly helping society directly, and just trying to profitmaxxing. (Maybe what matters is to build first and learn in the process, but it still doesn't feel right still)
 - lost relationship(?)
 	- I was trying to care hard about relationship, this means that I want to go great lengths for my friends, but sometimes, the way I express my intention can be unclear(?). I put myself in a high risk, high reward situation and sure, most of the time, I can reap it and feel that I'm closer to them. But sometimes, maybe it feels too much for them.
 	- What could be better - truly express my intention, avoid any misleading intention, and just be the person who is authentic all-around.
@@ -158,6 +159,6 @@ toronto will never be fun without these people:
 - TE - for being a very kind housemate, sharing whatever resources and daily life stories you have
 and many more people that I meet maybe only once, but the memory lasts forever ;D
 
-thank you toronto, hope i can see you again!
+thank you toronto, hope to see you again!
 
 brian at porter airlines (mostly) 01.21am est
