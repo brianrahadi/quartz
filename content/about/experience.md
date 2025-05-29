@@ -19,8 +19,7 @@ my recent education, work, organization, and my university timeline
 ## work
 
 > **Software Engineer Intern at A Thinking Ape** (may. 2025 - aug. 2025) <br>
->  Building tools and infrastructure, better internal tooling, and onboard tools to buff employee productivity
->  
+>  Building tools and infrastructure, better internal tooling, and onboard tools to buff employee productivity <br>
 >  tech: Python, Django, Docker, Docker Compose, Nginx, React, Typescript
 
 > **Software Developer Co-op at RBC** (jan. 2025 - apr. 2025) <br>
