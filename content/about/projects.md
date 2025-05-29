@@ -7,10 +7,41 @@ projects can be of many things, but here i am focusing on software-related proje
 
 ---
 
+## sfucourses.com
+![[Pasted image 20250529083059.png]]
+I built sfucourses.com with the goal of exploring and scheduling SFU courses with the best user experience. Best user experience in here I define with
+- having a very fast website load (thanks Next.js SSG)
+- fewest steps possible to do anything (explore/ schedule course)
+- decent UI that makes you come back
+
+Key features include:
+- Robust explore filter and substring search of title, description, instruction
+- Find all offerings and reddit comments of a course
+- Efficient scheduling with text search, timeblocking, and non-conflict course finder
+- Share your schedule through links, image or import it to any calendar
+- more TBD maybe
+
+stack: next.js, typescript, sass, figma, github actions, reddit API, calendar API
+
+<a target="_blank" href="https://github.com/brianrahadi/sfucourses">github</a>&emsp;
+<a target="_blank" href="https://www.sfucourses.com/">website</a>
+## api.sfucourses.com
+![[Pasted image 20250529083606.png]]
+To empower sfucourses.com, I built api.sfucourses.com. REST Server API and data extractor that provides courses and offerings data robustly.
+
+I rebuilt the entire way data is handled. SFU provides their course outline but fetching it all is messy and their API data is not consistent (Unsure which field is required or optional).
+Thus, I provided static-type checking and an API extractor script that regularly updates the data. 
+
+It is also a good time to learn go as I built the entire API from scratch with just its standard library.
+
+stack: go, gocron, postgresql, swagger, scalar
+
+<a target="_blank" href="https://github.com/brianrahadi/sfucourses-api">github</a>&emsp;
+<a target="_blank" href="https://api.sfucourses.com/">website</a>
 ## sfu software systems website (sfussss.org)
 ![[sfussss-website.png]]
 
-spearheaded software systems website and github org. revamped the website, bought the domains, reviewed all the github PRs, migrated repo to typescript. i developed the course explorer feature to display all sosy courses and showing past and future offerings through python api scripting. also integrated sanity cms and created blog feature to show how beautiful sosy is.
+spearheaded software systems website and github org. revamped the website, bought the domains, reviewed all the github PRs, migrated repo to typescript. I developed the course explorer feature to display all sosy courses and showing past and future offerings through python api scripting. also integrated sanity cms and created blog feature to show how beautiful sosy is.
 
 stack: next.js, typescript, sass, figma, github actions, sanity cms
 
