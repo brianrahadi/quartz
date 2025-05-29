@@ -8,7 +8,7 @@ i find the software world fascinating because of its ability to improve our live
 
 i'm interested in learning all aspects of the software development life cycle. from designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
 
-outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with humans (badminton, dance, board games, and karaoke).
+outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
 
 
 some of my writings:
