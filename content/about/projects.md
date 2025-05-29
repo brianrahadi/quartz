@@ -10,16 +10,16 @@ projects can be of many things, but here i am focusing on software-related proje
 ## sfucourses.com
 ![[Pasted image 20250529083059.png]]
 I built sfucourses.com with the goal of exploring and scheduling SFU courses with the best user experience. Best user experience in here I define with
-- having a very fast website load (thanks Next.js SSG)
-- fewest steps possible to do anything (explore/ schedule course)
-- decent UI that makes you come back
+- Fast - very fast website load (thanks Next.js SSG)
+- Simple - intuitive and fewest steps possible to do anything (explore/ schedule course)
+- Clean - decent UI that makes you come back
 
 Key features include:
-- Robust explore filter and substring search of title, description, instruction
+- Robust explore filter and substring search of title, description, instructors
 - Find all offerings and reddit comments of a course
-- Efficient scheduling with text search, timeblocking, and non-conflict course finder
-- Share your schedule through links, image or import it to any calendar
-- more TBD maybe
+- Efficient scheduling with text search, timeblocking, and non-conflicting course finder
+- Share your schedule through links, image, or import it to any calendar
+- more TBD maybe (or you can help and submit PRs :D)
 
 stack: next.js, typescript, sass, figma, github actions, reddit API, calendar API
 
@@ -32,7 +32,7 @@ To empower sfucourses.com, I built api.sfucourses.com. REST Server API and data 
 I rebuilt the entire way data is handled. SFU provides their course outline but fetching it all is messy and their API data is not consistent (Unsure which field is required or optional).
 Thus, I provided static-type checking and an API extractor script that regularly updates the data. 
 
-It is also a good time to learn go as I built the entire API from scratch with just its standard library.
+Was also a good chance to learn go as I built the entire API server from scratch with just its standard library.
 
 stack: go, gocron, postgresql, swagger, scalar
 

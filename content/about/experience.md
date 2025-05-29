@@ -93,7 +93,7 @@ note:
 - <a href="https://langara.ca/programs-and-courses/courses/cpsc/2221.html" target="_blank">cpsc 2221 - database systems</a>
 - <a href="https://langara.ca/programs-and-courses/courses/stat/2281.html" target="_blank">stat 2281 - probability and elementary mathematical statistics</a>
 - <a href="https://langara.ca/programs-and-courses/courses/engl/1130.html" target="_blank">engl 1130 - modern novel, poetry, and movie</a>
-- ta <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1) and <a href="https://langara.ca/programs-and-courses/courses/cpsc/1155.html" target="_blank">cpsc 1155</a> (1)
+- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1) and <a href="https://langara.ca/programs-and-courses/courses/cpsc/1155.html" target="_blank">cpsc 1155</a> (1)
 
 
 **[summer 2022](posts/term-review-2022summer)**
@@ -101,20 +101,20 @@ note:
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/cmpt/276.html" target="_blank">cmpt 276 - introduction to software engineering</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/cmpt/213.html" target="_blank">cmpt 213 - object oriented design in java</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/summer/courses/educ/100w.html" target="_blank">educ 100w - selected questions and issues in education</a>
-- ta <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">cpsc 1030</a> (1/2), <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1/2), and <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">cpsc 1150</a> (1)
+- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">cpsc 1030</a> (1/2), <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1/2), and <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">cpsc 1150</a> (1)
 
 **[fall 2022](posts/term-review-2022fall)**
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/307.html" target="_blank">cmpt 300 - operating systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/371.html" target="_blank">cmpt 371 - networking i</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/383.html" target="_blank">cmpt 383 - comparative programming languages</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/272.html" target="_blank">cmpt 272 - web i - client-side web development</a>
-- ta <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1)
+- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1)
 
 **[spring 2023](posts/term-review-2023spring)**
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/431.html" target="_blank">cmpt 431 - distributed systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/307.html" target="_blank">cmpt 307 - data structures and algorithms</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/363.html" target="_blank">cmpt 363 - user interface design</a>
-- ta <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1050</a> (2)
+- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1050</a> (2)
 
 **summer 2023**
 - software developer co-op at [Visier](https://www.visier.com/)
@@ -138,9 +138,9 @@ note:
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/494.html" target="_blank">cmpt 494 - software systems capstone project i</a>
 - TA <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">cmpt 130</a> (1)
 
-**spring 2025**
+**[spring 2025](posts/toronto-on-review)**
 - software developer co-op at [RBC](https://rbc.com/)
-- building https://www.sfucourses.com/ occassionally
+- building https://www.sfucourses.com/ occassionaly
 
 **summer 2025**
 - software engineer intern at [A Thinking Ape](https://www.athinkingape.com/)
