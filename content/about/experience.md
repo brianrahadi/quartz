@@ -31,7 +31,7 @@ my recent education, work, organization, and my university timeline
 
 > **Agile Developer Co-op at SAP** (jan. 2024 - aug. 2024) <br>
 > killed (lots of) bugs, made features, and received fast track award <br>
-> tech: React, Typescript, Javascript
+> tech: React, Typescript, Javascript, Jest, Jasmine, Github Actions
 
 > **Software Developer Co-op at Visier** (may. 2023 - dec. 2023)<br>
 > implemented various usage tracking, server-side rendered pagination, kubernetes metadata migration<br>
