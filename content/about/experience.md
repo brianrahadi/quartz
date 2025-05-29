@@ -8,7 +8,7 @@ my recent education, work, organization, and my university timeline
 
 ## education
 
-> **Simon Fraser University** (may 2022 - apr. 2025 expected) <br>
+> **Simon Fraser University** (may 2022 - dec. 2025) <br>
 > Bachelor of Science, Computing Science in Software Systems <br>
 > **GPA: 3.8/4.33** <br>
 
