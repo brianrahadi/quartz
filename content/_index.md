@@ -2,16 +2,22 @@
 title: 🏡 Home
 ---
 
-hello! I'm brian. currently studying software systems at simon fraser university.
+Hi! I'm Brian. I'm studying Computer Science at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.\
+I'm currently seeking for 2026 January New Grad Opportunities.
 
-i find the software world fascinating because of its ability to improve our lives on a seemingly infinite scale.
+I'm a software engineer passionate about technology that empower communities.\
+I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
 
-i'm interested in learning all aspects of the software development life cycle. from designing beautiful and usable interfaces, using different programming paradigms, to learning about distributed systems.
+I have also:
+- ta'd 6 cs courses at <a href="https://langara.ca" target="_blank">langara</a> and <a href="https://sfu.ca" target="_blank">sfu</a>
+- led the logistics and web team for <a href="https://sfusurge.com" target="_blank">SFU Surge</a> and <a href="https://sfussss.org" target="_blank">Software Systems Student Society</a>
+- built <a href="https://brianrahadi.com/posts/hope-health-action-haiti-platform-full-stack-report" target="_blank">haiti hospital platform</a> (under <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a>)
+- researched + dev for LLM patch validation capstone (under <a href="https://www.cs.sfu.ca/~wsumner/" target="_blank">Dr. Nick Sumner</a>)
+- been building <a href="https://sfucourses.com" target="_blank">sfucourses.com</a> for funsies
 
-outside software, i enjoy bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
+My favourite side quests are bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
 
-
-some of my writings:
+some of my amateur writings:
 - [posts](posts/) - tales to inspire fellow adventurers;
 - [notes](notes/) - scrolls of wisdom from labyrinths;
 

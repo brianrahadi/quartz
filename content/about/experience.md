@@ -13,13 +13,13 @@ my recent education, work, organization, and my university timeline
 > **GPA: 3.8/4.33** <br>
 
 > **Langara College** (sep. 2020 - apr. 2022) <br>
-> Associate of Science, Computer Science (grad with distinction) <br>
+> Associate of Science, Computer Science (Grad with Distinction) <br>
 > **GPA: 3.99/4.33** <br>
 
 ## work
 
 > **Software Engineer Intern at A Thinking Ape** (may. 2025 - aug. 2025) <br>
->  Building tools and infrastructure, better internal tooling, and onboard tools to buff employee productivity <br>
+>  Building tools and infrastructure, better internal tools, and onboard tools to buff employee productivity <br>
 >  tech: Python, Django, Docker, Docker Compose, Nginx, React, Typescript
 
 > **Software Developer Co-op at RBC** (jan. 2025 - apr. 2025) <br>
@@ -59,8 +59,8 @@ my recent education, work, organization, and my university timeline
 ## timeline
 
 note: 
-- langara (fall 2020 - spring 2022), sfu (summer 2022 - present) <br>
-- (1/2) -> shared section with other ta, 1 -> sole ta for the section
+- langara (fall 2020 - spring 2022), SFU (summer 2022 - present) <br>
+- (1/2) -> shared section with other TA, 1 -> sole TA for the section
 
 **fall 2020**
 - <a href="https://langara.ca/programs-and-courses/courses/apsc/1010.html" target="_blank">apsc 1010 - engineering and technology in society</a>
@@ -118,20 +118,20 @@ note:
 - TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1050</a> (2)
 
 **summer 2023**
-- software developer co-op at [Visier](https://www.visier.com/)
+- Software Developer Co-op at [Visier](https://www.visier.com/)
 - [cmpt 415 - special research projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with brian fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - building an app to digitize data collection process for hospitals in haiti - [github](https://github.sfu.ca/bfraser/415-hha-haiti)
 
 **[fall 2023](posts/things-i-learned-at-visier)**
-- software developer co-op at [Visier](https://www.visier.com/)
+- Software Developer Co-op at [Visier](https://www.visier.com/)
 
 **spring 2024**
-- software developer co-op at [SAP](https://www.sap.com/)
+- Software Developer Co-op at [SAP](https://www.sap.com/)
 - [cmpt 416 - special research projects](http://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/415.html) with brian fraser - [website](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home)
   - continuing to build app for hospitals in haiti - [github](https://github.com/drbfraser/hha-haitihospital)
 
 **summer 2024**
-- software developer co-op at [SAP](https://www.sap.com/)
+- Software Developer Co-op at [SAP](https://www.sap.com/)
 
 **[fall 2024](posts/term-review-2024fall)**
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/373.html" target="_blank">cmpt 373 - software development methods</a>
@@ -140,9 +140,9 @@ note:
 - TA <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">cmpt 130</a> (1)
 
 **[spring 2025](posts/toronto-on-review)**
-- software developer co-op at [RBC](https://rbc.com/)
+- Software Developer Co-op at [RBC](https://rbc.com/)
 - building https://www.sfucourses.com/ occassionaly
 
 **summer 2025**
-- software engineer intern at [A Thinking Ape](https://www.athinkingape.com/)
+- Software Engineer Intern at [A Thinking Ape](https://www.athinkingape.com/)
 
