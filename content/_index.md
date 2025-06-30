@@ -2,10 +2,10 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian. I'm studying Software Systems at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.\
+Hi! I'm Brian and currently studying Software Systems at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.\
 I'm currently seeking for 2026 January New Grad Opportunities.
 
-I'm a software engineer passionate about technology that empower communities.\
+I'm passionate in all things software, especially technology that empower communities.\
 I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
 
 I have also:
