@@ -2,7 +2,7 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian. I'm studying Computer Science at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.\
+Hi! I'm Brian. I'm studying Software Systems at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.\
 I'm currently seeking for 2026 January New Grad Opportunities.
 
 I'm a software engineer passionate about technology that empower communities.\
