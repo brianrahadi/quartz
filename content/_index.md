@@ -9,7 +9,7 @@ I'm passionate in all things software, especially technology that empower commun
 I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
 
 I have also:
-- ta'd 6 cs courses at <a href="https://langara.ca" target="_blank">langara</a> and <a href="https://sfu.ca" target="_blank">sfu</a>
+- ta'd 6 cs courses at <a href="https://langara.ca" target="_blank">Langara</a> and <a href="https://sfu.ca" target="_blank">SFU</a>
 - led the logistics and web team for <a href="https://sfusurge.com" target="_blank">SFU Surge</a> and <a href="https://sfussss.org" target="_blank">Software Systems Student Society</a>
 - built <a href="https://brianrahadi.com/posts/hope-health-action-haiti-platform-full-stack-report" target="_blank">haiti hospital platform</a> (under <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a>)
 - researched + dev for LLM patch validation capstone (under <a href="https://www.cs.sfu.ca/~wsumner/" target="_blank">Dr. Nick Sumner</a>)
