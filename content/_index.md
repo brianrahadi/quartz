@@ -2,7 +2,7 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian, I study Software Systems at Simon Fraser University.
+Hi! I'm Brian, I study Software Systems at Simon Fraser University.\
 I'm currently seeking for New Grad Opportunities starting January 2026.
 
 I'm passionate in all things software, especially technology that empower communities.\
