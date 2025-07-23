@@ -10,7 +10,8 @@ I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a
 
 I have also:
 - ta'd 6 cs courses at <a href="https://langara.ca" target="_blank">Langara</a> and <a href="https://sfu.ca" target="_blank">SFU</a>
-- led the logistics and web team for <a href="https://sfusurge.com" target="_blank">SFU Surge</a> and <a href="https://sfussss.org" target="_blank">Software Systems Student Society</a>
+- co-led  logistics of <a href="https://sfusurge.com" target="_blank">SFU Surge</a>, hosting <a href="https://stormhacks.com" target="_blank">400-person MLH hackathon</a>
+- spearhead websites at <a href="https://sfussss.org" target="_blank">Software Systems Student Society</a>
 - enjoyed hackathons, winning prizes at <a href="https://devpost.com/software/mindfulu-eo6fbg" target="_blank">nwHacks</a> and <a href="https://devpost.com/software/studiolingo" target="_blank">HackTheNorth</a> - Western Canada's and Canada's largest hackathons
 - built <a href="https://brianrahadi.com/posts/hope-health-action-haiti-platform-full-stack-report" target="_blank">haiti hospital platform</a> (under <a href="https://www.sfu.ca/fas/computing/people/faculty/faculty-members/brian-fraser.html" target="_blank">Dr. Brian Fraser</a>)
 - researched + dev for LLM patch validation capstone (under <a href="https://www.cs.sfu.ca/~wsumner/" target="_blank">Dr. Nick Sumner</a>)
