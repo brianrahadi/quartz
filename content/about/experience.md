@@ -19,26 +19,26 @@ my recent education, work, organization, and my university timeline
 ## work
 
 > **Software Engineer Intern at A Thinking Ape** (may. 2025 - aug. 2025) <br>
->  Building tools and infrastructure, better internal tools, and onboard tools to buff employee productivity <br>
+>  Built container log streamer, modern filter query builder, Git viewer <br>
 >  tech: Python, Django, Docker, Docker Compose, Nginx, React, Typescript
 
 > **Software Developer Co-op at RBC** (jan. 2025 - apr. 2025) <br>
-> built APIs for DevSecOps workflows, implemented org-wide automatic password rotation, and enjoying toronto to its fullest <br>
+> CI/CD password rotation, security microservices, password verification pipeline <br>
 > tech: Python, Java, JavaScript, GitHub Actions, Spring, OpenShift, Hashicorp Vault, Dynatrace, Postman
 
 > **Undergraduate Teaching Assistant at SFU** (sep. 2024 - dec. 2024) <br>
 > taught first-years pain of the past (C++)
 
 > **Agile Developer Co-op at SAP** (jan. 2024 - aug. 2024) <br>
-> killed (lots of) bugs, made features, and received fast track award <br>
+> Bar resizing feature, infra config refactor, chart performance optimization <br>
 > tech: React, Typescript, Javascript, Jest, Jasmine, Github Actions
 
 > **Software Developer Co-op at Visier** (may. 2023 - dec. 2023)<br>
-> implemented various usage tracking, server-side rendered pagination, kubernetes metadata migration<br>
+> Usage data ETL, API keys rotation, server-side paginated rendering <br>
 > tech: Scala, Java, Play, Typescript, Cassandra, S3, Protobuf, Kong API Gateway, Splunk, Postman, Mockito
 
 > **Teaching Assistant at Langara College** (feb. 2022 - apr. 2023)<br>
-> solo TA-ed of 30, graded all the assessments super fast (<5 biz days), and tutored courses in the help center<br>
+> solo TA for class of 30, graded all the assessments super fast (<5 biz days), and tutored courses in the help center<br>
 > taught courses in HTML, CSS (1030), JavaScript (1045), Python (1050), Java (1150), and C++ (1155) <br>
 > tutored courses: <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">1030</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">1045</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1050.html" target="_blank">1050</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">1150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1155.html" target="_blank">1155</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1160.html" target="_blank">1160</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/1181.html" target="_blank">1181</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2130.html" target="_blank">2130</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2150.html" target="_blank">2150</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2190.html" target="_blank">2190</a>, <a href="https://langara.ca/programs-and-courses/courses/cpsc/2221.html" target="_blank">2221</a>.
 
