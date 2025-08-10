@@ -8,7 +8,7 @@ I'm currently seeking for New Grad Opportunities starting January 2026.
 I'm passionate in all things software, especially technology that empower communities.\
 I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
 
-I have been a teaching assistant, hackathon avid (<a href="https://sfusurge.com" target="_blank">organizer</a> + <a href="https://devpost.com/brian-rahadi" target="_blank">enjoyer</a>), <a href="https://sfussss.org" target="_blank">club's website lead</a>, and recently been building <a href="https://sfucourses.com" target="_blank">sfucourses.com</a> for my endgame university goal.
+I have been a teaching assistant, hackathon avid (<a href="https://sfusurge.com" target="_blank">organizer</a> + <a href="https://devpost.com/brian-rahadi" target="_blank">enjoyer</a>), <a href="https://sfussss.org" target="_blank">club's website lead</a>, [special project](./posts/hope-health-action-haiti-platform-full-stack-report.md) developer, and recently been building <a href="https://sfucourses.com" target="_blank">sfucourses.com</a> for my endgame university goal.
 
 My favourite side quests are bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
 

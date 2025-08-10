@@ -6,11 +6,11 @@ tags: ["guide"]
 ---
 
 ## background
-this report is written as part of my final report [(cmpt416 - special research project) with dr. brian fraser](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home). i was able to get 99%, thus i hope this report can be quite helpful in general for those who are developing for this platform or just want to lurk the documents.
+this report is written as part of my final report for [(cmpt416 - special research project) with dr. brian fraser](https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt415/home). I spent 8 month developing for a hospital data reporting platform in Haiti in partnership with [Hope Health Action](https://www.hopehealthaction.org/). Here's the [GitHub Project](https://github.com/drbfraser/HHA-HaitiHospital) and [my contributions](https://github.com/drbfraser/HHA-HaitiHospital/commits/main/?author=brianrahadi).
 
 
 ## 1. introduction
-hope health action (hha) - haiti hospital web application is a hospital web application designed to help hospital administrators in haiti hospitals manage their tasks. features include collecting department reports, case studies, broken equipment, employee of the month, and communicating via message boards. the app is also designed to work in english and french using its internalization feature through translated english and french json files.
+Hope Health Action (hha) - haiti hospital web application is a hospital web application designed to help hospital administrators in haiti hospitals manage their tasks. features include collecting department reports, case studies, broken equipment, employee of the month, and communicating via message boards. the app is also designed to work in english and french using its internalization feature through translated english and french json files.
 this report is designed to be an in-depth walk-through of the repository, its full-stack architecture, development, testing, ci/cd pipeline, and tips and tricks on developing the project efficiently and effectively.
 
 in this report, the sections are not structured sequentially in terms of knowledge prerequisite. thus, it is still an effective way to follow the report non-sequentially prioritizing the weak topics first.
