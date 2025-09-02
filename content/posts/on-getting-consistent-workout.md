@@ -32,7 +32,7 @@ Just like atomic habits, you don't rise to the level of your goals, but fall to 
 
 Here's how I define my systems that made it work
 1. Short travel time
-	1. I was always blessed with either a close gym to home or office gym. This is #1 gamechanger as the travel time is always < 10 mins.
+	1. I was always blessed with either a close gym to home or office gym. This is a gamechanger as the travel time is always < 10 mins.
 2. Fixed time
 	1. I know the exact time window that I will go on. It's not randomly decided when I 'feel' like it.
 3. Enjoyable
