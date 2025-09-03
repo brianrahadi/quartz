@@ -44,7 +44,6 @@ IMO, getting to tier 3 companies will be way harder when you are out of school, 
 The goal of co-op better defined is:  
 - get a better job (defined by better fields or better role) or literally just to get a job as a better equipped candidate
 
-  
 ## fieldmaxxing
 
 Computer science field can be quite broad if you want to dig deep enough. Co-op is really good for this, you literally can get experience in embedded systems, full-stack swe, security, devops, infra, AI, data engineer, and mobile development.
@@ -55,7 +54,9 @@ I was grateful that I was able to try out various kinds of industries and sizes,
 
 It's really interesting how each company operates and see the different skillset to get what it takes to thrive in each environment.
 
-Thus, maximize the industries and roles you can be in. It's good, and you are not a 'jobhopper' ;)  
+Thus, maximize the industries and roles you can be in. It's good, and you are not a 'jobhopper' ;) 
+
+A more important point also, co-op is good more for exploration and the industry sometimes labels it as lower than a full-time experience. Sure, it's a job and way better than not having any, but it is important to be aware of its implied lower value status compared to an average full-time experience when it comes to applying for another job.
 
 ## the post-graduation work permit
 
