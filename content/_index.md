@@ -3,7 +3,6 @@ title: 🏡 Home
 ---
 
 Hi! I'm Brian, I study Software Systems at Simon Fraser University.\
-I'm currently seeking for New Grad Opportunities starting January 2026.
 
 I'm passionate in all things software, especially technology that empower communities.\
 I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
