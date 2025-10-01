@@ -26,12 +26,16 @@ Ideally, you will have all the mandatory + optional setup, but we will give some
 
 ## Resources
 
+2 main github repo:
+- https://github.com/brianrahadi/sh25-intro-html-css-js
+- https://github.com/brianrahadi/sh25-intro-react-convex
+
 design:
 - [figma design](https://www.figma.com/design/zFiV1ysTK3ToYRRjHL6NtH/Langara-Hacks-2024---Figma-Workshop-(Community)?node-id=1734-307&node-type=canvas&t=nzLft5l0zUBrtsBA-0)
 
 ### Day 1 HTML/CSS/JS
 - [google slides](https://docs.google.com/presentation/d/1lFNLi1B---NrdC5v1vYgWsaUEXBmUQ4iMrfB7il2RM8/edit?usp=sharing)
-- [github code](https://github.com/brianrahadi/langhacks24-intro-to-web-dev)
+- [github code](https://github.com/brianrahadi/sh25-intro-html-css-js)
 - [notion handbook](https://brianrahadi.notion.site/Coding-Workshop-Resources-93d2d374e4014f0ea29e64b27748bdf3)
 
 Recording:
@@ -40,7 +44,7 @@ Recording:
 ### Day 2 React
 - [google slides](https://docs.google.com/presentation/d/1GaeY6G5KJmgZOTSUWLC04IJJISzctrN71KoWKg6iqII/edit?usp=sharing)
 - [react dev](https://react.dev/learn)
-- [github code](https://github.com/brianrahadi/langhacks24-intro-to-react/blob/main/public/vite.svg)
+- [github code](https://github.com/brianrahadi/sh25-intro-react-convex)
 - [convex](https://www.convex.dev/)
 - [deployment link](https://langhacks24-intro-to-react-dkis.vercel.app/)
 
