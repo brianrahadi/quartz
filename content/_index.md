@@ -2,9 +2,9 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian, I study Software Systems at Simon Fraser University.\
+Hi! I'm Brian, I study Software Systems at Simon Fraser University.
 
-I'm passionate in all things software, especially technology that empower communities.\
+I like all things in all things software, especially technology that empower communities.\
 I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
 
 My favourite side quests are bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
