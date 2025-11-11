@@ -2,12 +2,13 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian, I study Software Systems at Simon Fraser University.
+Hi! I'm Brian, currently a software developer at SAP :0
 
-I enjoy all things software, especially technology that empower communities.\
-I have 2 years of co-op experience in devops, full-stack, tools, and infra at <a href="https://athinkingape.com" target="_blank">A Thinking Ape</a>, <a href="https://rbc.com" target="_blank">RBC</a>, <a href="https://sap.com" target="_blank">SAP</a>, and <a href="https://visier.com" target="_blank">Visier</a>.
+i enjoyed [universitymaxxing](about/experience.md), with the fav 2 being building [sfucourses](https://sfucourses.com) and [Treehouse](https://treehouse.place/)
 
-My favourite side quests are bulgarian split-squatting, reading growth/ slice-of-life books, and doing any activities with peeps (badminton, dance, board games, and karaoke).
+I love learning, brainrotting, and everything in-between with people <3. \
+current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.
+
 
 some of my amateur writings:
 - [posts](posts/) - tales to inspire fellow adventurers;
@@ -19,7 +20,7 @@ and my adventure inventory:
 - [tools](about/tools.md) -  gears and enchancements to slay monsters and conquer dungeons;
 - [books](about/books.md) - legendary tomes that shaped my mind;
 - [failures](about/failures.md) - tales of lost battles that built resilience;
-- [clippings](clippings) - parchments of external knowledges
+- [clippings](clippings) - parchments of external knowledges;
 - [restaurants](https://brianrahadi.notion.site/Restaurant-Reviews-2762ef471f4c44bf8221683723835e87) - taverns for feasts and rest
 
 ![[me.png|300]]

@@ -136,7 +136,7 @@ note:
 **[fall 2024](posts/term-review-2024fall)**
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/373.html" target="_blank">cmpt 373 - software development methods</a>
 - <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/473.html" target="_blank">cmpt 473 - software testing, reliability, and security</a>
-- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/494.html" target="_blank">cmpt 494 - software systems capstone project i</a>
+- <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/494.html" target="_blank">cmpt 494 - software systems capstone project I</a>
 - TA <a href="https://www.sfu.ca/students/calendar/2024/fall/courses/cmpt/130.html" target="_blank">cmpt 130</a> (1)
 
 **[spring 2025](posts/toronto-on-review)**
@@ -145,4 +145,10 @@ note:
 
 **summer 2025**
 - Software Engineer Intern at [A Thinking Ape](https://www.athinkingape.com/)
+- <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/cmpt/495.html" target="_blank">cmpt 495 - software systems capstone project II</a>
 
+**fall 2025**
+- Software Developer at [SAP](https://www.sap.com/) (Part-time)
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/495.html" target="_blank">cmpt 477 - introduction to formal verification</a>
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/376w.html" target="_blank">cmpt 376w - professional responsibility and technical writing</a>
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/mse/112.html" target="_blank">mse 112 - mechatronic design studio I</a>
