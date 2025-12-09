@@ -4,7 +4,7 @@ title: 🏡 Home
 
 Hi! I'm Brian, currently a software developer at SAP :0
 
-i enjoyed [universitymaxxing](about/experience.md), with the fav 2 being building [sfucourses](https://sfucourses.com) and [Treehouse](https://treehouse.place/)
+i enjoyed universitymaxxing, with the fav 2 being building [sfucourses](https://sfucourses.com) and [Treehouse](https://treehouse.place/)
 
 I love learning, brainrotting, and everything in-between with people <3. \
 current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.

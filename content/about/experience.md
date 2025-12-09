@@ -45,13 +45,13 @@ my recent education, work, organization, and my university timeline
 
 ## organization
 > **Co-Director of Logistics at SFU Surge** (jun. 2024 - present) <br>
-> maneuvering logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU tech scene
+> co-directing logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU tech scene
 
 > **Website Commmittee Lead at SFU Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
-> ruling websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
+> running websites at [sfussss](https://www.sfussss.org/) and [systemshacks](https://systemshacks.com/)
 
 > **Website Lead at SFU Indonesian Association** (aug. 2022 - aug. 2023) <br>
-> asked the president to create the role for me, founded [website](https://www.sfuia.org/) and planned out events for my fellow SFU indonesians
+> founded [sfuia.org](https://www.sfuia.org/) and planned out events for my fellow SFU indonesians
 
 > **Vice Lead at Google DSC Langara College** (jul. 2021 - apr. 2022) <br>
 > hosted events related to tech and software developments
