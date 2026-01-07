@@ -24,9 +24,12 @@ Me specific
 - Air Humidifer - sometimes if the weather is cooked, air needs to be more moisted to prevent nasal congestion
 
 General Tips
-- The earlier the dinner the better, at least 4 hours before sleeping.
-  - This one I struggle the most esp. if hanging out dinner time, but always good to keep in mind.
-- No bluelight 1 hour before ideally
-  - even harder, reading kindle is the way
+- 3-2-1 Sleeping Method from Dan Go
+  - 3 hours before no eat before sleeping
+  - 2 hours before no drink so you don't go pee pee midnight
+  - 1 hour before no bluelight device
+- Don't think too hard before sleeping, thus 1 hour before sleeping kindle time is good
+- Have some plan to do tomorrow mo so no overnight stress
+- 8 hours of sleep yessir
 
 Thank you for reading my sleepmaxxing routine.
