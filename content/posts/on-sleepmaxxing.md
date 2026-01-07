@@ -10,7 +10,7 @@ Here are some stuff that genuinely changed my sleep routine.
 
 Mandatory
 - Weighted Blanket - at least 10% of your b.w. and mine is 18lbs with b.w. around ~170lbs. Some people felt better heavier.
-- Orange Blue Light Blocking Glasses - get the orange one so everything is orange, my eyes don't feel as cooked anymore when and after sleeping, I think it genuinely impacts your sleep.
+- Orange Blue Light Blocking Glasses - get the orange one so everything is orange, my eyes don't feel as cooked anymore when and after sleeping, genuinely impacts your sleep.
 - Govee Smart Lamp
   - when winding down, if need brightness, use red on 1% brightness for least melatonin disruption. otherwise, pitch black.
   - when waking up, don't use alarm, use natural light. I program my Govee to turn light for 10 minutes incrementally from brightness 0% to 100%. best no-sound waking up method fr.
