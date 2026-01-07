@@ -1,3 +1,7 @@
+---
+date: 2025-12-19
+---
+
 ### **Monday – Upper (Chest Focus)**
 1. **Primary Chest:** Incline Barbell Bench Press
 2. **Upper Back (1):** Barbell Row

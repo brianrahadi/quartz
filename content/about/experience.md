@@ -147,7 +147,7 @@ note:
 - Software Engineer Intern at [A Thinking Ape](https://www.athinkingape.com/)
 - <a href="https://www.sfu.ca/students/calendar/2025/summer/courses/cmpt/495.html" target="_blank">cmpt 495 - software systems capstone project II</a>
 
-**fall 2025**
+**[fall 2025](posts/term-review-2025fall)**
 - Software Developer at [SAP](https://www.sap.com/) (Part-time)
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/495.html" target="_blank">cmpt 477 - introduction to formal verification</a>
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/376w.html" target="_blank">cmpt 376w - professional responsibility and technical writing</a>

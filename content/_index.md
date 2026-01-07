@@ -9,7 +9,6 @@ Check out [sfucourses](https://sfucourses.com) and [Treehouse](https://treehouse
 I love learning, brainrotting, and everything in-between with people <3. \
 current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.
 
-
 some of my amateur writings:
 - [posts](posts/) - tales to inspire fellow adventurers;
 - [notes](notes/) - scrolls of wisdom from labyrinths;
