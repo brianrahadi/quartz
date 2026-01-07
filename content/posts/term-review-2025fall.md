@@ -124,5 +124,5 @@ I got the highest grade this term while spending the least time as the courses a
 
 touching grass matters as you develop taste of what's good and what's not in life, and it carries over to everything you do.
 
-fall is good and i am signing off from sfu, thank you very much
+fall is good and i am signing off from sfu, thank you very much<br>
 brian ೭੧(❛〜❛✿)੭೨
