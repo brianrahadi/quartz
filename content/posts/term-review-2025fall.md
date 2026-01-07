@@ -60,9 +60,9 @@ was afraid of the exam as it contained a lot of mathy stuff in the slides, but s
 ### sfu surge
 i lowkenuinely retired from surge and has only been an advisor for the term, but still want to put a highlight on the club as I am really grateful to be part of the surge.
 
-Last StormHacks was the biggest event (900 hackers~), 3 full end-to-end SUB judging. 
+Last StormHacks was the biggest event (~900 hackers), 3 full end-to-end SUB judging. 
 
-The team was even bigger than before and have so many hard-working people :D:D. though most importantly, the people are brainrotted too.
+The team was even bigger than before and has so many hard-working people :D:D. though most importantly, the people are brainrotted too.
 
 
 ### intervarsity sfu
@@ -91,7 +91,7 @@ I was fully prepared to do a lot of job seeking and now forever grateful to be r
 
 hearing from friends, it is definitely the play to spam co-op during your uni years. getting a new grad job is way harder and for co-ops, the playing field is so much easier as the competition as only your uni peers, not some senior dev from asia migrating here.
 
-it also helps that you build a lot of credibility not just from co-ops, but school. I also see a trend where some friends got jobs from referral. thus again, club matters as I barely got friend from classes in SFU.
+it also helps that you build a lot of credibility not just from co-ops, but school. I also see a trend where some friends got jobs from referral. thus, club matters as I barely got friend from classes in SFU.
 
 if you are stuck and in need of help during this crazy season, please please reach out to your friends and people around you. know that you are not fighting alone!
 
