@@ -1,6 +1,6 @@
 ---
 title: term review - fall 2025
-date: 2026-01-06
+date: 2026-01-07T08:36:35Z
 draft: false
 tags:
   - term-review
