@@ -10,7 +10,7 @@ before - [[term-review-2024fall]]
 ## intro
 the lastttt term review has come to an end. I ended my last term this past fall and it was a very chillllll term. I prepared the easiest 3-course workload for the brutality of new grad seeking.
 
-The courses I took this term weren't anything useful (at least directly). the heaviest course of this term is still lighter than the lightest course i took last term (fall 2024). Only spent 4h of school work weekly and had to skip a lot of lectures due to time conflicts.
+The courses I took this term weren't particularly useful (at least directly). the heaviest course of this term is still lighter than the lightest course i took last term (fall 2024). Only spent 4h of school work weekly and had to skip a lot of lectures due to time conflicts.
 
 ## courses
 ### cmpt 477 - introduction to formal verification (Yuepeng Wang)
@@ -21,7 +21,7 @@ The courses I took this term weren't anything useful (at least directly). the he
 
 most of my friends are in this course so it's fun. I finally got to touch my ipad again and write some mathy stuff (it feels good).
 
-the logic for this course is like discrete math and I really like it. A lot of prove-type questions and I loveee it. coz with proving, you know whether you are correct or not in the end, especially during the exam.
+the logic for this course is like discrete math and I really like it. A lot of prove-type questions and I loveee it. coz with proving, you know whether you are correct in the end, especially during the exam.
 
 assignments every 2 weeks-ish, 3 coding assignments, and 1 final project. overall manageable, this is the 'heaviest' course this term for me but it is aight.
 
@@ -66,7 +66,7 @@ The team was even bigger than before and have so many hard-working people :D:D. 
 
 
 ### intervarsity sfu
-I was also not that much part of [InterVarsity SFU](https://www.instagram.com/intervarsitysfu/) anymore, but I enjoyed attending the weekly wednesdays event.
+I was also not that much part of [InterVarsity SFU](https://www.instagram.com/intervarsitysfu/) anymore, but I enjoyed attending the weekly wednesday event.
 
 We have a staff and interns working for the campus and it really helped the logistics compared to the year I served.
 
@@ -77,7 +77,7 @@ Highlight of the term, together with [Chloe](https://www.linkedin.com/in/chloe-y
 
 https://treehouse.place/
 
-Treehouse was such a joy and the perfect club to be in. so whatttt is treehouse? it's a coworking club, you meet for 3 hours weekly to build for something that is not your school or work and demo it to your friends.
+Treehouse was such a joy and the perfect club to be in. so whatttt is treehouse? it's a coworking club, you meet for weekly to build for something that is not your school or work and demo it to your friends.
 
 It holds a special place as most of my university time, i see it's very hard for most to build anything. We just spent our time surviving the school life. But with treehouse, it's even easier to build stuff with and there's also the social accountability aspect too.
 
@@ -91,14 +91,14 @@ I was fully prepared to do a lot of job seeking and now forever grateful to be r
 
 hearing from friends, it is definitely the play to spam co-op during your uni years. getting a new grad job is way harder and for co-ops, the playing field is so much easier as the competition as only your uni peers, not some senior dev from asia migrating here.
 
-it also helps that you build a lot of credibility not just from co-ops, but school. I see also a trend where some friends got jobs from referral. thus again, club matters as I barely got friend from classes in SFU.
+it also helps that you build a lot of credibility not just from co-ops, but school. I also see a trend where some friends got jobs from referral. thus again, club matters as I barely got friend from classes in SFU.
 
 if you are stuck and in need of help during this crazy season, please please reach out to your friends and people around you. know that you are not fighting alone!
 
 ## sfucourses
 On the first few weeks of school, I work for sfucourses more than sfu courses, aha! please check it out https://sfucourses.com/
 
-i am resigning from sfucourses to focus on more life stuff, but I got to tackle the most important thing I wanted to do, which is aggregrating RMP.
+i am resigning from sfucourses to focus on more life stuff, but I got to tackle the most important thing I wanted to do, which is aggregating RMP.
 
 If I have more time (or if you want to do it), here are the major features I wanna make:
 - Automated RMP cron job fetcher (as I run the RMP script manually) to update the RMP data at sfucourses API
@@ -122,7 +122,7 @@ my second-half, I got to work part-time for SAP. So happy to meet my coworkers a
 ## conclusion
 I got the highest grade this term while spending the least time as the courses are even chiller, honestly GPA even matters less now. More leverage to focus on more impact stuff and touching grass with friends. Disclaimer: unless you have specific goal like grad school.
 
-touching grass matters as you develop that taste of what's good and what's not in life, and it carries over to everything you do.
+touching grass matters as you develop taste of what's good and what's not in life, and it carries over to everything you do.
 
 fall is good and i am signing off from sfu, thank you very much
 brian ೭੧(❛〜❛✿)੭೨
