@@ -9,9 +9,11 @@ I love sleeping. There are levels to it. With great sleep, comes great life enjo
 Here are some stuff that genuinely changed my sleep routine.
 
 Mandatory
-- Weighted Blanket 18 lbs - at least 10% of your b.w. and mine is around ~170lbs. Some people felt better heavier, so maybe I should try next time.
+- Weighted Blanket - at least 10% of your b.w. and mine is 18lbs with b.w. around ~170lbs. Some people felt better heavier.
 - Orange Blue Light Blocking Glasses - get the orange one so everything is orange, my eyes don't feel as cooked anymore when and after sleeping, I think it genuinely impacts your sleep.
-- Govee Smart Lamp - don't use alarm, use natural light. I program my Govee to turn light for 10 minutes incrementally from brightness 0% to 100%. best no-sound waking up method fr.
+- Govee Smart Lamp
+  - when winding down, if need brightness, use red on 1% brightness for least melatonin disruption. otherwise, pitch black.
+  - when waking up, don't use alarm, use natural light. I program my Govee to turn light for 10 minutes incrementally from brightness 0% to 100%. best no-sound waking up method fr.
 - Kindle - your no blue-light consumption device
 
 Me specific
@@ -22,7 +24,7 @@ Me specific
 - Air Humidifer - sometimes if the weather is cooked, air needs to be more moisted to prevent nasal congestion
 
 General Tips
-- The earlier the dinner time the better, at least 4 hours before sleeping.
+- The earlier the dinner the better, at least 4 hours before sleeping.
   - This one I struggle the most esp. if hanging out dinner time, but always good to keep in mind.
 - No bluelight 1 hour before ideally
   - even harder, reading kindle is the way
