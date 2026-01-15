@@ -2,9 +2,11 @@
 title: 🏡 Home
 ---
 
-Hi! I'm Brian, currently a software developer at SAP :0
+Hi! I'm Brian, this is my space for anything and everything.
 
-Check out [sfucourses](https://sfucourses.com) and [Treehouse](https://treehouse.place/)!!
+These days, I'm developing chart stuff at SAP and learning what it means to live post-grad life.
+
+I enjoyed my uni life a lot, please check out [SFU Surge](https://sfusurge.com), [Treehouse](https://treehouse.place), and especially [sfucourses](https://sfucourses.com) :D!
 
 I love learning, brainrotting, and everything in-between with people <3. \
 current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.
@@ -20,6 +22,5 @@ and my adventure inventory:
 - [books](about/books.md) - legendary tomes that shaped my mind;
 - [failures](about/failures.md) - tales of lost battles that built resilience;
 - [clippings](clippings) - parchments of external knowledges;
-- [restaurants](https://brianrahadi.notion.site/Restaurant-Reviews-2762ef471f4c44bf8221683723835e87) - taverns for feasts and rest
 
 ![[me.png|300]]
