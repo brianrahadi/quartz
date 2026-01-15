@@ -4,7 +4,7 @@ title: 🏡 Home
 
 Hi! I'm Brian, this is my space for anything and everything.
 
-These days, I'm developing chart stuff at SAP and learning what it means to live post-grad life.
+These days, I'm developing chart visualizations at SAP and learning what it means to live post-grad life.
 
 I enjoyed my uni life a lot, please check out [SFU Surge](https://sfusurge.com), [Treehouse](https://treehouse.place), and especially [sfucourses](https://sfucourses.com) :D!
 
