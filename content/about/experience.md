@@ -1,6 +1,5 @@
 ---
 title: "experience"
-date: 2022-10-10t22:03:02-08:00
 draft: false
 ---
 
