@@ -23,4 +23,4 @@ and my adventure inventory:
 - [failures](about/failures.md) - tales of lost battles that built resilience;
 - [clippings](clippings) - parchments of external knowledges;
 
-![[/posts/attachments/me.png|300]]
+![[posts/attachments/me.png|300]]
