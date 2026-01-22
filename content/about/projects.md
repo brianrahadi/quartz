@@ -1,6 +1,5 @@
 ---
 title: "projects"
-date: 2022-08-22t10:20:08-08:00
 draft: false
 ---
 projects can be of many things, but here i am focusing on software-related projects that i build from clubs, hackathons, personal, or school

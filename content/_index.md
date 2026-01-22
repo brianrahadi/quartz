@@ -18,7 +18,8 @@ some of my amateur writings:
 and my adventure inventory:
 - [experience](about/experience.md) - scroll of my journeys from realm of knowledge and trials;
 - [projects](about/projects.md) - artifacts forged through grit;
-- [tools](about/tools.md) -  gears and enchancements to slay monsters and conquer dungeons;
+- [tools](about/tools.md) -  gears and enchancements to slay monsters;
 - [books](about/books.md) - legendary tomes that shaped my mind;
-- [failures](about/failures.md) - tales of lost battles that built resilience;
+- [failures](about/failures.md) - resume of my cookedry;
 - [clippings](clippings) - parchments of external knowledges;
+- [foods](about/foods.md) - i enjoy hamming;
