@@ -1,14 +1,39 @@
 ---
 title: "books"
-date: 2021-11-22t10:20:08-08:00
 enabletoc: false
 categories: ["books"]
 ---
 
-i have mostly read non-fiction books, but trying to explore other genres as well. here is a list of books that i would recommend to others:
+book is the closest thing to anti-brainrot. I want to embrace the act of brainrotting and reading, just like the ying and yang of life.
 
+
+To Read
+- norwegian wood by haruki murakami
+- antifragile by nassim nicholas taleb
+- rational optimist by matt ridley
+- skin in the game by nassim nicholas taleb
+
+2025
+- days at the morisaki bookshop by satoshi yagisawa - 3.5/5 \
+very casual, slice-of-life reading, I do not get much out of it but it is a good way to unwind.
+- no longer human by osamu dazai - 3.5/5 \
+very trippy and the person is very peculiar, i kinda read it along a long span of time so i didnt get the full picture of it.
+
+2024
+- feel good productivity by ali abdaal - 3/5 \
+pretty good lesson, but I find the ideas a bit similar from other previous books I have read.
+- make time by Jake Knapp and John Zeratsky - 4/5 \
+one of the best self-help books I have read, it's not quite long, and most are actionable stuff.
+
+2023
+- mere christianity by c.s. lewis - 4.5/5 \
+my first christianity book I read on my own accord. Honestly really refreshing as it rewires a lot of my perspective about Christianity to be more about relationships and perspectives, not a religion with strict set of rules.
+- emotionally healthy spirituality by peter scazzero - 4/5 \
+the beauty of genuine emotion, how self-care is not selfish, and knowing thyself is the key to spiritual growth.
+
+2021
 - [atomic habits](posts/atomichabits) by james clear \
-such a good book that helps you to learn the significance of habit and somehow reading it is a bit addicting.
+such a good book that helps you to learn the significance of habit and somehow reading it is a bit addicting. habit stacking ftw
 
 - [how to become a straight-a student](posts/straighta) by cal newport \
 the title can sound cringy i know, but this book changed my perspective about studying. it has helped me to study effectively to enjoy life outside more.
