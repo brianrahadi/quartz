@@ -4,7 +4,7 @@ title: 🏡 Home
 
 Hi! I'm Brian, this is my space for anything and everything.
 
-I love learning, brainrotting, and everything in-between with people <3. \
+I enjoy learning, brainrotting, and doing everything in-between with people <3. \
 current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.
 
 These days, I'm developing chart visualizations at SAP and learning what it means to live post-grad life.
@@ -22,5 +22,3 @@ and my adventure inventory:
 - [books](about/books.md) - legendary tomes that shaped my mind;
 - [failures](about/failures.md) - tales of lost battles that built resilience;
 - [clippings](clippings) - parchments of external knowledges;
-
-![[posts/attachments/me.png|300]]
