@@ -10,7 +10,7 @@ my recent education, work, organization, and my university timeline
 
 > **Simon Fraser University** (may 2022 - dec. 2025) <br>
 > Bachelor of Science, Computing Science in Software Systems <br>
-> **GPA: 3.8/4.33** <br>
+> **GPA: 3.83/4.33** <br>
 
 > **Langara College** (sep. 2020 - apr. 2022) <br>
 > Associate of Science, Computer Science (Grad with Distinction) <br>
@@ -141,7 +141,6 @@ note:
 
 **[spring 2025](posts/toronto-on-review)**
 - Software Developer Co-op at [RBC](https://rbc.com/)
-- building https://www.sfucourses.com/ occassionaly
 
 **summer 2025**
 - Software Engineer Intern at [A Thinking Ape](https://www.athinkingape.com/)
