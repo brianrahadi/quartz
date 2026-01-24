@@ -1,4 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
+import rehypeRaw from "rehype-raw"
+import { PluggableList } from "unified"
 
 export interface Options {
   /** Replace {{ relref }} with quartz wikilinks []() */
@@ -9,6 +11,9 @@ export interface Options {
   removeHugoShortcode: boolean
   /** Replace <figure/> with ![]() */
   replaceFigureWithMdImg: boolean
+
+  /** Replace org latex fragments with $ and $$ */
+  replaceOrgLatex: boolean
 }
 
 const defaultOptions: Options = {
@@ -16,12 +21,27 @@ const defaultOptions: Options = {
   removePredefinedAnchor: true,
   removeHugoShortcode: true,
   replaceFigureWithMdImg: true,
+  replaceOrgLatex: true,
 }
 
 const relrefRegex = new RegExp(/\[([^\]]+)\]\(\{\{< relref "([^"]+)" >\}\}\)/, "g")
 const predefinedHeadingIdRegex = new RegExp(/(.*) {#(?:.*)}/, "g")
 const hugoShortcodeRegex = new RegExp(/{{(.*)}}/, "g")
 const figureTagRegex = new RegExp(/< ?figure src="(.*)" ?>/, "g")
+// \\\\\( -> matches \\(
+// (.+?) -> Lazy match for capturing the equation
+// \\\\\) -> matches \\)
+const inlineLatexRegex = new RegExp(/\\\\\((.+?)\\\\\)/, "g")
+// (?:\\begin{equation}|\\\\\(|\\\\\[) -> start of equation
+// ([\s\S]*?) -> Matches the block equation
+// (?:\\\\\]|\\\\\)|\\end{equation}) -> end of equation
+const blockLatexRegex = new RegExp(
+  /(?:\\begin{equation}|\\\\\(|\\\\\[)([\s\S]*?)(?:\\\\\]|\\\\\)|\\end{equation})/,
+  "g",
+)
+// \$\$[\s\S]*?\$\$ -> Matches block equations
+// \$.*?\$ -> Matches inline equations
+const quartzLatexRegex = new RegExp(/\$\$[\s\S]*?\$\$|\$.*?\$/, "g")
 
 /**
  * ox-hugo is an org exporter backend that exports org files to hugo-compatible
@@ -29,16 +49,14 @@ const figureTagRegex = new RegExp(/< ?figure src="(.*)" ?>/, "g")
  * markdown to make it compatible with quartz but the list of changes applied it
  * is not exhaustive.
  * */
-export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options> | undefined> = (
-  userOpts,
-) => {
+export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "OxHugoFlavouredMarkdown",
     textTransform(_ctx, src) {
       if (opts.wikilinks) {
         src = src.toString()
-        src = src.replaceAll(relrefRegex, (value, ...capture) => {
+        src = src.replaceAll(relrefRegex, (_value, ...capture) => {
           const [text, link] = capture
           return `[${text}](${link})`
         })
@@ -46,7 +64,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options> |
 
       if (opts.removePredefinedAnchor) {
         src = src.toString()
-        src = src.replaceAll(predefinedHeadingIdRegex, (value, ...capture) => {
+        src = src.replaceAll(predefinedHeadingIdRegex, (_value, ...capture) => {
           const [headingText] = capture
           return headingText
         })
@@ -54,7 +72,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options> |
 
       if (opts.removeHugoShortcode) {
         src = src.toString()
-        src = src.replaceAll(hugoShortcodeRegex, (value, ...capture) => {
+        src = src.replaceAll(hugoShortcodeRegex, (_value, ...capture) => {
           const [scContent] = capture
           return scContent
         })
@@ -62,12 +80,33 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options> |
 
       if (opts.replaceFigureWithMdImg) {
         src = src.toString()
-        src = src.replaceAll(figureTagRegex, (value, ...capture) => {
+        src = src.replaceAll(figureTagRegex, (_value, ...capture) => {
           const [src] = capture
           return `![](${src})`
         })
       }
+
+      if (opts.replaceOrgLatex) {
+        src = src.toString()
+        src = src.replaceAll(inlineLatexRegex, (_value, ...capture) => {
+          const [eqn] = capture
+          return `$${eqn}$`
+        })
+        src = src.replaceAll(blockLatexRegex, (_value, ...capture) => {
+          const [eqn] = capture
+          return `$$${eqn}$$`
+        })
+
+        // ox-hugo escapes _ as \_
+        src = src.replaceAll(quartzLatexRegex, (value) => {
+          return value.replaceAll("\\_", "_")
+        })
+      }
       return src
+    },
+    htmlPlugins() {
+      const plugins: PluggableList = [rehypeRaw]
+      return plugins
     },
   }
 }

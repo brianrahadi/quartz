@@ -1,8 +1,10 @@
 import { GlobalConfiguration } from "../cfg"
+import { ValidLocale } from "../i18n"
 import { QuartzPluginData } from "../plugins/vfile"
 
 interface Props {
   date: Date
+  locale?: ValidLocale
 }
 
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
@@ -20,6 +22,6 @@ export function formatDate(d: Date): string {
   return d.toLocaleDateString("sv-SE").replace(/-/g, ".")
 }
 
-export function Date({ date }: Props) {
-  return <>{formatDate(date)}</>
+export function Date({ date, locale }: Props) {
+  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
 }
