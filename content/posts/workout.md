@@ -42,4 +42,4 @@ my routine :DD
 6. **Rear Delts (2):** Reverse Pec Deck
 7. **Abs (2):** Cable Crunches
 
-it's funny how i didn't like the idea of working out earlier because of how time consuming and the protein maxxing culture. right now, I enjoy the routine it gives. really grateful of my intern friends that pulled me back in '23 :D
+it's funny how i didn't like the idea of working out earlier because of how time consuming and the protein maxxing culture. right now, I enjoy the routine it gives and it's not really just about bro strength, doing hinges and squats really helps with my posture and flexibility. really grateful of my intern friends that pulled me back in '23 :D.
