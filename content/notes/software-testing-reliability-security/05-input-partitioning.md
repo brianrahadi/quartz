@@ -1,3 +1,8 @@
+---
+title: Input Partitioning
+date: 2025-09-01
+---
+
 ## background
 - testing involves running software and compare observed with expected
 - problem - input domain infinite

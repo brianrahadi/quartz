@@ -1,3 +1,12 @@
+---
+title: Advanced EC2
+date: 2024-01-22
+---
+
+Notes take
+
+Prev: [[6-containers-ecs]] \
+Next: [[8-elastic-load-balancing]]
 ## Bootstraping EC2 using User Data
 
 Bootstrapping - process to allow system to self-configure. It allows EC2 build automation.

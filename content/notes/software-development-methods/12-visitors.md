@@ -1,3 +1,8 @@
+---
+title: Visitors
+date: 2025-09-01
+---
+
 ## problem - add new behaviour to set of types
 
 - different class perform same action differently

@@ -1,3 +1,8 @@
+---
+title: Design Patterns
+date: 2025-09-01
+---
+
 ## background
 complexity
 - has many forms

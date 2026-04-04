@@ -1,3 +1,12 @@
+---
+title: Route 53
+date: 2024-01-22
+---
+
+Notes take
+
+Prev: [[7-advanced-ec2]] \
+Next: [[9-elastic-load-balancing]]
 ## R53 Public Hosted Zones
 
 A **R53 Hosted Zone** is a DNS database for domain

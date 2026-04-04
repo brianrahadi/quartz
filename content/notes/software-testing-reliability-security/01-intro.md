@@ -1,3 +1,8 @@
+---
+title: Intro
+date: 2025-09-01
+---
+
 ## software quality
 roles determines quality attributes aspects of software
 - end users

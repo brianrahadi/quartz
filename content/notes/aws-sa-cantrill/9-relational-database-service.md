@@ -1,3 +1,11 @@
+---
+title: Relational Database Service
+date: 2024-01-22
+---
+
+Notes take
+
+Prev: [[8-route-53]] \
 ## Refresher
 
 Relational (SQL) vs Non-relational (NoSQL)

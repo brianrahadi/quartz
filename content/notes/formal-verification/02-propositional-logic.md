@@ -1,3 +1,8 @@
+---
+title: Propositional Logic
+date: 2025-09-01
+---
+
 ### syntax
 atom 
 - truth symbols true and false

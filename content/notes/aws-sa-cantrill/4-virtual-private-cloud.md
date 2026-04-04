@@ -1,3 +1,10 @@
+---
+title: Virtual Private Cloud
+date: 2024-01-22
+---
+
+Notes take
+
 Prev: [[3-simple-storage-service]] \
 Next: [[5-elastic-compute-cloud]]
 ## VPC Security Groups

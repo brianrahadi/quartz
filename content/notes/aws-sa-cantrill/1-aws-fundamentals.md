@@ -1,3 +1,10 @@
+---
+title: AWS Fundamentals
+date: 2024-01-22
+---
+
+Notes take
+
 Next: [[2-iam-accounts-aws-orgs]]
 ### AWS Services
 public vs private services in terms of networking

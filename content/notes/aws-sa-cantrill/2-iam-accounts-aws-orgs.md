@@ -1,3 +1,10 @@
+---
+title: IAM, Accounts, and AWS Organisations
+date: 2024-01-22
+---
+
+Notes take
+
 Prev: [[1-aws-fundamentals]] \
 Next: [[3-simple-storage-service]]
 ## IAM, Accounts, and AWS Organisations

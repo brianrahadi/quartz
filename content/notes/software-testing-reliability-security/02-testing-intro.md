@@ -1,4 +1,8 @@
-before - [[notes/software-testing-reliability-security/01-intro|01-intro]]
+---
+title: Testing Intro
+date: 2025-09-01
+---
+
 ## why test
 role of test - measure software quality to give confidence
 

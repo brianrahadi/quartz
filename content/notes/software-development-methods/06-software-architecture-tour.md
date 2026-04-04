@@ -1,3 +1,8 @@
+---
+title: Software Architecture Tour
+date: 2025-09-01
+---
+
 ## intro
 software architecture - tool to manage and guide complexity through design
 - overall structure of system, include components

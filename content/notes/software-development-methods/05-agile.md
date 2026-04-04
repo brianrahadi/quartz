@@ -1,4 +1,8 @@
-Agility, Refinement, and Integration
+---
+title: Agile, Refinement, and Integration
+date: 2025-09-01
+---
+
 ## background
 
 Previously, NASA used agile-ish, reintroduced in 1990s

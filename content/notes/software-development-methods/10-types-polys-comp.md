@@ -1,3 +1,8 @@
+---
+title: Types, Polymorphism, and Composition
+date: 2025-09-01
+---
+
 ## why types
 
 cons

@@ -1,3 +1,8 @@
+---
+title: Intro
+date: 2025-09-01
+---
+
 formal verification - prove or disprove correctness of system w.r.t. to a specification
 
 diff between testing:

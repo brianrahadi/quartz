@@ -1,3 +1,8 @@
+---
+title: UI Testing
+date: 2025-09-01
+---
+
 recall - top of automated testing pyramid is most value and cost
 
 how to automate?

@@ -1,5 +1,11 @@
+---
+title: Containers and ECS
+date: 2024-01-22
+---
 
-## Intro to Containers
+Notes take
+
+Prev: [[5-elastic-compute-cloud]] \## Intro to Containers
 
 Virtualization problem - heavy usage because operating system is duplicated on each application that is hosted on 1 host.1
 - Before: App with OS  M---1 AWS Hypervisor + AWS EC2 Host

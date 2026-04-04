@@ -1,3 +1,8 @@
+---
+title: Modern C++
+date: 2025-09-01
+---
+
 ## intro
 cpp was complicated
 - pointers

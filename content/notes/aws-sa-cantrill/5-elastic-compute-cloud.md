@@ -1,3 +1,10 @@
+---
+title: Elastic Compute Cloud
+date: 2024-01-22
+---
+
+Notes take
+
 Prev: [[4-virtual-private-cloud]] \
 ## Virtualization 101
 Process of running more than 1 OS on piece of hardware/ server

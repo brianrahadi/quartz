@@ -1,3 +1,8 @@
+---
+title: Unit Testing
+date: 2025-09-01
+---
+
 before - [[02-testing-intro]]
 
 note: same as [[08-unit-testing]]

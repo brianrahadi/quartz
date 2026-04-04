@@ -1,3 +1,8 @@
+---
+title: Object-Oriented Programming
+date: 2025-09-01
+---
+
 ## why oop
 superficial reason is straightforward
 

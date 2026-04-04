@@ -1,3 +1,10 @@
+---
+title: Simple Storage Service
+date: 2024-01-22
+---
+
+Notes take
+
 Prev: [[2-iam-accounts-aws-orgs]] \
 Next: [[4-virtual-private-cloud]]
 ### S3 Security

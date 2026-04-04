@@ -1,3 +1,8 @@
+---
+title: Complexity
+date: 2025-09-01
+---
+
 abstract - foundation before code
 
 ## why care about software complexity

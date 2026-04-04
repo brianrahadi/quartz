@@ -1,3 +1,8 @@
+---
+title: Generics
+date: 2025-09-01
+---
+
 ## background
 generic programming - idea that algorithm should be written once
 - element abstracted
