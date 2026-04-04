@@ -4,8 +4,8 @@ title: 🏡 Home
 
 Hi! I'm Brian, this is my space for anything and everything.
 
-I enjoy learning, brainrotting, and doing everything in-between with people <3. \
-current favourite side quests: bulgarian split-squatting, growth/ slice-of-life books, pump-it-up.
+I enjoy learning, brainrotting, and doing everything in-between with my partner <3. \
+current favourite side quests: [pump-it-up](posts/workout.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
 
 These days, I'm developing chart visualizations at SAP and learning what it means to live post-grad life.
 
@@ -14,5 +14,6 @@ I enjoyed my uni life a lot, please check out [SFU Surge](https://sfusurge.com),
 some of my amateur writings:
 - [posts](posts/): tales to inspire fellow adventurers;
 - [notes](notes/): scrolls of wisdom from labyrinths;
+- [clippings](clippings/): runes of knowledge from other cities;
 
-[more about me](about/)!
+[experience](experience/) - [projects](projects/) - [tools](tools/) - [books](books/)

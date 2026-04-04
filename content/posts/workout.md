@@ -1,6 +1,7 @@
 ---
 date: 2025-12-19
 ---
+my routine :DD
 
 ### **Monday – Upper (Chest Focus)**
 1. **Primary Chest:** Incline Barbell Bench Press
@@ -15,7 +16,7 @@ date: 2025-12-19
 
 1. **Primary Squat:** Barbell Back Squat
 2. **Weighted Pull-up:** Weighted Pull-ups
-3. **Secondary Ham:** Romanian Deadlift
+3. **Secondary Ham:** Barbell Hinge
 4. **Quad Iso:** Leg Extension
 5. **Triceps (1):** Triceps Overhead
 6. **Rear Delts (1):** Face Pulls
@@ -40,3 +41,5 @@ date: 2025-12-19
 5. Triceps (2):** Triceps Dip
 6. **Rear Delts (2):** Reverse Pec Deck
 7. **Abs (2):** Cable Crunches
+
+it's funny how i didn't like the idea of working out earlier because of how time consuming and the protein maxxing culture. right now, I enjoy the routine it gives. really grateful of my intern friends that pulled me back in '23 :D

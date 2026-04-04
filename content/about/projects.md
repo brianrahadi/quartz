@@ -17,8 +17,8 @@ Key features include:
 - Robust explore filter and substring search of title, description, instructors
 - Find all offerings and reddit comments of a course
 - Efficient scheduling with text search, timeblocking, and non-conflicting course finder
+- Course-level RateMyProfessors Reviews (compare all profs teaching the same course)
 - Share your schedule through links, image, or import it to any calendar
-- more TBD maybe (or you can help and submit PRs :D)
 
 stack: next.js, typescript, sass, figma, github actions, reddit API, calendar API
 
