@@ -9,8 +9,6 @@ current favourite side quests: [pump-it-up](posts/pump-it-up.md), growth/ slice-
 
 These days, I'm developing chart visualizations at SAP and learning what it means to live post-grad life.
 
-I enjoyed my uni life a lot, please check out [SFU Surge](https://sfusurge.com), [Treehouse](https://treehouse.place), and especially [sfucourses](https://sfucourses.com) :D!
-
 some of my amateur writings:
 - [posts](posts/): tales to inspire fellow adventurers;
 - [notes](notes/): scrolls of wisdom from labyrinths;
