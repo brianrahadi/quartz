@@ -17,6 +17,9 @@ my recent education, work, organization, and my university timeline
 
 ## work
 
+> **Software Developer at SAP** (oct. 2025 - present) <br>
+> Back to my day 2s team
+
 > **Software Engineer Intern at A Thinking Ape** (may. 2025 - aug. 2025) <br>
 >  Built container log viewer, modern filter query builder, Git viewer <br>
 >  tech: Python, Django, Docker, Docker Compose, Nginx, React, Typescript
@@ -43,7 +46,8 @@ my recent education, work, organization, and my university timeline
 
 
 ## organization
-> **Co-Director of Logistics at SFU Surge** (jun. 2024 - present) <br>
+> **Host at Treehouse** (may. 2025 - dec. 2025) <br>
+> **Co-Director of Logistics at SFU Surge** (jun. 2024 - jan. 2025) <br>
 > co-directing logistics at [sfu surge](https://www.sfusurge.com/) for sfu's biggest hackathon at [stormhacks](https://www.stormhacks.com/), projects at stormforge, and flourishing SFU tech scene
 
 > **Website Commmittee Lead at SFU Software Systems Student Society** (nov. 2022 - aug. 2024) <br>
