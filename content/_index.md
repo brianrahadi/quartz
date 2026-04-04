@@ -5,7 +5,7 @@ title: 🏡 Home
 Hi! I'm Brian, this is my space for anything and everything.
 
 I enjoy learning, brainrotting, and doing everything in-between with my partner <3. \
-current favourite side quests: [pump-it-up](posts/workout.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
+current favourite side quests: [pump-it-up](posts/pump-it-up.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
 
 These days, I'm developing chart visualizations at SAP and learning what it means to live post-grad life.
 
