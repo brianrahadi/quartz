@@ -11,8 +11,8 @@ Making sfucourses was pretty fun. The last checklist thing I want to do in Uni i
 
 so what problem did it solve? I started it back in late 2024 because i was annoyed with the current way of looking up for courses, scheduling it, and the disjointed course reviews.
 - Looking up courses and scheduling in gosfu requires you to login and go through a couple of pages, which is annoying.
-- You can look up reviews on a professor-level, but not course-level, and course-level reviews are more important imo as you can see how each professor compares.
-    - Professor with a rating of 3 can mean the person is a 1 for course A and 5 for course B, so you have to keep that in mind.
+- You can look up reviews on a professor-level, but not course-level, and course-level reviews are more important imo as you can see how each professor compares in a course.
+- Also, professor with a rating of 3 can mean the person is a 1 for course A and 5 for course B, so you have to average the review out only for that specific course.
 - I also just want a web with nicer UX and the ability to share your schedule
 
 I learned a lot more about web dev, golang, making it accessible and fast with SSR, docker, backend deployment, and most importantly, pennypinchmaxxing by using all the free deployment tools - vercel, render, uptimerobot is da goats.
@@ -33,8 +33,8 @@ highlights:
 - had to do the linkedin marketing, [first](https://www.linkedin.com/posts/brianrahadi_sfu-students-course-registration-times-are-activity-7341916811694678017-u33e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5DfKcBXiam4fcN-wFWur35ZJPkwABXPwI), [second](https://www.linkedin.com/posts/brianrahadi_sfu-students-spring-enrollment-email-is-activity-7385085787073208320-lzvc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5DfKcBXiam4fcN-wFWur35ZJPkwABXPwI)
 
 acknowledgements:
-- https://mcgill.courses
+- https://mcgill.courses for the exploring UX
 - [Emerald Wu](https://www.linkedin.com/in/emerald-wu/) for Scheduling Feature
 - [Faiz Mustanzar](https://www.linkedin.com/in/faizmustansar/) for initial RMP Scraper code
 - https://treehouse.place for the banger coworking sessions
-- [Anderson Tseng](https://github.com/Highfire1/Highfire1) for the prerequisite graph
+- [Anderson Tseng](https://github.com/Highfire1/Highfire1) for the prerequisite graph and parsing
