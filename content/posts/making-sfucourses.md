@@ -13,7 +13,8 @@ so what problem did it solve? I started it back in late 2024 because i was annoy
 - Looking up courses and scheduling in gosfu requires you to login and go through a couple of pages, which is annoying.
 - You can look up reviews on a professor-level, but not course-level, and course-level reviews are more important imo as you can see how each professor compares in a course.
 - Also, professor with a rating of 3 can mean the person is a 1 for course A and 5 for course B, so you have to average the review out only for that specific course.
-- I also just want a web with nicer UX and the ability to share your schedule
+- Graph-view of all courses connected with its prereqs and coreqs and see how it all connects. maybe i'm such a nerd but it is so cool!
+- I also just want a web with nicer UX and the ability to share your schedule or even your degree progress
 
 I learned a lot more about web dev, golang, making it accessible and fast with SSR, docker, backend deployment, and most importantly, pennypinchmaxxing by using all the free deployment tools - vercel, render, uptimerobot is da goats.
 
