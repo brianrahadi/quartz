@@ -29,7 +29,6 @@ flowchart TB
   style SCRAPER fill:transparent,stroke:#3b82f6,stroke-width:2px
   style API fill:transparent,stroke:#0ea5e9,stroke-width:2px
   style FE fill:transparent,stroke:#10b981,stroke-width:2px
-  style EXT_APP fill:transparent,stroke:#8b5cf6,stroke-width:2px
 
   subgraph EXT["External data sources"]
     SFU["SFU Outlines API<br/><i>sfu.ca/outlines</i>"]
