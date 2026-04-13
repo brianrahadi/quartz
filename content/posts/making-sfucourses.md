@@ -22,7 +22,99 @@ repositories:
 - https://github.com/brianrahadi/sfucourses-api - Golang API Server + Scraper
 - https://github.com/brianrahadi/rmp-scraper - Python Selenium Scraper
 
-highlights:
+## architecture
+``` mermaid
+flowchart TB
+  style EXT fill:transparent,stroke:#f59e0b,stroke-width:2px
+  style SCRAPER fill:transparent,stroke:#3b82f6,stroke-width:2px
+  style API fill:transparent,stroke:#0ea5e9,stroke-width:2px
+  style FE fill:transparent,stroke:#10b981,stroke-width:2px
+
+  subgraph EXT["External data sources"]
+    SFU["SFU Outlines API<br/><i>sfu.ca/outlines</i>"]
+    RMP["RateMyProfessors<br/><i>ratemyprofessors.com</i>"]
+  end
+
+  subgraph SCRAPER["rmp-scraper (Python)"]
+    SC["Scrapy spider<br/>dumps professors → JSON"]
+  end
+
+  subgraph API["sfucourses-api · Go · api.sfucourses.com"]
+    FETCH["Data extractor script<br/>fetches &amp; normalises SFU data"]
+    JSON["JSON files on disk<br/>courses, sections, instructors"]
+    SERVER["HTTP server<br/>std lib · Docker"]
+    UPDATE["POST /update<br/>password-protected"]
+
+    EP1["GET /v1/rest/courses"]
+    EP2["GET /v1/rest/courses/{dept}/{num}"]
+    EP3["GET /v1/rest/sections/{term}/{dept}/{num}"]
+    EP4["GET /v1/rest/instructors"]
+    EP5["GET /v1/rest/instructors/{name}"]
+    EP6["GET /v1/rest/courses/{dept}/{num}/offerings"]
+
+    FETCH --> JSON
+    JSON --> SERVER
+    UPDATE --> JSON
+    SERVER --> EP1
+    SERVER --> EP2
+    SERVER --> EP3
+    SERVER --> EP4
+    SERVER --> EP5
+    SERVER --> EP6
+  end
+
+  subgraph FE["sfucourses · Next.js · sfucourses.com"]
+    RQ["React Query<br/>client-side cache"]
+
+    subgraph HOME["/  home"]
+      H1["GET /v1/rest/courses"]
+    end
+    subgraph EXPLORE["/explore"]
+      EX1["GET /v1/rest/courses"]
+      EX2["GET /v1/rest/courses/{dept}/{num}"]
+      EX3["GET /v1/rest/sections/{term}/{dept}/{num}"]
+      EX4["GET /v1/rest/instructors"]
+      EX5["GET /v1/rest/courses/{dept}/{num}/offerings"]
+    end
+    subgraph SCHEDULE["/schedule"]
+      S1["GET /v1/rest/courses"]
+      S2["GET /v1/rest/courses/{dept}/{num}"]
+      S3["GET /v1/rest/sections/{term}/{dept}/{num}"]
+      S4["localStorage + URL params<br/>.ics export · share link"]
+    end
+    subgraph GRAPH["/graph"]
+      G1["SFU Outlines API direct<br/>/{year}/{term}/{dept}"]
+      G2["GET /v1/rest/courses/{dept}/{num}/offerings"]
+    end
+    subgraph PROGRESS["/progress"]
+      P1["GET /v1/rest/courses/{dept}/{num}"]
+      P2["GET /v1/rest/courses/{dept}/{num}/offerings"]
+      P3["localStorage<br/>degree progress state"]
+    end
+
+    RQ --> HOME
+    RQ --> EXPLORE
+    RQ --> SCHEDULE
+    RQ --> GRAPH
+    RQ --> PROGRESS
+  end
+
+  SFU -->|"periodic fetch"| FETCH
+  RMP -->|"scraped"| SC
+  SC -->|"POST /update"| UPDATE
+
+  EP1 -->|"React Query"| RQ
+  EP2 -->|"React Query"| RQ
+  EP3 -->|"React Query"| RQ
+  EP4 -->|"React Query"| RQ
+  EP5 -->|"React Query"| RQ
+  EP6 -->|"React Query"| RQ
+  SFU -->|"direct (graph page)"| G1
+```
+
+Note: the only AI-generated content on this website so far, but human-reviewed ;))
+
+## highlights
 - Golang API Scraping + Server is annoying and fun, having to aggregate all these data from SFU hourly to put into a better API server
 - scraping RMP is quite a pain, had to run PC for an entire day to get the initial data
    - While the initial provided RMP scraper code was working initially, the code is not built for SFU size (too many professors), have to parallelize it into multiple department pages scrapes
