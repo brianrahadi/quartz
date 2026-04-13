@@ -29,6 +29,7 @@ flowchart TB
   style SCRAPER fill:transparent,stroke:#3b82f6,stroke-width:2px
   style API fill:transparent,stroke:#0ea5e9,stroke-width:2px
   style FE fill:transparent,stroke:#10b981,stroke-width:2px
+  style EXT_APP fill:transparent,stroke:#8b5cf6,stroke-width:2px
 
   subgraph EXT["External data sources"]
     SFU["SFU Outlines API<br/><i>sfu.ca/outlines</i>"]
@@ -39,18 +40,18 @@ flowchart TB
     SC["Scrapy spider<br/>dumps professors → JSON"]
   end
 
-  subgraph API["sfucourses-api · Go · api.sfucourses.com"]
+  subgraph API["api.sfucourses.com Go Server"]
     FETCH["Data extractor script<br/>fetches &amp; normalises SFU data"]
-    JSON["JSON files on disk<br/>courses, sections, instructors"]
+    JSON["JSON files on disk<br/>outlines, sections, instructors, reviews"]
     SERVER["HTTP server<br/>std lib · Docker"]
     UPDATE["POST /update<br/>password-protected"]
 
-    EP1["GET /v1/rest/courses"]
-    EP2["GET /v1/rest/courses/{dept}/{num}"]
+    EP1["GET /v1/rest/outlines"]
+    EP2["GET /v1/rest/outlines/{dept}/{num}"]
     EP3["GET /v1/rest/sections/{term}/{dept}/{num}"]
     EP4["GET /v1/rest/instructors"]
     EP5["GET /v1/rest/instructors/{name}"]
-    EP6["GET /v1/rest/courses/{dept}/{num}/offerings"]
+    EP6["GET /v1/rest/reviews/{dept}/{num}"]
 
     FETCH --> JSON
     JSON --> SERVER
@@ -63,32 +64,32 @@ flowchart TB
     SERVER --> EP6
   end
 
-  subgraph FE["sfucourses · Next.js · sfucourses.com"]
+  subgraph FE["sfucourses.com Next.js"]
     RQ["React Query<br/>client-side cache"]
 
-    subgraph HOME["/  home"]
-      H1["GET /v1/rest/courses"]
+    subgraph HOME["/ home"]
+      H1["GET /v1/rest/outlines"]
     end
     subgraph EXPLORE["/explore"]
-      EX1["GET /v1/rest/courses"]
-      EX2["GET /v1/rest/courses/{dept}/{num}"]
+      EX1["GET /v1/rest/outlines"]
+      EX2["GET /v1/rest/outlines/{dept}/{num}"]
       EX3["GET /v1/rest/sections/{term}/{dept}/{num}"]
       EX4["GET /v1/rest/instructors"]
-      EX5["GET /v1/rest/courses/{dept}/{num}/offerings"]
+      EX5["GET /v1/rest/reviews/{dept}/{num}"]
     end
     subgraph SCHEDULE["/schedule"]
-      S1["GET /v1/rest/courses"]
-      S2["GET /v1/rest/courses/{dept}/{num}"]
+      S1["GET /v1/rest/outlines"]
+      S2["GET /v1/rest/outlines/{dept}/{num}"]
       S3["GET /v1/rest/sections/{term}/{dept}/{num}"]
       S4["localStorage + URL params<br/>.ics export · share link"]
     end
     subgraph GRAPH["/graph"]
-      G1["SFU Outlines API direct<br/>/{year}/{term}/{dept}"]
-      G2["GET /v1/rest/courses/{dept}/{num}/offerings"]
+      G1["cached LLM-parsed strict json CSV"]
+      G2["GET /v1/rest/outlines/{dept}/{num}"]
     end
     subgraph PROGRESS["/progress"]
-      P1["GET /v1/rest/courses/{dept}/{num}"]
-      P2["GET /v1/rest/courses/{dept}/{num}/offerings"]
+      P1["GET /v1/rest/outlines/{dept}/{num}"]
+      P2["GET /v1/rest/reviews/{dept}/{num}"]
       P3["localStorage<br/>degree progress state"]
     end
 
@@ -109,7 +110,6 @@ flowchart TB
   EP4 -->|"React Query"| RQ
   EP5 -->|"React Query"| RQ
   EP6 -->|"React Query"| RQ
-  SFU -->|"direct (graph page)"| G1
 ```
 
 Note: the only AI-generated content on this website so far, but human-reviewed ;))
