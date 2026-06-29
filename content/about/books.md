@@ -4,7 +4,7 @@ enabletoc: false
 categories: ["books"]
 ---
 
-book is the closest thing to anti-brainrot. I want to embrace the act of brainrotting and reading, just like the ying and yang of life.
+book is the closest thing to anti-brainrot. I want to embrace the act of brainrotting and reading, just like the yin and yang of life.
 
 
 To Read
