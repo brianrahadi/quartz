@@ -52,25 +52,7 @@ And this law is to be applied in many areas; for my path, things like:
 - building projects that solve a problem really well and marketing it
 - gymming even though you hate it at first and now ended up enjoying it and treat it as 'play'
 - mastering meal prep really well so you don't have to cook everyday
-### unimaxxing highlights
-2023
-- writing for [[sfu-cs-transfer-guide]] and have so many langara students recognize me
-- placed 5/243 for nwhacks!! :D
-- writing again for [[getting-your-first-cs-internship]] and hearing some success stories!!
 
-2024
-- going to [[silicon-valley-trip]]
-- [[hackthenorth-experience]] and winning 2 side prizes
-- hosting workshops! - [[stormhacks-intro-to-git]], [[stormhacks25-intro-web-dev.md]], [[langhacks24-intro-web-dev]], [[intro-to-react]]
-- leading [surge](https://sfusurge.com)' s logistics and got cooked by the 24h hackathon and not sleeping
-- joined leadership at [intervarsity](https://instagram.com/intervarsitysfu), learning more about faith and people. Really enjoying the growth and the camps!
-
-2025
-- extending grad for [[toronto-on-review]] (RBC) and a gaming company at [A Thinking Ape](https://www.athinkingape.com/)!
-- starting [treehouse](https://treehouse.ca/) and hosting the weekly sesh
-- finally, building [sfucourses](https://sfucourses.com) and get thousands people enjoying da site
-
-Apologize for the larp, of course I cannot hide if that's the intent, but if some of you are inspired to do the same, i'm happy that i larped ;).
 ### the end?
 I want to preface again that sometimes, you can try to do it all, but things never work out. hard work is needed of course, but there's always luck in factor and obviously privilege. I am just a little human in the face of universe that has much much more worse things happening now.
 
