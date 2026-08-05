@@ -14,7 +14,7 @@ Looking at my life on a micro-level, things seem fine and chill, but I couldn't 
 
 I came to Canada back in 2021. I started my time first back at Langara. I was a very dirt-cheap dud who realized that Canadian currency is so so cooked compared to Indonesian ones, which is obvious, but I couldn't help but compare everything and just be very very iffy with money.
 
-I used to buy my own haircut tools so I could cut my own hair, limit my spending to as little as possible, and even only plan my eating out on Triple O's Tuesdays as the burger was 5 bucks. I planned what courses I wanted to take for my entire Langara + SFU time by my first term at Langara, which is pretty insane, but I think it's just the autism in me that likes to course plan (shoutout [https://sfucourses.com](https://sfucourses.com) lol).
+I used to buy my own haircut tools so I could cut my own hair, limit my spending to as little as possible, and even only plan my eating out on Triple O's Tuesdays as the burger was 5 bucks. I planned what courses I wanted to take for my entire Langara + SFU time by my first term at Langara, which is pretty insane, but I think it's just the tism in me that likes to course plan (shoutout [https://sfucourses.com](https://sfucourses.com) lol).
 
 ### go breadth out and depth in the friends
 The first thing was realizing that making friends in univesity is an easy mode. Sure, you can still be more outgoing and join some events, but relationship just don't happen as organically. Thus, it is the time for you to farm these relationships (in a genuine way).
