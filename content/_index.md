@@ -4,11 +4,11 @@ title: 🏡 Home
 
 Hi! I'm Brian, this is my space for anything and everything.
 
-I'm currently smashing keyboards at SAP, building chart visualizations!
+currently smashing keyboards at SAP, building chart visualizations!
 
-Outside smashing keyboards: [pump-it-up](posts/pump-it-up.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
+outside smashing keyboards: [pump-it-up](posts/pump-it-up.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
 
-some of my amateur writings:
+some amateur writings:
 - [posts](posts/): tales to inspire fellow adventurers;
 - [notes](notes/): scrolls of wisdom from labyrinths;
 - [clippings](clippings/): runes of knowledge from other cities;
