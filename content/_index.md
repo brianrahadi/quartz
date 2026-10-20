@@ -1,16 +1,13 @@
 ---
 title: 🏡 Home
+hideMeta: true
 ---
 
 Hi! I'm Brian, this is my space for anything and everything.
 
-currently smashing keyboards at SAP, building chart visualizations!
+currently smashing keyboards at SAP, building chart visualizations. <br/>
+outside of work: [pump it up](posts/pump-it-up.md), slice-of-life [books](about/books.md), and [jimming](posts/workout.md).
 
-outside smashing keyboards: [pump-it-up](posts/pump-it-up.md), growth/ slice-of-life [books](books/), and [jimming](posts/workout.md).
-
-some amateur writings:
-- [posts](posts/): tales to inspire fellow adventurers;
-- [notes](notes/): scrolls of wisdom from labyrinths;
-- [clippings](clippings/): runes of knowledge from other cities;
-
-[experience](experience/) - [projects](projects/) - [tools](tools/) - [books](books/)
+- [posts](posts/): tales to inspire fellow adventurers
+- [clippings](clippings/): runes of knowledge from other cities
+- about me: [experience](about/experience.md) · [projects](about/projects.md) · [tools](about/tools.md)

@@ -9,6 +9,7 @@ const recentNotes = [
     filter: (f) =>
       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
     linkToMore: "posts/" as SimpleSlug,
+    showTags: false,
   }),
   // Component.RecentNotes({
   //   title: "Recent Notes",
@@ -44,14 +45,12 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     // Component.Explorer(),
     ...recentNotes.map((c) => Component.DesktopOnly(c)),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
