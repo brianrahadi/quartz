@@ -4,11 +4,19 @@ import { SimpleSlug } from "./quartz/util/path"
 
 const recentNotes = [
   Component.RecentNotes({
-    title: "Recent Writing",
-    limit: 2,
+    title: "Recent Posts",
+    limit: 1,
     filter: (f) =>
       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
     linkToMore: "posts/" as SimpleSlug,
+    showTags: false,
+  }),
+  Component.RecentNotes({
+    title: "Recent Clippings",
+    limit: 1,
+    filter: (f) =>
+      f.slug!.startsWith("clippings/") && f.slug! !== "clippings/index" && !f.frontmatter?.noindex,
+    linkToMore: "clippings/" as SimpleSlug,
     showTags: false,
   }),
   // Component.RecentNotes({
@@ -34,7 +42,12 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList(), Component.MobileOnly(Component.TableOfContents())],
+  beforeBody: [
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents()),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
