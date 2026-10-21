@@ -513,7 +513,7 @@ function buildScene(cols: number): Scene {
     () => SEA,
   )
 
-  const stars = Array.from({ length: Math.round(cols / 4.5) }, () => ({
+  const stars = Array.from({ length: Math.round(cols / 8) }, () => ({
     x: Math.floor(r() * cols),
     y: -PAD + 2 + Math.floor(r() * (PAD + 32)),
     sp: 0.25 + r() * 0.6,
@@ -570,7 +570,7 @@ function buildTables() {
     for (let i = 0; i < 6; i++) p[WIN + i] = n >= WIN_ON[i] ? 0 : 1.01
     P_TABLE.push(p)
     const sky = new Float32Array(TOTAL)
-    for (let y = 0; y < TOTAL; y++) sky[y] = n * (1 - 0.22 * (Math.max(0, y - PAD) / 58) ** 4)
+    for (let y = 0; y < TOTAL; y++) sky[y] = n // flat sky: no dithered horizon glow
     SKY_TABLE.push(sky)
   }
 }
