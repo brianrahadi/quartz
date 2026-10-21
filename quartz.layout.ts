@@ -5,7 +5,7 @@ import { SimpleSlug } from "./quartz/util/path"
 const recentNotes = [
   Component.RecentNotes({
     title: "Recent Posts",
-    limit: 1,
+    limit: 2,
     filter: (f) =>
       f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
     linkToMore: "posts/" as SimpleSlug,
@@ -13,7 +13,7 @@ const recentNotes = [
   }),
   Component.RecentNotes({
     title: "Recent Clippings",
-    limit: 1,
+    limit: 2,
     filter: (f) =>
       f.slug!.startsWith("clippings/") && f.slug! !== "clippings/index" && !f.frontmatter?.noindex,
     linkToMore: "clippings/" as SimpleSlug,
@@ -31,7 +31,7 @@ const recentNotes = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [...recentNotes.map((c) => Component.MobileOnly(c))],
+  afterBody: [Component.PixelVillage(), ...recentNotes.map((c) => Component.MobileOnly(c))],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/brianrahadi",
@@ -49,16 +49,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // title on the left, search + dark mode icons on the right, all in one row
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.PageTitle(), grow: true, justify: "start" },
+        { Component: Component.Search() },
         { Component: Component.Darkmode() },
       ],
+      gap: "0.9rem",
     }),
     // Component.Explorer(),
     ...recentNotes.map((c) => Component.DesktopOnly(c)),
@@ -73,16 +71,14 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // title on the left, search + dark mode icons on the right, all in one row
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.PageTitle(), grow: true, justify: "start" },
+        { Component: Component.Search() },
         { Component: Component.Darkmode() },
       ],
+      gap: "0.9rem",
     }),
     // Component.Explorer(),
     ...recentNotes.map((c) => Component.DesktopOnly(c)),
