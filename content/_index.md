@@ -13,8 +13,10 @@ I love to build communities and tools through my time at <a class="logo-link" ta
 
 These days, I have been enjoying [pump-it up](posts/pump-it-up.md), [books](about/books.md), [jimming](posts/workout.md), and figuring out how to live life.
 
-I also have <a class="logo-link" target="_blank" href="https://github.com/brianrahadi"><img class="inline-logo" src="/static/logos/github.svg" alt="" loading="lazy" /> GitHub</a> and <a class="logo-link" target="_blank" href="https://www.linkedin.com/in/brianrahadi"><img class="inline-logo" src="/static/logos/linkedin.svg" alt="" loading="lazy" /> LinkedIn</a>.
+Attached is my <a class="logo-link" target="_blank" href="https://github.com/brianrahadi"><img class="inline-logo" src="/static/logos/github.svg" alt="" loading="lazy" /> GitHub</a> and <a class="logo-link" target="_blank" href="https://www.linkedin.com/in/brianrahadi"><img class="inline-logo" src="/static/logos/linkedin.svg" alt="" loading="lazy" /> LinkedIn</a>.
 
+Best,
+Brian
 <!-- - [posts](posts/): tales to inspire fellow adventurers
 - [clippings](clippings/): runes of knowledge from other cities -->
 
