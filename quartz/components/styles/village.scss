@@ -10,8 +10,8 @@
   }
 }
 
-// home page: fill the screen so the village sits on the bottom edge when the content is short
-body[data-slug="index"] {
+// fill the screen so the village sits on the bottom edge when a page's content is short
+body {
   & #quartz-root {
     min-height: 100vh;
     display: flex;
