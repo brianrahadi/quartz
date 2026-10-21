@@ -9,3 +9,31 @@
     image-rendering: pixelated;
   }
 }
+
+// home page: fill the screen so the village sits on the bottom edge when the content is short
+body[data-slug="index"] {
+  & #quartz-root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  & #quartz-root > #quartz-body {
+    flex: 1 0 auto;
+
+    & .sidebar {
+      height: auto;
+    }
+  }
+}
+
+// edge-to-edge strip, breaking out of the centered page width
+.village-footer {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: 2rem;
+
+  & .pixel-village {
+    margin: 0;
+  }
+}

@@ -43,3 +43,88 @@ article a.internal:not(.tag-link) {
     }
   }
 }
+
+// inline company/site logos in the home page intro
+article img.inline-logo {
+  width: 1.05em;
+  height: 1.05em;
+  margin: 0 0.15em 0 0;
+  padding: 0;
+  vertical-align: -0.17em;
+  border-radius: 3px;
+  display: inline-block;
+  object-fit: contain;
+  content-visibility: visible;
+}
+
+a.logo-link {
+  white-space: nowrap;
+}
+
+// hide the external-link arrow icon on the home page logo links
+a.logo-link .external-icon {
+  display: none;
+}
+
+// dark/light switch: the new theme sweeps across the whole page with a soft edge.
+// night comes in from the right (the moon's side), day comes back from the left.
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+:root[data-theme-sweep]::view-transition-new(root) {
+  -webkit-mask-size: 250% 100%;
+  mask-size: 250% 100%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+:root[data-theme-sweep="to-dark"]::view-transition-new(root) {
+  -webkit-mask-image: linear-gradient(to left, #000 40%, transparent 60%);
+  mask-image: linear-gradient(to left, #000 40%, transparent 60%);
+  animation: theme-sweep-in-from-right 1.4s ease-in-out both;
+}
+
+:root[data-theme-sweep="to-light"]::view-transition-new(root) {
+  -webkit-mask-image: linear-gradient(to right, #000 40%, transparent 60%);
+  mask-image: linear-gradient(to right, #000 40%, transparent 60%);
+  animation: theme-sweep-in-from-left 1.4s ease-in-out both;
+}
+
+@keyframes theme-sweep-in-from-right {
+  from {
+    -webkit-mask-position: 0% 0;
+    mask-position: 0% 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+}
+
+@keyframes theme-sweep-in-from-left {
+  from {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  to {
+    -webkit-mask-position: 0% 0;
+    mask-position: 0% 0;
+  }
+}
+
+
+// github mark is black with a transparent background: flip it to white in dark mode
+:root[saved-theme="dark"] article img.inline-logo[src$="github.svg"] {
+  filter: invert(1);
+}
+
+// SAP logo is wide (≈2:1), so size it by height
+article img.inline-logo[src$="sap.svg"] {
+  width: auto;
+  height: 0.95em;
+  vertical-align: -0.12em;
+  border-radius: 2px;
+}

@@ -1,12 +1,19 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/village.inline"
 import style from "./styles/village.scss"
 
-// renders nothing itself; it ships the script + styles that turn any
-// <div class="pixel-village"></div> in markdown into the animated 1-bit village
+// used as the page footer: a full-width animated 1-bit village along the bottom of the home page.
+// (the script also mounts any <div class="pixel-village"></div> placed in markdown)
 export default (() => {
-  const PixelVillage: QuartzComponent = () => null
+  const PixelVillage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+    if (fileData.slug !== "index") return null
+    return (
+      <footer class="village-footer">
+        <div class="pixel-village"></div>
+      </footer>
+    )
+  }
   PixelVillage.css = style
   PixelVillage.afterDOMLoaded = script
   return PixelVillage

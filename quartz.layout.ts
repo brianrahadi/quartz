@@ -13,7 +13,7 @@ const recentNotes = [
   }),
   Component.RecentNotes({
     title: "Recent Clippings",
-    limit: 2,
+    limit: 1,
     filter: (f) =>
       f.slug!.startsWith("clippings/") && f.slug! !== "clippings/index" && !f.frontmatter?.noindex,
     linkToMore: "clippings/" as SimpleSlug,
@@ -31,13 +31,9 @@ const recentNotes = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.PixelVillage(), ...recentNotes.map((c) => Component.MobileOnly(c))],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/brianrahadi",
-      LinkedIn: "https://www.linkedin.com/in/brianrahadi/",
-    },
-  }),
+  afterBody: [...recentNotes.map((c) => Component.MobileOnly(c))],
+  // full-width pixel village along the bottom of the home page (replaces the footer)
+  footer: Component.PixelVillage(),
 }
 
 // components for pages that display a single page (e.g. a single note)

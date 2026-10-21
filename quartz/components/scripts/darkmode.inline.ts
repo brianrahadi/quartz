@@ -11,11 +11,23 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 
 document.addEventListener("nav", () => {
   const switchTheme = () => {
-    const newTheme =
-      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    emitThemeChangeEvent(newTheme)
+    const root = document.documentElement
+    const newTheme = root.getAttribute("saved-theme") === "dark" ? "light" : "dark"
+    const apply = () => {
+      root.setAttribute("saved-theme", newTheme)
+      localStorage.setItem("theme", newTheme)
+      emitThemeChangeEvent(newTheme)
+    }
+    // sweep the new theme across the whole page (styles in custom.scss); the pixel village
+    // sees data-theme-sweep and switches instantly so it moves with the page
+    const startViewTransition = (document as any).startViewTransition?.bind(document)
+    if (!startViewTransition || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      apply()
+      return
+    }
+    root.dataset.themeSweep = newTheme === "dark" ? "to-dark" : "to-light"
+    const transition = startViewTransition(apply)
+    transition.finished.finally(() => delete root.dataset.themeSweep)
   }
 
   const themeChange = (e: MediaQueryListEvent) => {

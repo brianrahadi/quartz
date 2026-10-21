@@ -288,8 +288,8 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
-            <Footer {...componentData} />
           </Body>
+          <Footer {...componentData} />
         </div>
       </body>
       {pageResources.js
