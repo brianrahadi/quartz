@@ -159,6 +159,11 @@ article img.inline-logo[src$="sap.svg"] {
   display: none;
 }
 
+// breathing room between the intro and the recent posts / clippings cards
+.page > #quartz-body .page-footer {
+  margin-top: 2.25rem;
+}
+
 // recent posts / clippings below the home page content, as compact bordered cards:
 //   Recent Posts              See 33 more →
 //   on ending school well       2026.07.01
@@ -246,7 +251,7 @@ article img.inline-logo[src$="sap.svg"] {
     margin: 0.7rem 0;
   }
   .page > #quartz-body .page-footer {
-    margin-top: 0.5rem;
+    margin-top: 1.5rem;
   }
   .page-footer .recent-notes {
     padding: 0.6rem 1rem 0.7rem;

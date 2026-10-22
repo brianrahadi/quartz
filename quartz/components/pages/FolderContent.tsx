@@ -9,6 +9,10 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+import { FeedContent } from "./FeedContent"
+import feedStyle from "../styles/feed.scss"
+import { isFeedIndex } from "../../util/feed"
+import { FullSlug } from "../../util/path"
 
 interface FolderContentOptions {
   /**
@@ -29,6 +33,18 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+
+    // feed folders (clippings) render as one scrollable page of cards
+    if (isFeedIndex(fileData.slug)) {
+      const intro =
+        (tree as Root).children.length === 0 ? null : htmlToJsx(fileData.filePath!, tree)
+      return (
+        <div class="popover-hint">
+          {intro && <article class="feed-intro">{intro as ComponentChildren}</article>}
+          <FeedContent allFiles={allFiles} feedSlug={fileData.slug as FullSlug} />
+        </div>
+      )
+    }
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
@@ -121,6 +137,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     )
   }
 
-  FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.css = concatenateResources(style, PageList.css, feedStyle)
   return FolderContent
 }) satisfies QuartzComponentConstructor

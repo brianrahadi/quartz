@@ -40,7 +40,7 @@ async function mouseEnterHandler(
   }
 
   const targetUrl = new URL(link.href)
-  const hash = decodeURIComponent(targetUrl.hash)
+  let hash = decodeURIComponent(targetUrl.hash)
   targetUrl.hash = ""
   targetUrl.search = ""
   const popoverId = `popover-${link.pathname}`
@@ -57,6 +57,9 @@ async function mouseEnterHandler(
   })
 
   if (!response) return
+  if (!hash && response.canonicalUrl?.hash) {
+    hash = decodeURIComponent(response.canonicalUrl.hash)
+  }
   const [contentType] = response.headers.get("Content-Type")!.split(";")
   const [contentTypeCategory, typeInfo] = contentType.split("/")
 

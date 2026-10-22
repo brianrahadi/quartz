@@ -1,3 +1,4 @@
+import { isFeedItem } from "../../util/feed"
 import { QuartzEmitterPlugin } from "../types"
 import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
@@ -117,6 +118,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
 
       for (const [_tree, vfile] of content) {
         if (vfile.data.frontmatter?.socialImage !== undefined) continue
+        if (isFeedItem(vfile.data.slug)) continue
         yield processOgImage(ctx, vfile.data, fonts, fullOptions)
       }
     },
@@ -130,6 +132,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       for (const changeEvent of changeEvents) {
         if (!changeEvent.file) continue
         if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
+        if (isFeedItem(changeEvent.file.data.slug)) continue
         if (changeEvent.type === "add" || changeEvent.type === "change") {
           yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
         }

@@ -64,6 +64,10 @@ async function _navigate(url: URL, isBack: boolean = false) {
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
+      // followed a redirect to an anchor (e.g. a clipping's card on the feed)
+      if (res.canonicalUrl?.hash && !url.hash) {
+        url = res.canonicalUrl
+      }
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
         return res.text()

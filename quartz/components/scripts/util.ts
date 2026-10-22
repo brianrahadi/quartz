@@ -32,7 +32,9 @@ export function removeAllChildren(node: HTMLElement) {
 // way less robust - we only care about our own generated redirects after all.
 const canonicalRegex = /<link rel="canonical" href="([^"]*)">/
 
-export async function fetchCanonical(url: URL): Promise<Response> {
+export type CanonicalResponse = Response & { canonicalUrl?: URL }
+
+export async function fetchCanonical(url: URL): Promise<CanonicalResponse> {
   const res = await fetch(`${url}`)
   if (!res.headers.get("content-type")?.startsWith("text/html")) {
     return res
@@ -42,5 +44,9 @@ export async function fetchCanonical(url: URL): Promise<Response> {
   // to allow the caller to read it if it's was not a redirect
   const text = await res.clone().text()
   const [_, redirect] = text.match(canonicalRegex) ?? []
-  return redirect ? fetch(`${new URL(redirect, url)}`) : res
+  if (!redirect) return res
+  // keep the redirect target (incl. its #hash) so callers can scroll to it
+  const canonicalUrl = new URL(redirect, url)
+  const redirected = await fetch(`${canonicalUrl}`)
+  return Object.assign(redirected, { canonicalUrl })
 }

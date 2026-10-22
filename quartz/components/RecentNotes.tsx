@@ -15,6 +15,8 @@ interface Options {
   showTags: boolean
   filter: (f: QuartzPluginData) => boolean
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
+  /** which date to show next to each note (defaults to the site's defaultDateType) */
+  date?: (f: QuartzPluginData) => Date | undefined
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
@@ -55,7 +57,7 @@ export default ((userOpts?: Partial<Options>) => {
                   </div>
                   {page.dates && (
                     <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                      <Date date={(opts.date ?? ((p) => getDate(cfg, p)))(page)!} locale={cfg.locale} />
                     </p>
                   )}
                   {opts.showTags && (

@@ -29,6 +29,9 @@ const recentOnHome = Component.ConditionalRender({
             f.slug!.startsWith("clippings/") && !isIndex(f.slug!) && !f.frontmatter?.noindex,
           linkToMore: "clippings/" as SimpleSlug,
           showTags: false,
+          // clippings are ordered by when they were saved, not last edited
+          sort: (a, b) => (b.dates?.created?.getTime() ?? 0) - (a.dates?.created?.getTime() ?? 0),
+          date: (f) => f.dates?.created,
         }),
         grow: true,
         basis: "14rem",

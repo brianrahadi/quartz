@@ -1,0 +1,209 @@
+@use "../../styles/variables.scss" as *;
+
+// clippings feed: one column of cards you just keep scrolling
+.feed {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.feed-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 1rem 1.15rem 0.85rem;
+  background: var(--light);
+  scroll-margin-top: 1.5rem;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-color: var(--gray);
+  }
+  // briefly highlight the card you landed on from a link
+  &:target {
+    border-color: var(--tertiary);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--tertiary) 22%, transparent);
+  }
+}
+
+.feed-card-head {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-width: 0;
+}
+
+.feed-avatar {
+  position: relative;
+  flex-shrink: 0;
+  width: 2.35rem;
+  height: 2.35rem;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--highlight);
+  border: 1px solid var(--lightgray);
+  display: grid;
+  place-items: center;
+
+  & > .feed-avatar-letter {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--secondary);
+  }
+  & > img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+    border-radius: 50%;
+    background: var(--light);
+  }
+}
+
+// site favicons are small; pad them so they sit inside the circle
+.feed-card:not([data-host="x.com"]):not([data-host="twitter.com"]) .feed-avatar > img {
+  padding: 0.45rem;
+  box-sizing: border-box;
+  object-fit: contain;
+}
+
+.feed-who {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  line-height: 1.25;
+}
+.feed-author {
+  font-weight: 600;
+  color: var(--dark);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.feed-meta {
+  font-size: 0.82rem;
+  color: var(--gray);
+  display: flex;
+  gap: 0.3rem;
+  min-width: 0;
+
+  & > .feed-host {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  & a.feed-date {
+    color: inherit;
+    background: none;
+    font-weight: normal;
+    white-space: nowrap;
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.feed-title {
+  font-size: 1.15rem;
+  line-height: 1.35;
+  margin: 0.8rem 0 0;
+
+  & > a {
+    color: var(--dark);
+    background: none;
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.feed-body {
+  margin-top: 0.55rem;
+  overflow-wrap: anywhere;
+
+  & > :first-child {
+    margin-top: 0;
+  }
+  & > :last-child {
+    margin-bottom: 0;
+  }
+  & p {
+    margin: 0.55rem 0;
+  }
+  & ul {
+    margin: 0.4rem 0;
+  }
+  & blockquote {
+    margin: 0.6rem 0;
+  }
+  & img {
+    display: block;
+    width: 100%;
+    max-height: 26rem;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid var(--lightgray);
+    margin: 0.6rem 0 0;
+  }
+  // several images in a row (tweets) become a grid
+  & p:has(> img + img) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.4rem;
+    & > img {
+      margin: 0;
+      height: 14rem;
+      max-height: none;
+    }
+  }
+  & iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 0.4rem;
+  }
+}
+
+.feed-card-foot {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+
+  & > a.feed-source {
+    color: var(--gray);
+    background: none;
+    font-weight: normal;
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.feed-end {
+  text-align: center;
+  color: var(--gray);
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+@media all and ($mobile) {
+  .feed-card {
+    padding: 0.9rem 0.95rem 0.8rem;
+  }
+  .feed-body p:has(> img + img) > img {
+    height: 9rem;
+  }
+}
+
+// feed inside a link-hover popover: no outer chrome
+.popover .feed-card {
+  border: none;
+  padding: 0;
+}
+
+:root[saved-theme="dark"] .feed-avatar > .feed-avatar-letter {
+  color: var(--tertiary);
+}

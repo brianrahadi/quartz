@@ -1,9 +1,6 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { FullSlug, resolveRelative } from "../util/path"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-// small profile / GitHub / LinkedIn icons for the top bar, styled like the search + dark mode icons
-const profilePath =
-  "M12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0 2c-4.42 0-9 2.24-9 5v1.5c0 .83.67 1.5 1.5 1.5h15c.83 0 1.5-.67 1.5-1.5V19c0-2.76-4.58-5-9-5z"
+// small GitHub / LinkedIn icons for the top bar, styled like the search + dark mode icons
 
 const links = [
   {
@@ -18,13 +15,8 @@ const links = [
   },
 ]
 
-const SocialLinks: QuartzComponent = ({ fileData }: QuartzComponentProps) => (
+const SocialLinks: QuartzComponent = () => (
   <div class="social-links">
-    <a href={resolveRelative(fileData.slug!, "about/index" as FullSlug)} aria-label="About" title="About">
-      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <path d={profilePath} />
-      </svg>
-    </a>
     {links.map((l) => (
       <a href={l.href} target="_blank" rel="noopener noreferrer" aria-label={l.label} title={l.label}>
         <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -53,11 +45,6 @@ SocialLinks.css = `
   height: 17px;
   fill: var(--darkgray);
   transition: fill 0.15s ease;
-}
-/* the person shape fills less of its box than the logos, so draw it a little larger */
-.social-links a:first-child svg {
-  width: 19px;
-  height: 19px;
 }
 .social-links a:hover svg {
   fill: var(--secondary);
