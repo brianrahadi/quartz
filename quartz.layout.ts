@@ -1,5 +1,46 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
+
+const isIndex = (slug: string) => slug === "index" || slug.endsWith("/index")
+
+// latest posts and clippings, side by side below the home page content
+const recentOnHome = Component.ConditionalRender({
+  component: Component.Flex({
+    components: [
+      {
+        Component: Component.RecentNotes({
+          title: "Recent Posts",
+          limit: 2,
+          filter: (f) => f.slug!.startsWith("posts/") && !isIndex(f.slug!) && !f.frontmatter?.noindex,
+          linkToMore: "posts/" as SimpleSlug,
+          showTags: false,
+        }),
+        grow: true,
+        basis: "14rem",
+        align: "stretch",
+        justify: "start",
+      },
+      {
+        Component: Component.RecentNotes({
+          title: "Recent Clippings",
+          limit: 2,
+          filter: (f) =>
+            f.slug!.startsWith("clippings/") && !isIndex(f.slug!) && !f.frontmatter?.noindex,
+          linkToMore: "clippings/" as SimpleSlug,
+          showTags: false,
+        }),
+        grow: true,
+        basis: "14rem",
+        align: "stretch",
+        justify: "start",
+      },
+    ],
+    wrap: "wrap",
+    gap: "2rem",
+  }),
+  condition: (page) => page.fileData.slug === "index",
+})
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,14 +49,16 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.Flex({
       components: [
-        { Component: Component.PageTitle(), grow: true, justify: "start" },
+        // name, then GitHub/LinkedIn right after it; search + dark mode stay on the right
+        { Component: Component.PageTitle() },
+        { Component: Component.SocialLinks(), grow: true, justify: "start" },
         { Component: Component.Search() },
         { Component: Component.Darkmode() },
       ],
       gap: "0.9rem",
     }),
   ],
-  afterBody: [],
+  afterBody: [recentOnHome],
   // full-width pixel village along the bottom of the home page (replaces the footer)
   footer: Component.PixelVillage(),
 }

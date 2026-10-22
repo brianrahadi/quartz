@@ -37,9 +37,13 @@ article a.internal:not(.tag-link) {
       display: none;
     }
   }
-  // line the table of contents up with the top bar
-  & .sidebar.right {
-    padding-top: 3rem;
+  // table of contents: start level with the post title, then stick near the top when scrolling
+  @media all and (min-width: 1100px) {
+    & .sidebar.right {
+      padding-top: 0;
+      margin-top: 117px;
+      top: 1.5rem;
+    }
   }
 }
 
@@ -155,20 +159,99 @@ article img.inline-logo[src$="sap.svg"] {
   display: none;
 }
 
-// "last updated" dates next to section links on the home page, e.g. posts (jul 1)
-article span.updated {
-  font-size: 0.8em;
-  color: var(--gray);
-  margin-left: 0.25em;
-  white-space: nowrap;
+// recent posts / clippings below the home page content, as compact bordered cards:
+//   Recent Posts              See 33 more →
+//   on ending school well       2026.07.01
+//   pump it up                  2026.04.04
+.page-footer .recent-notes {
+  box-sizing: border-box;
+  height: 100%;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.85rem 1.1rem 0.9rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  column-gap: 1rem;
 
-  &:empty {
-    display: none;
+  & > h3 {
+    grid-column: 1;
+    grid-row: 1;
+    margin: 0;
   }
-  &::before {
-    content: "(";
+  // "See N more →" moves up to the title row
+  & > p {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0;
+    font-size: 0.85rem;
   }
-  &::after {
-    content: ")";
+  & > ul.recent-ul {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    margin: 0.6rem 0 0 0;
+
+    & > li {
+      margin: 0.35rem 0 0 0;
+    }
+    // title and date on one line
+    & > li .section {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.75rem;
+    }
+    & > li .section > .desc {
+      min-width: 0;
+      & > h3 {
+        margin: 0;
+        font-size: 1rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+    & > li .section > .meta {
+      margin: 0;
+      flex-shrink: 0;
+      font-size: 0.85rem;
+    }
+  }
+}
+
+// shorter laptop screens: tighten vertical spacing so the home page and the village fit without scrolling
+@media all and (max-height: 860px) {
+  .page > #quartz-body .page-header > header {
+    margin: 1.75rem 0 1.25rem 0;
+  }
+  @media all and (min-width: 1100px) {
+    .page > #quartz-body .sidebar.right {
+      margin-top: 97px;
+    }
+  }
+  .village-footer {
+    margin-top: 1rem;
+  }
+}
+@media all and (max-height: 720px) {
+  .page > #quartz-body .page-header > header {
+    margin: 1rem 0 0.75rem 0;
+  }
+  @media all and (min-width: 1100px) {
+    .page > #quartz-body .sidebar.right {
+      margin-top: 85px;
+    }
+  }
+  .page article > p {
+    margin: 0.7rem 0;
+  }
+  .page > #quartz-body .page-footer {
+    margin-top: 0.5rem;
+  }
+  .page-footer .recent-notes {
+    padding: 0.6rem 1rem 0.7rem;
+  }
+  .village-footer {
+    margin-top: 0;
   }
 }
