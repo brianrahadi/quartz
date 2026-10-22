@@ -260,3 +260,22 @@ article img.inline-logo[src$="sap.svg"] {
     margin-top: 0;
   }
 }
+
+// home page: a bit more room between the top bar and the intro
+// (padding, not margin: a margin here would collapse into the header's own margin)
+body[data-slug="index"] .center > article {
+  padding-top: 1rem;
+  & > p:first-child {
+    margin-top: 0;
+  }
+}
+@media all and (max-height: 860px) {
+  body[data-slug="index"] .center > article {
+    padding-top: 0.875rem;
+  }
+}
+@media all and (max-height: 720px) {
+  body[data-slug="index"] .center > article {
+    padding-top: 0.6rem;
+  }
+}
