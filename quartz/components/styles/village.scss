@@ -21,8 +21,12 @@ body {
   & #quartz-root > #quartz-body {
     flex: 1 0 auto;
 
+    // size sidebars to their content (so they don't stretch the page) but keep them sticky:
+    // without align-self they stretch to the full page height and have nowhere to stick
     & .sidebar {
       height: auto;
+      max-height: 100vh;
+      align-self: start;
     }
   }
 }

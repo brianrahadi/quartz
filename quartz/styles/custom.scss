@@ -16,10 +16,31 @@ article a.internal:not(.tag-link) {
   }
 }
 
-// header row: "brianrahadi" + search icon + dark mode toggle side by side
-.sidebar.left > .flex-component:first-child {
+// top header row: "brianrahadi" + search icon + dark mode toggle side by side
+.page-header > header > .flex-component {
+  flex: 1;
   width: 100%;
   align-items: center;
+}
+
+// keep the top bar close to the top of the page
+.page > #quartz-body {
+  & .page-header {
+    margin-top: 0;
+  }
+  & .page-header > header {
+    margin: 3rem 0 2rem 0;
+  }
+  // no sidebar content on the left anymore; don't let the empty column add space on mobile
+  @media all and (max-width: 800px) {
+    & .sidebar.left:empty {
+      display: none;
+    }
+  }
+  // line the table of contents up with the top bar
+  & .sidebar.right {
+    padding-top: 3rem;
+  }
 }
 
 // search as an icon only (still opens with click or cmd/ctrl+k)
@@ -127,4 +148,27 @@ article img.inline-logo[src$="sap.svg"] {
   height: 0.95em;
   vertical-align: -0.12em;
   border-radius: 2px;
+}
+
+// nothing renders below the page content anymore, so drop the divider line
+.page .center > hr {
+  display: none;
+}
+
+// "last updated" dates next to section links on the home page, e.g. posts (jul 1)
+article span.updated {
+  font-size: 0.8em;
+  color: var(--gray);
+  margin-left: 0.25em;
+  white-space: nowrap;
+
+  &:empty {
+    display: none;
+  }
+  &::before {
+    content: "(";
+  }
+  &::after {
+    content: ")";
+  }
 }
