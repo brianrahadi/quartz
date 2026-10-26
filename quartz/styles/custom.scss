@@ -279,3 +279,10 @@ body[data-slug="index"] .center > article {
     padding-top: 0.6rem;
   }
 }
+
+// table of contents: actually hide the list when collapsed.
+// Quartz only collapses it by shrinking the box, which works in the tall desktop
+// sidebar but not on mobile (TOC sits above the post) or tablet widths (sidebar is a row).
+.toc ul.toc-content.collapsed {
+  display: none;
+}
