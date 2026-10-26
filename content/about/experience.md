@@ -108,7 +108,7 @@ note:
 - TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1030.html" target="_blank">cpsc 1030</a> (1/2), <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1045</a> (1/2), and <a href="https://langara.ca/programs-and-courses/courses/cpsc/1150.html" target="_blank">cpsc 1150</a> (1)
 
 **[fall 2022](posts/term-review-2022fall)**
-- <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/307.html" target="_blank">cmpt 300 - operating systems</a>
+- <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/300.html" target="_blank">cmpt 300 - operating systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/371.html" target="_blank">cmpt 371 - networking i</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/383.html" target="_blank">cmpt 383 - comparative programming languages</a>
 - <a href="https://www.sfu.ca/students/calendar/2022/fall/courses/cmpt/272.html" target="_blank">cmpt 272 - web i - client-side web development</a>
@@ -118,7 +118,7 @@ note:
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/431.html" target="_blank">cmpt 431 - distributed systems</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/307.html" target="_blank">cmpt 307 - data structures and algorithms</a>
 - <a href="https://www.sfu.ca/students/calendar/2023/spring/courses/cmpt/363.html" target="_blank">cmpt 363 - user interface design</a>
-- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1045.html" target="_blank">cpsc 1050</a> (2)
+- TA <a href="https://langara.ca/programs-and-courses/courses/cpsc/1050.html" target="_blank">cpsc 1050</a> (2)
 
 **summer 2023**
 - Software Developer Co-op at [Visier](https://www.visier.com/)
@@ -151,6 +151,6 @@ note:
 
 **[fall 2025](posts/term-review-2025fall)**
 - Software Developer at [SAP](https://www.sap.com/) (Part-time)
-- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/495.html" target="_blank">cmpt 477 - introduction to formal verification</a>
+- <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/477.html" target="_blank">cmpt 477 - introduction to formal verification</a>
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/cmpt/376w.html" target="_blank">cmpt 376w - professional responsibility and technical writing</a>
 - <a href="https://www.sfu.ca/students/calendar/2025/fall/courses/mse/112.html" target="_blank">mse 112 - mechatronic design studio I</a>
