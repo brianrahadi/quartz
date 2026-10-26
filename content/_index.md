@@ -5,7 +5,7 @@ hideTitle: true
 ---
 Hi! I'm Brian. Welcome to my digital village, where I tend my thoughts ;)
 
-I'm currently developing software at at <a class="logo-link" target="_blank" href="https://sap.com"><img class="inline-logo" src="/static/logos/sap.svg" alt="" loading="lazy" /> SAP</a>.
+I'm currently developing software at <a class="logo-link" target="_blank" href="https://sap.com"><img class="inline-logo" src="/static/logos/sap.svg" alt="" loading="lazy" /> SAP</a> for chart visualizations stuff.
 
 I love building tools and communities — <a class="logo-link" target="_blank" href="https://sfucourses.com"><img class="inline-logo" src="https://sfucourses.com/favicon.ico" alt="" loading="lazy" /> sfucourses</a>, <a class="logo-link" target="_blank" href="https://treehouse.place"><img class="inline-logo" src="/static/logos/treehouse.svg" alt="" loading="lazy" /> Treehouse</a>, and <a class="logo-link" target="_blank" href="https://sfusurge.com"><img class="inline-logo" src="https://sfusurge.com/surge-logo-blue.svg" alt="" loading="lazy" /> SFU Surge</a>.<br/>
 More in my [projects](about/projects.md) and [journey](about/experience.md)!
