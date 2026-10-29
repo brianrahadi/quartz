@@ -1,0 +1,42 @@
+name: Sync reposts to clippings
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-reposts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: ${{ github.repository == 'brianrahadi/quartz' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch reposts
+        env:
+          SUBSTACK_HANDLE: brianrahadi
+          X_HANDLE: brianrahadi
+          X_RSS_FEED_URL: ${{ secrets.X_RSS_FEED_URL }}
+        run: node scripts/sync-reposts.mjs
+      - name: Commit new clippings
+        run: |
+          git add content/clippings .github/sync-reposts
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          n=$(git diff --cached --name-only -- content/clippings | wc -l)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "clippings: sync $n repost(s)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
