@@ -244,10 +244,12 @@ for (const [name, fn] of [
   try {
     const clips = await fn()
     console.log(`${name}: ${clips.length} reposts in feed`)
+    if (process.env.GITHUB_ACTIONS) console.log(`::notice::${name}: ${clips.length} reposts in feed`)
     for (const c of clips) writeClip(c, seen, written)
   } catch (e) {
     failed++
     console.error(`${name} failed: ${e.message}`)
+    if (process.env.GITHUB_ACTIONS) console.log(`::warning::${name} failed: ${e.message}`)
   }
 }
 if (!DRY) {

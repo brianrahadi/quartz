@@ -30,7 +30,7 @@ jobs:
       - name: Commit new clippings
         run: |
           git add content/clippings .github/sync-reposts
-          if git diff --cached --quiet; then
+          if git diff --cached --quiet -- content/clippings; then
             echo "Nothing new."
             exit 0
           fi
