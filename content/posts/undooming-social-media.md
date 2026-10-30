@@ -43,7 +43,7 @@ this one might be me-specific, but mute a lot of people who have less relevance 
 
 lastly, go through seasons of not using it at all and reassess whether it gives you value (or not). as i'm finishing uni and getting more unc, i can see it just feels different.
 
-## maxxing the pros
+## scaling the pros
 
 ### the era of non-chalant
 
