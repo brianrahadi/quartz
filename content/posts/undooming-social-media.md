@@ -1,7 +1,7 @@
 ---
 title: "undooming social media"
 date: 2026-10-30T14:49:00-07:00
-draft: false
+draft: true
 tags: ["guide", "reflections"]
 ---
 i'm currently on a flight to tokyo, and boredom gets me thinking and wandering.
